@@ -4,7 +4,6 @@ const jwt = require("jsonwebtoken");
 const User = require("../Schema/UsersSchema");
 const router = express.Router();
 
-// Đăng ký người dùng
 router.post("/register", async (req, res) => {
   try {
     const { username, email, password } = req.body;
@@ -12,33 +11,40 @@ router.post("/register", async (req, res) => {
     let existingEmail = await User.findOne({ email });
     if (existingEmail) {
       return res.status(400).json({
-        success: false,
         errors: "Email đã được sử dụng.",
       });
     }
     let existingUsername = await User.findOne({ 
       username: { $regex: new RegExp(`^${lowercaseUsername}$`, 'i') }
     });
+    let existingUser = await User.findOne({ email: req.body.email });
+    if (existingUser) {
+      return res.status(400).json({
+        errors: "An account with this email already exists.",
+      });
+    }
     if (existingUsername) {
       return res.status(400).json({
-        success: false,
         errors: "Username đã được sử dụng",
       });
     }
     if (/\s/.test(username)) {
       return res.status(400).json({
-        success: false,
         errors: "Username không hợp lệ.",
       });
     }
     if (password.length < 6) {
       return res.status(400).json({
-        success: false,
         errors: "Mật khẩu phải có hơn 6 ký tự.",
       });
     }
+    if (!email){
+      return res.status(400).json({
+        errors: "Chưa điền email",
+      });
+    }
     const saltRounds = 10;
-    const hashedPassword = await bcrypt.hash(password, saltRounds);
+    const hashedPassword = await bcrypt.hash(req.body.password, saltRounds);
     const newUser = new User({
       username: lowercaseUsername,
       email,
@@ -47,64 +53,49 @@ router.post("/register", async (req, res) => {
       CashFree: 0,
       Permission: false,
     });
-
     await newUser.save();
     const tokenData = {
       user: {
         id: newUser.id,
       },
     };
-    const token = jwt.sign(tokenData, process.env.JWT_TOKEN, {
-      expiresIn: "1h",
-    });
-
-    res.status(201).json({
-      success: true,
-      message: "User đăng ký thành công",
-      token,
-    });
+    const token = jwt.sign(tokenData, "secret_ecom");
+    res.json({ success: true, token });
   } catch (error) {
-    console.error("Lỗi đăng ký:", error);
+    console.error("Error signing up:", error);
     res.status(500).json({ success: false, errors: "Server error" });
   }
 });
 
 router.post("/login", async (req, res) => {
   try {
-    const { username, password } = req.body;
-    const lowercaseUsername = username.toLowerCase();
-    const user = await User.findOne({ username: { $regex: new RegExp(`^${lowercaseUsername}$`, 'i') } });
-    if (!user) {
-      return res.status(400).json({
-        success: false,
-        errors: "Sai username hoặc password.",
-      });
+    let user = await User.findOne({ username: req.body.username });
+    if (user) {
+      const passwordMatch = await bcrypt.compare(req.body.password, user.password);
+      if (passwordMatch) {
+        user = await User.findByIdAndUpdate(
+          user._id, 
+          { $inc: { tokenVersion: 1 } },
+          { new: true }
+        );
+        const data = {
+          user: {
+            id: user.id,
+            version: user.tokenVersion
+          }
+        };
+        const authToken = jwt.sign(data, "secret_ecom");
+        res.json({ success: true, authToken });
+      } else {
+        res.status(400).json({ success: false, errors: "Incorrect password" });
+      }
+    } else {
+      res.status(400).json({ success: false, errors: "Invalid Email" });
     }
-    const isMatch = await bcrypt.compare(password, user.password);
-    if (!isMatch) {
-      return res.status(400).json({
-        success: false,
-        errors: "Sai username hoặc password.",
-      });
-    }
-    const tokenData = {
-      user: {
-        id: user.id,
-        isAdmin: user.Permission,
-      },
-    };
-    const token = jwt.sign(tokenData, process.env.JWT_TOKEN, {
-      expiresIn: "1h",
-    });
-    res.status(200).json({
-      message: "Login successful",
-      token,
-      username: user.username,
-    });
   } catch (error) {
     console.error("Error logging in:", error);
     res.status(500).json({ success: false, errors: "Server error" });
   }
-});
+})
 
 module.exports = router;

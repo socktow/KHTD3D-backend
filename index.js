@@ -24,8 +24,10 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(cors());
 const authRoutes = require("./Router/Auth");
+const userRouter = require("./Router/User")
 app.use("/api", authRoutes);
-app.get("/checkapi", (req, res) => {
+app.use("/api", userRouter);
+app.get("/", (req, res) => {
   res.send("Welcome to the backend of KHTD3D!");
 });
 
