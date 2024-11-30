@@ -31,7 +31,7 @@ app.get("/checkapi", (req, res) => {
 
 // Cấu hình multer
 const storage = multer.diskStorage({
-  destination: "./upload/images",
+  destination: "./upload/images", // Thay đổi thành đường dẫn tuyệt đối hoặc sử dụng dịch vụ lưu trữ đám mây
   filename: (req, file, cb) => {
     cb(
       null,
@@ -46,9 +46,10 @@ app.post("/upload", upload.any(), (req, res) => {
       .status(400)
       .json({ success: false, message: "No files uploaded" });
   }
+  // Sửa URL để sử dụng biến môi trường cho domain
   const fileUrls = req.files.map((file) => ({
     fieldName: file.fieldname,
-    imageUrl: `http://localhost:${PORT}/images/${file.filename}`,
+    imageUrl: `${process.env.BASE_URL || `http://localhost:${PORT}`}/images/${file.filename}`,
   }));
 
   res.json({
@@ -58,6 +59,8 @@ app.post("/upload", upload.any(), (req, res) => {
   });
 });
 
+// Thêm middleware để phục vụ file tĩnh
+app.use('/images', express.static(path.join(__dirname, 'upload/images')));
 
 // Khởi động server
 app.listen(PORT, (error) => { 
