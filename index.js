@@ -1,4 +1,4 @@
-require("dotenv").config(); // Đọc tệp .env
+require("dotenv").config();
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
@@ -29,9 +29,14 @@ app.get("/checkapi", (req, res) => {
   res.send("Welcome to the backend of KHTD3D!");
 });
 
-// Cấu hình multer
+// Configure multer
 const storage = multer.diskStorage({
-  destination: "./upload/images", // Thay đổi thành đường dẫn tuyệt đối hoặc sử dụng dịch vụ lưu trữ đám mây
+  destination: (req, file, cb) => {
+    const uploadDir = path.join(__dirname, 'upload/images');
+    // Ensure upload directory exists
+    require('fs').mkdirSync(uploadDir, { recursive: true });
+    cb(null, uploadDir);
+  },
   filename: (req, file, cb) => {
     cb(
       null,
@@ -39,33 +44,57 @@ const storage = multer.diskStorage({
     );
   },
 });
-const upload = multer({ storage: storage });
-app.post("/upload", upload.any(), (req, res) => {
-  if (!req.files || req.files.length === 0) {
-    return res
-      .status(400)
-      .json({ success: false, message: "No files uploaded" });
-  }
-  // Sửa URL để sử dụng biến môi trường cho domain
-  const fileUrls = req.files.map((file) => ({
-    fieldName: file.fieldname,
-    imageUrl: `${process.env.BASE_URL || `http://localhost:${PORT}`}/images/${file.filename}`,
-  }));
 
-  res.json({
-    success: true,
-    files: fileUrls,
-    message: "Files uploaded successfully",
+const upload = multer({ 
+  storage: storage,
+  limits: {
+    fileSize: 5 * 1024 * 1024 // 5MB limit
+  }
+}).any();
+
+app.post("/upload", (req, res) => {
+  upload(req, res, function(err) {
+    if (err) {
+      return res.status(500).json({ 
+        success: false, 
+        message: "Error uploading file: " + err.message 
+      });
+    }
+
+    if (!req.files || req.files.length === 0) {
+      return res
+        .status(400)
+        .json({ success: false, message: "No files uploaded" });
+    }
+
+    try {
+      const fileUrls = req.files.map((file) => ({
+        fieldName: file.fieldname,
+        imageUrl: `${process.env.BASE_URL || `http://localhost:${PORT}`}/images/${file.filename}`,
+      }));
+
+      res.json({
+        success: true,
+        files: fileUrls,
+        message: "Files uploaded successfully",
+      });
+    } catch (error) {
+      console.error('Error processing upload:', error);
+      res.status(500).json({
+        success: false,
+        message: "Internal server error while processing upload"
+      });
+    }
   });
 });
 
-// Thêm middleware để phục vụ file tĩnh
+// Serve static files
 app.use('/images', express.static(path.join(__dirname, 'upload/images')));
 
-// Khởi động server
+// Start server with error handling
 app.listen(PORT, (error) => { 
   if (error) {
-    console.log(error);
+    console.error('Error starting server:', error);
   } else {
     console.log(`Server is running on port ${PORT}`);
   }
