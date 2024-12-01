@@ -69,33 +69,38 @@ router.post("/register", async (req, res) => {
 
 router.post("/login", async (req, res) => {
   try {
-    let user = await User.findOne({ username: req.body.username });
+    const { username, password } = req.body; // Giải cấu trúc để lấy username và password
+    if (!username || !password) {
+      return res.status(400).json({ success: false, errors: "Missing username or password" });
+    }
+
+    let user = await User.findOne({ username }); // Chỉ tìm kiếm theo username
     if (user) {
-      const passwordMatch = await bcrypt.compare(req.body.password, user.password);
+      const passwordMatch = await bcrypt.compare(password, user.password);
       if (passwordMatch) {
         user = await User.findByIdAndUpdate(
-          user._id, 
+          user._id,
           { $inc: { tokenVersion: 1 } },
           { new: true }
         );
         const data = {
           user: {
             id: user.id,
-            version: user.tokenVersion
-          }
+            version: user.tokenVersion,
+          },
         };
         const authToken = jwt.sign(data, "secret_ecom");
-        res.json({ success: true, authToken });
+        return res.json({ success: true, authToken });
       } else {
-        res.status(400).json({ success: false, errors: "Incorrect password" });
+        return res.status(400).json({ success: false, errors: "Incorrect password" });
       }
     } else {
-      res.status(400).json({ success: false, errors: "Invalid Email" });
+      return res.status(400).json({ success: false, errors: "Invalid username" });
     }
   } catch (error) {
     console.error("Error logging in:", error);
     res.status(500).json({ success: false, errors: "Server error" });
   }
-})
+});
 
 module.exports = router;

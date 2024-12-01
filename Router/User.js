@@ -27,8 +27,8 @@ router.get("/profile", fetchUser, async (req, res) => {
     if (!user) {
       return res.status(404).json({ message: "User not found" });
     }
-    const { password, __v, ...userWithoutSensitiveData } = user.toObject();
-    res.json({ success: true, user: userWithoutSensitiveData });
+    const { password, __v, date, Permission, tokenVersion, _id, ...userWithoutSensitiveData } = user.toObject();
+    res.json({ user: userWithoutSensitiveData });
   } catch (error) {
     console.error("Error retrieving user profile:", error);
     res.status(500).json({ success: false, error: "Server error" });
