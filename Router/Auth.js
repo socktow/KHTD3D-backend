@@ -49,8 +49,8 @@ router.post("/register", async (req, res) => {
       username: lowercaseUsername,
       email,
       password: hashedPassword,
-      Cash: 0,
-      CashFree: 0,
+      Cash: 50000,
+      CashFree: 500000,
       Permission: false,
     });
     await newUser.save();
