@@ -29,6 +29,10 @@ const UserSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
+  gameId: {
+    type: Number,
+    default: 0,
+  },
   Cash: {
     type: Number,
     default: 0,
@@ -37,22 +41,26 @@ const UserSchema = new mongoose.Schema({
     type: Number,
     default: 0,
   },
-  cartData: {
+  CartData: {
     type: [CartItemSchema],
     default: [],
+  },
+  MocNap: {
+    type: Number,
+    default: 0
   },
   Permission: {
     type: Boolean,
     default: false,
     immutable: true,
   },
-  date: {
-    type: Date,
-    default: Date.now,
-  },
-  tokenVersion: {
+  TokenVersion: {
     type: Number,
     default: 0
+  },
+  Date: {
+    type: Date,
+    default: Date.now,
   },
 });
 

@@ -49,6 +49,7 @@ router.post("/register", async (req, res) => {
       username: lowercaseUsername,
       email,
       password: hashedPassword,
+      gameId: null,
       Cash: 50000,
       CashFree: 500000,
       Permission: false,
