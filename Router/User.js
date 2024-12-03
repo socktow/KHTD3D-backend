@@ -16,6 +16,7 @@ const fetchUser = async (req, res, next) => {
       return res.status(401).send("Token has been invalidated.");
     }
     req.user = data.user;
+    req.isAdmin = user.Permission;
     next();
   } catch (error) {
     res.status(401).send("Invalid token.");
