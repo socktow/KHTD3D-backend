@@ -70,12 +70,12 @@ router.post("/register", async (req, res) => {
 
 router.post("/login", async (req, res) => {
   try {
-    const { username, password } = req.body; // Giải cấu trúc để lấy username và password
+    const { username, password } = req.body;
     if (!username || !password) {
       return res.status(400).json({ success: false, errors: "Missing username or password" });
     }
 
-    let user = await User.findOne({ username }); // Chỉ tìm kiếm theo username
+    let user = await User.findOne({ username });
     if (user) {
       const passwordMatch = await bcrypt.compare(password, user.password);
       if (passwordMatch) {
@@ -93,10 +93,10 @@ router.post("/login", async (req, res) => {
         const authToken = jwt.sign(data, "secret_ecom");
         return res.json({ success: true, authToken });
       } else {
-        return res.status(400).json({ success: false, errors: "Incorrect password" });
+        return res.status(400).json({ success: false, errors: "Sai mật khẩu" });
       }
     } else {
-      return res.status(400).json({ success: false, errors: "Invalid username" });
+      return res.status(400).json({ success: false, errors: "Tài khoản không tồn tại" });
     }
   } catch (error) {
     console.error("Error logging in:", error);

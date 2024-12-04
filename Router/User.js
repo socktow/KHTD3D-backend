@@ -3,7 +3,6 @@ const User = require("../Schema/UsersSchema");
 const router = express.Router();
 const jwt = require("jsonwebtoken");
 const bcrypt = require("bcrypt");
-
 const fetchUser = async (req, res, next) => {
   const token = req.header("token");
   if (!token) {
@@ -29,7 +28,7 @@ router.get("/profile", fetchUser, async (req, res) => {
     if (!user) {
       return res.status(404).json({ message: "User not found" });
     }
-    const { password, __v, date, Permission, tokenVersion, _id, ...userWithoutSensitiveData } = user.toObject();
+    const { password, __v, Date, Permission, TokenVersion, _id, ...userWithoutSensitiveData } = user.toObject();
     res.json({ user: userWithoutSensitiveData });
   } catch (error) {
     console.error("Error retrieving user profile:", error);
@@ -45,7 +44,6 @@ router.patch("/profile", fetchUser, async (req, res) => {
     if (!user) {
       return res.status(404).json({ message: "User not found" });
     }
-
     const updates = {};
     if (email) {
       const existingEmail = await User.findOne({ email, _id: { $ne: user._id } });
@@ -84,36 +82,6 @@ router.patch("/profile", fetchUser, async (req, res) => {
   } catch (error) {
     console.error("Error updating profile:", error);
     res.status(500).json({ success: false, error: "Server error" });
-  }
-});
-
-router.post("/check-gameid", fetchUser, async (req, res) => {
-  try {
-    const { gameId } = req.body;
-    
-    if (!gameId) {
-      return res.status(400).json({ 
-        success: false, 
-        message: "GameID không được để trống" 
-      });
-    }
-
-    const existingUser = await User.findOne({ GameId: gameId });
-    if (existingUser) {
-      return res.status(400).json({
-        success: false,
-        message: "GameID này đã được liên kết với tài khoản khác"
-      });
-    }
-
-    res.json({ 
-      success: true, 
-      message: "GameID hợp lệ và chưa được liên kết",
-      canLink: true
-    });
-  } catch (error) {
-    console.error("Error checking GameID:", error);
-    res.status(500).json({ success: false, message: "Lỗi server" });
   }
 });
 
