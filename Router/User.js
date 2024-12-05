@@ -2,31 +2,8 @@ const express = require("express");
 const to = require("await-to-js").default;
 const User = require("../Schema/UsersSchema");
 const router = express.Router();
-const jwt = require("jsonwebtoken");
 const bcrypt = require("bcrypt");
-
-const fetchUser = async (req, res, next) => {
-  const token = req.header("token");
-  if (!token) {
-    return res.status(401).send("Access denied. No token provided.");
-  }
-  try {
-    const data = jwt.verify(token, "secret_ecom");
-    const user = await User.findById(data.user.id);
-    if (!user) {
-      return res.status(401).send("User not found.");
-    }
-    if (user.TokenVersion !== data.user.version) {
-      return res.status(401).send("Token has been invalidated.");
-    }
-    req.user = data.user;
-    req.isAdmin = user.Permission;
-    next();
-  } catch (error) {
-    console.error(error);
-    res.status(401).send("Invalid token.");
-  }
-};
+const fetchUser = require("../Config/FetchUser");
 
 router.get("/profile", fetchUser, async (req, res) => {
   const [errUser, user] = await to(User.findById(req.user.id));

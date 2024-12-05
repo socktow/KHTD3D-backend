@@ -1,38 +1,40 @@
 const mongoose = require("mongoose");
 
-const giftcodeSchema = new mongoose.Schema({
-  id: {
-    type: Number,
-    required: true,
-    unique: true
+const giftcodeSchema = new mongoose.Schema(
+  {
+    name: {
+      type: String,
+      required: true,
+    },
+    code: {
+      type: String,
+      required: true,
+      unique: true,
+    },
+    items: {
+      type: [{ itemId: Number, quantity: Number }],
+      default: [],
+    },
+    title: {
+      type: String,
+      required: true,
+    },
+    content: {
+      type: String,
+      required: true,
+    },
+    expiryDate: {
+      type: Date,
+      required: true,
+    },
+    usage: {
+      type: Number,
+      default: 0, // Lượt sử dụng mặc định là 0
+    },
   },
-  name: {
-    type: String,
-    required: true
-  },
-  code: {
-    type: String,
-    required: true,
-    unique: true
-  },
-  items: {
-    type: [Number],
-    default: []
-  },
-  title: {
-    type: String,
-    required: true
-  },
-  content: {
-    type: String,
-    required: true
-  },
-  expiryDate: {
-    type: Date,
-    required: true
+  {
+    timestamps: true,
   }
-}, {
-  timestamps: true
-});
+);
 
 module.exports = mongoose.model("Giftcode", giftcodeSchema);

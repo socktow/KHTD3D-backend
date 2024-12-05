@@ -1,14 +1,12 @@
 require("dotenv").config();
 const express = require("express");
 const mongoose = require("mongoose");
-const setupMiddleware = require("./config/middleware");
-const setupCronJobs = require("./tasks/cron");
-const authRoutes = require("./Router/Auth");
-const userRouter = require("./Router/User");
-const resetpasswordRouters = require("./Router/User/ForgetPassword");
-
+const setupMiddleware = require("./Config/Middleware");
+const setupCronJobs = require("./Tasks/Cron");
+const userRoutes = require("./routes/userRoutes");
+const adminRoutes = require("./routes/adminRoutes");
 const app = express();
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT;
 const MONGO_URI = process.env.MONGO_URI;
 
 // Kết nối MongoDB
@@ -20,10 +18,14 @@ mongoose
 // Cài đặt middleware
 setupMiddleware(app);
 
-// Routes
-app.use("/api", authRoutes);
-app.use("/api", userRouter);
-app.use("/api", resetpasswordRouters);
+// Use routes
+userRoutes.forEach((route) => {
+  app.use(route.path, route.router);
+});
+
+adminRoutes.forEach((route) => {
+  app.use(route.path, route.router);
+});
 
 // Cron jobs
 setupCronJobs();

@@ -1,4 +1,4 @@
-const ForgotPassword = require("../../utils/ForgotPassword");
+const ForgotPassword = require("../../Utils/ForgotPassword");
 const { PasswordResetToken } = require("../../Schema/PasswordReset");
 const User = require("../../Schema/UsersSchema");
 const express = require("express");
