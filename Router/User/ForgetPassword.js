@@ -15,7 +15,7 @@ router.post("/forgot-password", async (req, res) => {
     await ForgotPassword(email, token);
     res.json({
       message:
-        "Mã xác minh đã được gửi đến email của bạn. Vui lòng kiểm tra hộp thư.",
+        "Chúng tôi đã gửi đường dẫn khôi phục vào email của bạn.",
     });
   } catch (error) {
     console.error("Error in forgot-password endpoint:", error);
