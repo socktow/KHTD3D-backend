@@ -11,7 +11,12 @@ const MONGO_URI = process.env.MONGO_URI;
 
 // Kết nối MongoDB
 mongoose
-  .connect(MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true })
+  .connect(MONGO_URI, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    serverSelectionTimeoutMS: 5000,
+    socketTimeoutMS: 45000,
+  })
   .then(() => console.log("MongoDB connected"))
   .catch((err) => console.log(err));
 
@@ -33,7 +38,7 @@ setupCronJobs();
 // Khởi chạy server
 app.listen(PORT, (error) => {
   if (error) {
-    console.error('Error starting server:', error);
+    console.error("Error starting server:", error);
   } else {
     console.log(`Server is running on port ${PORT}`);
   }
