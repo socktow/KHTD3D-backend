@@ -3,7 +3,7 @@ const to = require("await-to-js").default;
 const User = require("../Schema/UsersSchema");
 const router = express.Router();
 const bcrypt = require("bcrypt");
-const fetchUser = require("../Config/FetchUser");
+const fetchUser = require("../Settings/FetchUser");
 
 router.get("/profile", fetchUser, async (req, res) => {
   const [errUser, user] = await to(User.findById(req.user.id));

@@ -1,8 +1,8 @@
 require("dotenv").config();
 const express = require("express");
 const mongoose = require("mongoose");
-const setupMiddleware = require("./Config/SetupMiddlleware");
-const setupCronJobs = require("./Tasks/Cron");
+const setupMiddleware = require("./Settings/SetupMiddlleware");
+const setupCronJobs = require("./Settings/Cron");
 const userRoutes = require("./Routes/userRoutes");
 const adminRoutes = require("./Routes/adminRoutes");
 const app = express();
