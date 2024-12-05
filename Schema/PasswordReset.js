@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
 
+// Mô hình PasswordResetToken
 const PasswordResetTokenSchema = new mongoose.Schema({
   userid: {
     type: Number,
@@ -18,12 +19,18 @@ const PasswordResetTokenSchema = new mongoose.Schema({
 
 const PasswordResetToken = mongoose.model("PasswordResetToken", PasswordResetTokenSchema);
 
+// Hàm xóa token đã hết hạn
 const deleteExpiredTokens = async () => {
-  const currentTime = new Date();
-  await PasswordResetToken.deleteMany({
-    expiration: { $lt: currentTime }
-  });
+  try {
+    const currentTime = new Date();
+    const result = await PasswordResetToken.deleteMany({
+      expiration: { $lt: currentTime }, // Chỉ định điều kiện xóa
+    });
+    console.log(`Deleted ${result.deletedCount} expired tokens.`);
+  } catch (error) {
+    console.error("Error deleting expired tokens:", error);
+  }
 };
 
-module.exports = {PasswordResetToken, deleteExpiredTokens};
-
+// Xuất mô hình và hàm
+module.exports = { PasswordResetToken, deleteExpiredTokens };
