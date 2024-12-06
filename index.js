@@ -22,14 +22,18 @@ mongoose
 setupMiddleware(app);
 
 // Use routes
-userRoutes.forEach((route) => {
-  app.use(route.path, route.router);
+userRoutes.forEach(({ path, router }) => {
+  app.use(path, router);
 });
 
-adminRoutes.forEach((route) => {
-  app.use(route.path, route.router);
+adminRoutes.forEach(({ path, router }) => {
+  app.use(path, router);
 });
 
+// PUBLIC IMAGE 
+// app.use(express.static(path.join(__dirname, 'public')));
+// LOCAL IMAGE 
+app.use("/images", express.static("upload/images"));
 // Cron jobs
 setupCronJobs();
 
