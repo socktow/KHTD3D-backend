@@ -33,7 +33,7 @@ adminRoutes.forEach(({ path, router }) => {
 // PUBLIC IMAGE 
 // app.use(express.static(path.join(__dirname, 'public')));
 // LOCAL IMAGE 
-app.use("/images", express.static("upload/images"));
+// app.use("/images", express.static("upload/images"));
 // Cron jobs
 setupCronJobs();
 
