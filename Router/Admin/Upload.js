@@ -44,4 +44,34 @@ router.post("/upload", upload.single("image"), async (req, res) => {
   }
 });
 
+router.get("/images", async (req, res) => {
+  const remoteDirPath = "/home/gmbbesh/public_html/cdn.kiemhieptinhduyen.com/images/";
+  try {
+    await sftp.connect({
+      host: SFTP_HOST,
+      username: SFTP_USER,
+      password: SFTP_PASSWORD,
+      port: SFTP_PORT,
+    });
+    const fileList = await sftp.list(remoteDirPath);
+    const imageFiles = fileList.filter(file => {
+      const ext = path.extname(file.name).toLowerCase();
+      return ext === '.jpg' || ext === '.jpeg' || ext === '.png' || ext === '.gif' || ext === '.webp';
+    });
+    const imageUrls = imageFiles.map(file => {
+      return `https://cdn.kiemhieptinhduyen.com/images/${file.name}`;
+    });
+    res.json({
+      success: true,
+      images: imageUrls,
+      message: "Image list fetched successfully",
+    });
+  } catch (error) {
+    console.error("Error fetching file list from SFTP:", error);
+    res.status(500).json({ success: false, message: "Error fetching file list", error: error.message });
+  } finally {
+    sftp.end();
+  }
+});
+
 module.exports = router;
