@@ -1,46 +1,77 @@
 const express = require("express");
 const multer = require("multer");
-const path = require("path");
-const fs = require("fs");
-const SftpClient = require("ssh2-sftp-client");
+const cloudinary = require("cloudinary").v2; 
 const router = express.Router();
-const sftp = new SftpClient();
-const SFTP_HOST = process.env.SFTP_HOST;
-const SFTP_USER = process.env.SFTP_USER;
-const SFTP_PASSWORD = process.env.SFTP_PASSWORD;
-const SFTP_PORT = process.env.SFTP_PORT;
+
+// Cấu hình Cloudinary
+cloudinary.config({
+  cloudinary_url: process.env.CLOUDINARY_URL
+});
+
 const storage = multer.memoryStorage();
 const upload = multer({ storage: storage });
-const generateFileName = (originalName) => {
-  const timestamp = Date.now();
-  const extension = path.extname(originalName);
-  return `image_${timestamp}${extension}`;
-};
+
+// Endpoint để tải ảnh lên Cloudinary
 router.post("/upload", upload.single("image"), async (req, res) => {
   if (!req.file) {
-    return res.status(400).json({ success: false, message: "No file uploaded" });
+    return res
+      .status(400)
+      .json({ success: false, message: "No file uploaded" });
   }
+
   try {
-    await sftp.connect({
-      host: SFTP_HOST,
-      username: SFTP_USER,
-      password: SFTP_PASSWORD,
-      port: SFTP_PORT,
+    const result = await cloudinary.uploader.upload_stream(
+      {
+        public_id: `image_${Date.now()}`,
+        resource_type: "image",
+      },
+      (error, result) => {
+        if (error) {
+          return res.status(500).json({
+            success: false,
+            message: "Error uploading image to Cloudinary",
+            error: error.message,
+          });
+        }
+
+        res.json({
+          success: true,
+          image_url: result.secure_url,
+          message: "File uploaded successfully",
+        });
+      }
+    );
+    result.end(req.file.buffer);
+  } catch (error) {
+    console.error("Error uploading file to Cloudinary:", error);
+    res.status(500).json({
+      success: false,
+      message: "Internal server error",
+      error: error.message,
     });
-    const newFileName = generateFileName(req.file.originalname);
-    const remoteFilePath = `/home/gmbbesh/public_html/cdn.kiemhieptinhduyen.com/images/${newFileName}`;
-    await sftp.put(req.file.buffer, remoteFilePath);
+  }
+});
+
+// Endpoint để lấy tất cả các ảnh đã tải lên Cloudinary
+router.get("/images", async (req, res) => {
+  try {
+    const result = await cloudinary.api.resources({
+      type: "upload", 
+      resource_type: "image", 
+      max_results: 100, 
+    });
 
     res.json({
       success: true,
-      image_url: `https://cdn.kiemhieptinhduyen.com/images/${newFileName}`,
-      message: "File uploaded successfully",
+      images: result.resources,
     });
   } catch (error) {
-    console.error("Error uploading file via SFTP:", error);
-    res.status(500).json({ success: false, message: "Internal server error", error: error.message });
-  } finally {
-    sftp.end();
+    console.error("Error fetching images from Cloudinary:", error);
+    res.status(500).json({
+      success: false,
+      message: "Error fetching images from Cloudinary",
+      error: error.message,
+    });
   }
 });
 
