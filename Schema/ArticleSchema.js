@@ -10,9 +10,9 @@ const ArticleSchema = new mongoose.Schema({
     required: true,
   },
   contentType: {
-    type: Number,
+    type: String,
     required: true,
-    enum: [1, 2, 3, 4], 
+    enum: ["tin-tuc", "su-kien", "tinh-nang", "huong-dan"],
   },
   redirect: {
     type: Boolean,
@@ -24,12 +24,11 @@ const ArticleSchema = new mongoose.Schema({
       return this.redirect; 
     },
     validate: {
-        validator: function (value) {
-          // Chỉ kiểm tra định dạng URL nếu redirect là true
-          return this.redirect ? /^(https?:\/\/[^\s$.?#].[^\s]*)$/.test(value) : true;
-        },
-        message: "Invalid URL format.",
+      validator: function (value) {
+        return this.redirect ? /^(https?:\/\/[^\s$.?#].[^\s]*)$/.test(value) : true;
       },
+      message: "Invalid URL format.",
+    },
   },
   content: {
     type: String,
