@@ -4,7 +4,8 @@ const mongoose = require("mongoose");
 const setupMiddleware = require("./Settings/SetupMiddlleware");
 const setupCronJobs = require("./Settings/Cron");
 const userRoutes = require("./Routes/userRoutes");
-const adminRoutes = require("./Routes/adminRoutes");
+const applyAdminMiddleware = require("./Routes/adminRoutes");
+const cors = require("cors");
 const app = express();
 const PORT = process.env.PORT;
 const MONGO_URI = process.env.MONGO_URI;
@@ -26,17 +27,10 @@ userRoutes.forEach(({ path, router }) => {
   app.use(path, router);
 });
 
-adminRoutes.forEach(({ path, router }) => {
-  app.use(path, router);
-});
+applyAdminMiddleware(app);
 
-// PUBLIC IMAGE 
-// app.use(express.static(path.join(__dirname, 'public')));
-// LOCAL IMAGE 
-// app.use("/images", express.static("upload/images"));
-// Cron jobs
+app.use(cors());
 setupCronJobs();
-
 // Khởi chạy server
 app.listen(PORT, (error) => {
   if (error) {

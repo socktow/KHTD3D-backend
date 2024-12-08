@@ -30,7 +30,7 @@ router.post("/upload", upload.single("image"), async (req, res) => {
     }
 
     const newFileName = generateFileName(req.file.originalname);
-    const remoteFilePath = `/home/gmbbesh/public_html/cdn.kiemhieptinhduyen.com/images/${newFileName}`;
+    const remoteFilePath = `/home/sqrtbrk/public_html/cdn.kiemhieptinhduyen.com/images/${newFileName}`;
 
     const webpBuffer = await sharp(req.file.buffer).webp().toBuffer();
 

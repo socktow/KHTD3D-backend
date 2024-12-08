@@ -1,6 +1,5 @@
 const express = require("express");
 const Giftcode = require("../../Schema/GiftcodeSchema");
-const userGiftcode = require("../../Schema/UserGiftCode");
 const router = express.Router();
 
 router.get("/giftcode", async (req, res) => {

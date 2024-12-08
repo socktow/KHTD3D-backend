@@ -71,35 +71,25 @@ router.post("/register", async (req, res) => {
 
 router.post("/login", async (req, res) => {
   const { username, password } = req.body;
-
-  // Kiểm tra yêu cầu có đầy đủ username và password không
   if (!username || !password) {
     return res.status(400).json({ success: false, errors: "Missing username or password" });
   }
-
-  // Tìm user trong database
   const [errUser, user] = await to(User.findOne({ username }));
   if (errUser) {
     console.error("Error finding user:", errUser);
     return res.status(500).json({ success: false, errors: "Server error" });
   }
-
   if (!user) {
     return res.status(400).json({ success: false, errors: "Tài khoản không tồn tại" });
   }
-
-  // So sánh mật khẩu
   const [errMatch, passwordMatch] = await to(bcrypt.compare(password, user.password));
   if (errMatch) {
     console.error("Error comparing passwords:", errMatch);
     return res.status(500).json({ success: false, errors: "Server error" });
   }
-
   if (!passwordMatch) {
     return res.status(400).json({ success: false, errors: "Sai mật khẩu" });
   }
-
-  // Tăng `tokenVersion` của user
   const [errUpdate, updatedUser] = await to(
     User.findByIdAndUpdate(user._id, { $inc: { TokenVersion: 1 } }, { new: true })
   );
@@ -107,8 +97,6 @@ router.post("/login", async (req, res) => {
     console.error("Error updating user:", errUpdate);
     return res.status(500).json({ success: false, errors: "Server error" });
   }
-
-  // Tạo token
   const data = {
     user: {
       id: updatedUser.id,
@@ -116,8 +104,6 @@ router.post("/login", async (req, res) => {
     },
   };
   const authToken = jwt.sign(data, "secret_ecom");
-
-  // Trả về token
   return res.json({ success: true, authToken });
 });
 

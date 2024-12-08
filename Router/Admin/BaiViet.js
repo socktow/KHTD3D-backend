@@ -1,8 +1,6 @@
 const express = require("express");
 const Article = require("../../Schema/ArticleSchema");
 const router = express.Router();
-
-// Router GET: Lấy danh sách bài viết
 router.get("/articles", async (req, res) => {
   try {
     const articles = await Article.find();
@@ -15,11 +13,14 @@ router.get("/articles", async (req, res) => {
 
 router.post("/create-article", async (req, res) => {
   try {
-    const { title, thumbnail, contentType, content, redirect, redirectLink } = req.body;
+    const { title, thumbnail, contentType, content, redirect, redirectLink } =
+      req.body;
     if (!title || !thumbnail || !contentType || !content) {
       return res.status(400).json({ message: "Missing required fields" });
     }
-    if (!["tin-tuc", "su-kien", "tinh-nang", "huong-dan"].includes(contentType)) {
+    if (
+      !["tin-tuc", "su-kien", "tinh-nang", "huong-dan"].includes(contentType)
+    ) {
       return res.status(400).json({ message: "Invalid contentType" });
     }
 
