@@ -29,7 +29,7 @@ const giftcodeSchema = new mongoose.Schema(
     },
     usage: {
       type: Number,
-      default: 0, // Lượt sử dụng mặc định là 0
+      default: 0,
     },
   },
   {
