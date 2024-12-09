@@ -29,7 +29,23 @@ userRoutes.forEach(({ path, router }) => {
 
 applyAdminMiddleware(app);
 
-app.use(cors());
+const allowedOrigins = [
+  "http://localhost:3000",
+  "https://kiemhieptinhduyen.com"
+];
+
+app.use(cors({
+  origin: function (origin, callback) {
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error("Not allowed by CORS"));
+    }
+  },
+  methods: ["GET", "POST"],
+  allowedHeaders: ["Content-Type", "token"]
+}));
+
 setupCronJobs();
 // Khởi chạy server
 app.listen(PORT, (error) => {
