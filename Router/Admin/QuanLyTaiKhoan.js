@@ -26,7 +26,7 @@ router.get("/user/:id", async (req, res) => {
   }
 });
 
-router.post("/user", async (req, res) => {
+router.post("/add-account", async (req, res) => {
   try {
     const { username, email, password } = req.body;
     if (!username || !email || !password) {
