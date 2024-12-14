@@ -1,6 +1,6 @@
 const express = require("express");
 const Giftcode = require("../../Schema/GiftcodeSchema");
-const fetchUser = require("../../Settings/FetchUser");
+
 const router = express.Router();
 
 router.get("/giftcode", async (req, res) => {
@@ -12,16 +12,24 @@ router.get("/giftcode", async (req, res) => {
     res.status(500).json({ message: "Server error" });
   }
 });
-
 router.post("/create-giftcode", async (req, res) => {
   try {
-    const { name, code, items, title, usage, content, expiryDate } = req.body;
+    const { name, code, items = [], title, usage, content, expiryDate } = req.body;
+
+    // Log the received data for debugging
+    console.log("Received data:", req.body);
+
+    if (!Array.isArray(items)) {
+      throw new Error("Invalid items format. Expected an array.");
+    }
+
     const parsedItems = items.map((item) => {
       if (!item.itemId || !item.quantity || item.quantity <= 0) {
         throw new Error("Invalid item format or quantity");
       }
       return { itemId: item.itemId, quantity: item.quantity };
     });
+
     const newGiftcode = new Giftcode({
       name,
       code,
@@ -41,5 +49,6 @@ router.post("/create-giftcode", async (req, res) => {
     res.status(400).json({ message: error.message });
   }
 });
+
 
 module.exports = router;
