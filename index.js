@@ -1,38 +1,32 @@
 require("dotenv").config();
 const express = require("express");
-const mongoose = require("mongoose");
+const connectToMongoDB = require("./Services/MongoService"); 
 const setupMiddleware = require("./Settings/SetupMiddlleware");
-const setupCronJobs = require("./Settings/Cron");
 const userRoutes = require("./Routes/userRoutes");
-const gameRoutes = require("./Routes/gameRoutes")
+const gameRoutes = require("./Routes/gameRoutes");
 const applyAdminMiddleware = require("./Routes/adminRoutes");
 const cors = require("cors");
+
 const app = express();
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 4000;
 const MONGO_URI = process.env.MONGO_URI;
 
-// Kết nối MongoDB
-mongoose
-  .connect(MONGO_URI, {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-    socketTimeoutMS: 45000,
-  })
-  .then(() => console.log("MongoDB connected"))
-  .catch((err) => console.error("MongoDB connection error:", err));
-// Cài đặt middleware
 setupMiddleware(app);
-
-// Use routes
+// Client Services
 userRoutes.forEach(({ path, router }) => {
   app.use(path, router);
 });
+applyAdminMiddleware(app);
+
+if (userRoutes || applyAdminMiddleware) {
+  connectToMongoDB(MONGO_URI);
+}
+// Game Services
 gameRoutes.forEach(({ path, router }) => {
   app.use(path, router);
 });
 
-applyAdminMiddleware(app);
-
+// CORS configuration
 const allowedOrigins = [
   "http://localhost:3000",
   "https://kiemhieptinhduyen.com"
@@ -50,8 +44,7 @@ app.use(cors({
   allowedHeaders: ["Content-Type", "token"]
 }));
 
-setupCronJobs();
-// Khởi chạy server
+// Start the server
 app.listen(PORT, (error) => {
   if (error) {
     console.error("Error starting server:", error);

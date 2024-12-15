@@ -32,6 +32,7 @@
     "nodemailer": "^6.9.16",
     "qrcode": "^1.5.3",
     "qs": "^6.12.1",
+    "serverless-mysql": "^1.5.5",
     "sharp": "^0.33.5",
     "ssh2-sftp-client": "^11.0.0",
     "validator": "^13.12.0"

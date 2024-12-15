@@ -1,11 +1,10 @@
 const express = require("express");
 const router = express.Router();
-const mysql = require("mysql2/promise");
-const pool = mysql.createPool(process.env.MYSQLURL);
+const { query } = require("../Services/MySQLService");
 
 router.get("/charlist", async (req, res) => {
   try {
-    const [rows] = await pool.query(
+    const rows = await query(
       "SELECT SEPTMBRID, SEPTMBRTEMPID, SEPTMBRNAME, SEPTMBRZONE FROM septmember"
     );
     const formattedRows = rows.map((row) => ({
@@ -16,22 +15,21 @@ router.get("/charlist", async (req, res) => {
     }));
     res.json({ charlist: formattedRows });
   } catch (error) {
-    console.error("Lỗi khi truy vấn MySQL:", error);
-    res.status(500).json({ error: "Không thể truy xuất dữ liệu" });
+    console.error("MySQL Query Error:", error);
+    res.status(500).json({ error: "Unable to retrieve data" });
   }
 });
+
 router.get("/charlist/id/:id", async (req, res) => {
   try {
     const { id } = req.params;
-    const [rows] = await pool.query(
+    const rows = await query(
       "SELECT SEPTMBRID, SEPTMBRTEMPID, SEPTMBRNAME, SEPTMBRZONE FROM septmember WHERE SEPTMBRID = ?",
       [id]
     );
 
     if (rows.length === 0) {
-      return res
-        .status(404)
-        .json({ error: "Không tìm thấy nhân vật với ID này" });
+      return res.status(404).json({ error: "Character not found with this ID" });
     }
 
     const char = {
@@ -42,23 +40,23 @@ router.get("/charlist/id/:id", async (req, res) => {
     };
     res.json({ char });
   } catch (error) {
-    console.error("Lỗi khi truy vấn MySQL:", error);
-    res.status(500).json({ error: "Không thể truy xuất dữ liệu" });
+    console.error("MySQL Query Error:", error);
+    res.status(500).json({ error: "Unable to retrieve data" });
   }
 });
+
 router.get("/charlist/name/:name", async (req, res) => {
   try {
     const { name } = req.params;
-    const [rows] = await pool.query(
+    const rows = await query(
       "SELECT SEPTMBRID, SEPTMBRTEMPID, SEPTMBRNAME, SEPTMBRZONE FROM septmember WHERE SEPTMBRNAME LIKE ?",
       [`%${name}%`]
     );
 
     if (rows.length === 0) {
-      return res
-        .status(404)
-        .json({ error: "Không tìm thấy nhân vật với tên này" });
+      return res.status(404).json({ error: "No characters found with this name" });
     }
+
     const formattedRows = rows.map((row) => ({
       id: row.SEPTMBRID,
       tempId: row.SEPTMBRTEMPID,
@@ -67,8 +65,8 @@ router.get("/charlist/name/:name", async (req, res) => {
     }));
     res.json({ charlist: formattedRows });
   } catch (error) {
-    console.error("Lỗi khi truy vấn MySQL:", error);
-    res.status(500).json({ error: "Không thể truy xuất dữ liệu" });
+    console.error("MySQL Query Error:", error);
+    res.status(500).json({ error: "Unable to retrieve data" });
   }
 });
 
