@@ -4,6 +4,7 @@ const mongoose = require("mongoose");
 const setupMiddleware = require("./Settings/SetupMiddlleware");
 const setupCronJobs = require("./Settings/Cron");
 const userRoutes = require("./Routes/userRoutes");
+const gameRoutes = require("./Routes/gameRoutes")
 const applyAdminMiddleware = require("./Routes/adminRoutes");
 const cors = require("cors");
 const app = express();
@@ -24,6 +25,9 @@ setupMiddleware(app);
 
 // Use routes
 userRoutes.forEach(({ path, router }) => {
+  app.use(path, router);
+});
+gameRoutes.forEach(({ path, router }) => {
   app.use(path, router);
 });
 

@@ -1,0 +1,5272 @@
+1; Nguyên bảo
+2; Khóa lại Nguyên bảo
+3; Thiên mệnh linh thạch
+4; Kim tệ
+5; Luận võ tệ
+6; Anh linh tệ
+7; Vinh dự giá trị
+8; Tình nghĩa giá trị
+9; Chiến dự giá trị
+10; Tiên tông cống hiến
+11; Tiên tông tài chính
+12; Nguyên hồn tinh hoa
+13; Trang sức tinh hoa
+14; Tiên Khí tàn phiến
+15; Tiên lệnh
+16; Tiên tông sinh động
+17; Phù văn kinh nghiệm
+18; Phù văn mảnh vỡ
+19; Bảo tàng điểm tích lũy
+20; Trời phách tinh hoa
+99; Kinh nghiệm
+101; Vô hạn truyền tống
+102; Kinh nghiệm tăng thêm
+103; Ngoài định mức lật bài số lần
+104; Tự động phân giải
+105; Tự động đánh dấu
+106; Tài nguyên truy hồi 100%
+107; Thuộc tính tăng thêm chí ít 10%
+108; Nhật vòng một khóa hoàn thành
+109; Kinh nghiệm phó bản 2 Lần nhận lấy
+110;50% Nguyên bảo
+111;20% Nguyên bảo
+112;10% Nguyên bảo
+201; Thiên trường địa cửu
+202; Tốt nhất cộng tác
+301; Thương Long Chân Quân
+302; Bạch Hổ Chân Quân
+303; Chu Tước Chân Quân
+304; Huyền Vũ Chân Quân
+305; Nguyên Thủy Thiên Tôn
+401; Huynh đệ tình thâm
+402; Có tiền chính là tùy hứng
+403; Phú giáp thiên hạ
+404; Tiêu tiền như nước ( Vĩnh cửu )
+405; Tích của ( Vĩnh cửu )
+406; Tiêu tiền như nước (15 Trời )
+407; Tích của (15 Trời )
+408; Tiêu tiền như nước (7 Trời )
+409; Tích của (7 Trời )
+410; Tống tình tứ hải
+411; Tọa kỵ Thiên Vương
+412; Vũ dực thiên vương
+413; Linh sủng Thiên Vương
+414; Chí bảo Thiên Vương
+415; Thần thú Thiên Vương
+416; Linh Vũ Thiên Vương
+417; Phi kiếm Thiên Vương
+418; Eo quấn bạc triệu
+419; Phú khả địch quốc
+420; Quát tháo phong vân
+421; Cao phú soái
+422; Tung hoành vô địch
+423; Tống tình tứ hải
+424; Tiên giới bá chủ
+425; Bá phục · Thượng tiên
+426; Bá phục · Kim Tiên
+427; Bá phục · Tiên Tôn
+428; Si tâm tuyệt đối
+429; Vạn người mê
+430; Tình thánh
+431; Mị lực bắn ra bốn phía
+901; Cánh chim lên thẳng quyển
+902; Linh sủng lên thẳng quyển
+903; Chí bảo lên thẳng quyển
+904; Thần thú lên thẳng quyển
+905; Linh Vũ lên thẳng quyển
+906; Phi kiếm lên thẳng quyển
+998; Trang sức trang bị gói quà lớn
+999; Pháp bảo vật liệu gói quà lớn
+1000; Tiêu hao vật liệu gói quà lớn
+1001; Nghề nghiệp rơi xuống khảo thí gói quà
+1002; Tiến giai sách kỹ năng gói quà
+1003; Đan dược rơi xuống khảo thí gói quà
+1004; Cảnh giới rơi xuống khảo thí gói quà
+1005; Sơ tâm trang bị gói quà
+1006; Kỹ năng khảo thí gói quà
+1007; Vẻ ngoài khảo thí gói quà
+1008; Trang bị khảo thí gói quà
+1009; Thủ mạo xưng cảm ân lễ
+1010; Thủ mạo xưng cảm ân lễ ( Hai )
+1011; Thủ mạo xưng cảm ân lễ ( Ba )
+1012; Thủ mạo xưng cảm ân lễ ( Bốn )
+1013; Thủ mạo xưng cảm ân lễ ( Năm )
+1014; Thủ mạo xưng cảm ân lễ ( Sáu )
+1015; Thủ mạo xưng cảm ân lễ ( Bảy )
+1016; Thủ mạo xưng cảm ân lễ ( Tám )
+1101; Rồng ngâm kim múa thời trang gói quà
+1102; Thứ nguyên hành khúc thời trang gói quà
+1103; Hip-hop video game thời trang gói quà
+1104; Bãi cát tiệc tùng thời trang gói quà
+1105; Huyễn Thần Ma tông thời trang gói quà
+1106; Mạng lưới manh vực thời trang gói quà
+1107; Thiên trường địa cửu thời trang gói quà
+1108; Phong Minh tước múa thời trang gói quà
+1109; Tường vi quý tộc thời trang gói quà
+1110; Hải quân phong tình thời trang gói quà
+1111; Linh xà cổ mộ thời trang gói quà
+1112; Mario thúc thúc thời trang gói quà
+1113; Giáng Sinh thời trang gói quà
+1114; Giáng Sinh thời trang gói quà ( Hai chọn một )
+1201; Tử điện Ám Dực gói quà
+1301; Nguyên kế hoạch hộp quà
+1401; Nguyên bảo thẻ ( Lớn )
+1402; Nguyên bảo thẻ ( Nhỏ )
+1403; Nguyên bảo thẻ ( Bên trong )
+2000; Chất gỗ bảo rương
+2001; Đồng thau bảo rương 1 Giai
+2002; Đồng thau bảo rương 2 Giai
+2003; Đồng thau bảo rương 3 Giai
+2011; Bạch kim bảo rương 1 Giai
+2012; Bạch kim bảo rương 2 Giai
+2013; Bạch kim bảo rương 3 Giai
+2020; Linh châu bảo rương
+2021; Linh chi bảo rương
+2022; Hồn chi bảo rương
+2023; Quyển trục ngẫu nhiên bảo rương
+2024; Quyển trục có thể chọn bảo rương
+2030; Siêu cấp vui thấu hộp quà
+2039; Tiến giai bảo rương
+2040; Tiến giai đại bảo rương
+2041; Tọa kỵ tiến giai rương
+2042; Cánh chim tiến giai rương
+2043; Linh sủng tiến giai rương
+2044; Chí bảo tiến giai rương
+2045; Thần thú tiến giai rương
+2046; Linh Vũ tiến giai rương
+2047; Linh châu tiến giai rương
+2050; Sáo trang thạch bảo rương
+2051; Tiến giai thạch bảo rương
+2052; Cao cấp tiến giai thạch bảo rương
+2053; Linh chi bảo rương ( Ngẫu nhiên )
+2054; Cao cấp linh chi bảo rương ( Ngẫu nhiên )
+2055; Tuyệt học bảo rương
+2056; Cuối tuần nhỏ gói quà
+2057; Cuối tuần bên trong gói quà
+2058; Cuối tuần gói quà lớn
+2059; Cuối tuần cuồng hoan gói quà
+2060; Cao cấp kinh nghiệm đan bảo rương ( Tâm pháp / Quang hoàn )
+2061; Lĩnh ngộ bảo rương
+2062; Linh chi gói quà ( Có thể chọn )
+2063; Hồn chi gói quà ( Có thể chọn )
+2064; Tiến giai nhỏ gói quà
+2065; Tiến giai bên trong gói quà
+2066; Tiến giai gói quà lớn
+2067; Tiến giai siêu gói quà
+2068; Siêu cấp tiến giai gói quà
+2069; Tiến giai nhỏ gói quà ( Có thể chọn )
+2070; Tiến giai bên trong gói quà ( Có thể chọn )
+2071; Tiến giai gói quà lớn ( Có thể chọn )
+2072; Tiến giai siêu gói quà ( Có thể chọn )
+2073; Siêu cấp tiến giai gói quà ( Có thể chọn )
+2074; Linh chi gói quà
+2075; Hồn chi gói quà
+2076; Thần binh thăng cấp bảo rương
+2077; Sơ cấp Linh Bảo kinh nghiệm đan bảo rương ( Có thể chọn )
+2078; Trung cấp Linh Bảo kinh nghiệm đan bảo rương ( Có thể chọn )
+2079; Cao cấp Linh Bảo kinh nghiệm đan bảo rương ( Có thể chọn )
+2080; Sơ cấp Linh Bảo kinh nghiệm đan bảo rương ( Ngẫu nhiên )
+2081; Trung cấp Linh Bảo kinh nghiệm đan bảo rương ( Ngẫu nhiên )
+2082; Cao cấp Linh Bảo kinh nghiệm đan bảo rương ( Ngẫu nhiên )
+2083; Lĩnh ngộ bảo rương ( Có thể chọn )
+2084; Thức tỉnh bảo rương ( Có thể chọn )
+2085; Sáo trang thạch bảo rương ( Hạn mua )
+2086; Sáo trang thạch bảo rương ( Ngẫu nhiên )
+2087; Sáo trang thạch bảo rương ( Đồ phòng ngự )
+2088; Sáo trang thạch bảo rương ( Trang sức )
+2089; Lĩnh ngộ bảo rương
+2090; Tuyệt học bảo rương
+2091; Thương khung sáo trang thạch bảo rương
+2092; Lục sắc phù văn ngẫu nhiên bảo rương
+2093; Màu lam phù văn ngẫu nhiên bảo rương
+2094; Tử sắc phù văn ngẫu nhiên bảo rương
+2095; Phù văn màu vàng ngẫu nhiên bảo rương
+2096; Thần cấp phù văn ngẫu nhiên bảo rương
+2097; Tiến giai gói quà ( Có thể chọn )
+2098; Tiến giai gói quà ( Ngẫu nhiên )
+2101; Tiên tông đánh dấu bảo rương
+2201; Nhật vòng 5 Vòng bảo rương
+2202; Nhật vòng 10 Vòng bảo rương
+2203; Nhật vòng 15 Vòng bảo rương
+2204; Nhật vòng 20 Vòng bảo rương
+2205; Kịch bản bản rơi xuống kim tệ 1000
+2206; Kịch bản bản rơi xuống kim tệ 1500
+2207; Kịch bản bản rơi xuống kim tệ 2000
+2208; Kịch bản bản rơi xuống kim tệ 2500
+2209; Kịch bản bản rơi xuống kim tệ 3000
+2221; Công huân bảo rương ( Một )
+2222; Công huân bảo rương ( Hai )
+2223; Công huân bảo rương ( Ba )
+2224; Công huân bảo rương ( Bốn )
+2225; Công huân bảo rương ( Năm )
+2241; Trấn Yêu Tháp thông quan bảo rương
+2242; Thủ vệ Thần khí thông quan bảo rương
+2243; Địa Ngục liệt hỏa thông quan bảo rương
+2244; Cơ quan trận thông quan bảo rương
+2245; Lăng kính mật thất thông quan bảo rương
+2246; Tiên đạo trừ ma thông quan bảo rương
+2301; Trấn Yêu Tháp điểm tích lũy bảo rương
+2302; Trấn Yêu Tháp điểm tích lũy bảo rương
+2303; Trấn Yêu Tháp điểm tích lũy bảo rương
+2304; Trấn Yêu Tháp điểm tích lũy bảo rương
+2305; Trấn Yêu Tháp điểm tích lũy bảo rương
+2306; Tỏa Yêu Tháp điểm tích lũy bảo rương
+2307; Tỏa Yêu Tháp điểm tích lũy bảo rương
+2308; Tỏa Yêu Tháp điểm tích lũy bảo rương
+2309; Tỏa Yêu Tháp điểm tích lũy bảo rương
+2310; Tỏa Yêu Tháp điểm tích lũy bảo rương
+2311; Thủ hộ thí luyện điểm tích lũy bảo rương
+2312; Thủ hộ thí luyện điểm tích lũy bảo rương
+2313; Thủ hộ thí luyện điểm tích lũy bảo rương
+2314; Thủ hộ thí luyện điểm tích lũy bảo rương
+2315; Thủ hộ thí luyện điểm tích lũy bảo rương
+2316; Thủ hộ thần khí điểm tích lũy bảo rương
+2317; Thủ hộ thần khí điểm tích lũy bảo rương
+2318; Thủ hộ thần khí điểm tích lũy bảo rương
+2319; Thủ hộ thần khí điểm tích lũy bảo rương
+2320; Thủ hộ thần khí điểm tích lũy bảo rương
+2321; Địa Ngục liệt hỏa điểm tích lũy bảo rương
+2322; Địa Ngục liệt hỏa điểm tích lũy bảo rương
+2323; Địa Ngục liệt hỏa điểm tích lũy bảo rương
+2324; Địa Ngục liệt hỏa điểm tích lũy bảo rương
+2325; Địa Ngục liệt hỏa điểm tích lũy bảo rương
+2326; Địa Ngục liệt diễm điểm tích lũy bảo rương
+2327; Địa Ngục liệt hỏa điểm tích lũy bảo rương
+2328; Địa Ngục liệt hỏa điểm tích lũy bảo rương
+2329; Địa Ngục liệt hỏa điểm tích lũy bảo rương
+2331; Cơ quan trận điểm tích lũy bảo rương
+2332; Cơ quan trận điểm tích lũy bảo rương
+2333; Cơ quan trận điểm tích lũy bảo rương
+2334; Cơ quan trận điểm tích lũy bảo rương
+2335; Cơ quan trận điểm tích lũy bảo rương
+2336; Thiên Cơ trận điểm tích lũy bảo rương
+2337; Thiên Cơ trận điểm tích lũy bảo rương
+2338; Thiên Cơ trận điểm tích lũy bảo rương
+2339; Thiên Cơ trận điểm tích lũy bảo rương
+2340; Thiên Cơ trận điểm tích lũy bảo rương
+2341; Lăng kính mật thất điểm tích lũy bảo rương
+2342; Lăng kính mật thất điểm tích lũy bảo rương
+2343; Lăng kính mật thất điểm tích lũy bảo rương
+2344; Lăng kính mật thất điểm tích lũy bảo rương
+2345; Lăng kính mật thất điểm tích lũy bảo rương
+2346; Tiên kính mật thất điểm tích lũy bảo rương
+2347; Tiên kính mật thất điểm tích lũy bảo rương
+2348; Tiên kính mật thất điểm tích lũy bảo rương
+2349; Tiên kính mật thất điểm tích lũy bảo rương
+2350; Tiên kính mật thất điểm tích lũy bảo rương
+2351; Tiên đạo trừ ma điểm tích lũy bảo rương
+2352; Tiên đạo trừ ma điểm tích lũy bảo rương
+2353; Tiên đạo trừ ma điểm tích lũy bảo rương
+2354; Tiên đạo trừ ma điểm tích lũy bảo rương
+2355; Tiên đạo trừ ma điểm tích lũy bảo rương
+2356; Tiên đạo săn ma điểm tích lũy bảo rương
+2357; Tiên đạo săn ma điểm tích lũy bảo rương
+2358; Tiên đạo săn ma điểm tích lũy bảo rương
+2359; Tiên đạo săn ma điểm tích lũy bảo rương
+2360; Tiên đạo săn ma điểm tích lũy bảo rương
+2361; Địa Ngục liệt diễm điểm tích lũy bảo rương
+2362; Địa Ngục liệt diễm điểm tích lũy bảo rương
+2363; Địa Ngục liệt diễm điểm tích lũy bảo rương
+2364; Địa Ngục liệt diễm điểm tích lũy bảo rương
+2365; Địa Ngục liệt diễm điểm tích lũy bảo rương
+2366; Địa Ngục liệt diễm điểm tích lũy bảo rương
+2367; Địa Ngục liệt diễm điểm tích lũy bảo rương
+2368; Địa Ngục liệt diễm điểm tích lũy bảo rương
+2369; Địa Ngục liệt diễm điểm tích lũy bảo rương
+2401; Thượng cổ chiến trường vương giả bảo rương
+2402; Thượng cổ chiến trường tinh diệu bảo rương
+2403; Thượng cổ chiến trường kim cương bảo rương
+2404; Thượng cổ chiến trường bạch kim bảo rương
+2411; Lục sắc ngẫu nhiên phù văn
+2412; Màu lam ngẫu nhiên phù văn
+2413; Tử sắc ngẫu nhiên phù văn
+2414; Kim sắc ngẫu nhiên phù văn
+2415; Màu đỏ ngẫu nhiên phù văn
+2500;1 Giai vũ khí rương
+2501;2 Giai vũ khí rương
+2502;3 Giai vũ khí rương
+2503;4 Giai vũ khí rương
+2504;5 Giai vũ khí rương
+2505;6 Giai vũ khí rương
+2506;7 Giai vũ khí rương
+2507;8 Giai vũ khí rương
+2508;9 Giai vũ khí rương
+2509;10 Giai vũ khí rương
+2600;1 Giai đồ phòng ngự rương ( Huyền âm )
+2601;2 Giai đồ phòng ngự rương ( Huyền âm )
+2602;3 Giai đồ phòng ngự rương ( Huyền âm )
+2603;4 Giai đồ phòng ngự rương ( Huyền âm )
+2604;5 Giai đồ phòng ngự rương ( Huyền âm )
+2605;6 Giai đồ phòng ngự rương ( Huyền âm )
+2606;7 Giai đồ phòng ngự rương ( Huyền âm )
+2607;8 Giai đồ phòng ngự rương ( Huyền âm )
+2608;9 Giai đồ phòng ngự rương ( Huyền âm )
+2609;10 Giai đồ phòng ngự rương ( Huyền âm )
+2610;1 Giai đồ phòng ngự rương ( Kiếm tu )
+2611;2 Giai đồ phòng ngự rương ( Kiếm tu )
+2612;3 Giai đồ phòng ngự rương ( Kiếm tu )
+2613;4 Giai đồ phòng ngự rương ( Kiếm tu )
+2614;5 Giai đồ phòng ngự rương ( Kiếm tu )
+2615;6 Giai đồ phòng ngự rương ( Kiếm tu )
+2616;7 Giai đồ phòng ngự rương ( Kiếm tu )
+2617;8 Giai đồ phòng ngự rương ( Kiếm tu )
+2618;9 Giai đồ phòng ngự rương ( Kiếm tu )
+2619;10 Giai đồ phòng ngự rương ( Kiếm tu )
+2620;1 Giai đồ phòng ngự rương ( Kinh lôi )
+2621;2 Giai đồ phòng ngự rương ( Kinh lôi )
+2622;3 Giai đồ phòng ngự rương ( Kinh lôi )
+2623;4 Giai đồ phòng ngự rương ( Kinh lôi )
+2624;5 Giai đồ phòng ngự rương ( Kinh lôi )
+2625;6 Giai đồ phòng ngự rương ( Kinh lôi )
+2626;7 Giai đồ phòng ngự rương ( Kinh lôi )
+2627;8 Giai đồ phòng ngự rương ( Kinh lôi )
+2628;9 Giai đồ phòng ngự rương ( Kinh lôi )
+2629;10 Giai đồ phòng ngự rương ( Kinh lôi )
+2700;1 Giai trang sức rương ( Huyền âm )
+2701;2 Giai trang sức rương ( Huyền âm )
+2702;3 Giai trang sức rương ( Huyền âm )
+2703;4 Giai trang sức rương ( Huyền âm )
+2704;5 Giai trang sức rương ( Huyền âm )
+2705;6 Giai trang sức rương ( Huyền âm )
+2706;7 Giai trang sức rương ( Huyền âm )
+2707;8 Giai trang sức rương ( Huyền âm )
+2708;9 Giai trang sức rương ( Huyền âm )
+2709;10 Giai trang sức rương ( Huyền âm )
+2710;1 Giai trang sức rương ( Kiếm tu )
+2711;2 Giai trang sức rương ( Kiếm tu )
+2712;3 Giai trang sức rương ( Kiếm tu )
+2713;4 Giai trang sức rương ( Kiếm tu )
+2714;5 Giai trang sức rương ( Kiếm tu )
+2715;6 Giai trang sức rương ( Kiếm tu )
+2716;7 Giai trang sức rương ( Kiếm tu )
+2717;8 Giai trang sức rương ( Kiếm tu )
+2718;9 Giai trang sức rương ( Kiếm tu )
+2719;10 Giai trang sức rương ( Kiếm tu )
+2720;1 Giai trang sức rương ( Kinh lôi )
+2721;2 Giai trang sức rương ( Kinh lôi )
+2722;3 Giai trang sức rương ( Kinh lôi )
+2723;4 Giai trang sức rương ( Kinh lôi )
+2724;5 Giai trang sức rương ( Kinh lôi )
+2725;6 Giai trang sức rương ( Kinh lôi )
+2726;7 Giai trang sức rương ( Kinh lôi )
+2727;8 Giai trang sức rương ( Kinh lôi )
+2728;9 Giai trang sức rương ( Kinh lôi )
+2729;10 Giai trang sức rương ( Kinh lôi )
+2800;1 Giai trang sức rương
+2801;2 Giai trang sức rương
+2802;3 Giai trang sức rương
+2803;4 Giai trang sức rương
+2804;5 Giai trang sức rương
+2805;6 Giai trang sức rương
+2806;7 Giai trang sức rương
+2807;8 Giai trang sức rương
+2808;9 Giai trang sức rương
+2809;10 Giai trang sức rương
+2901; Phổ thông thu thập rơi xuống
+2902; Hi hữu thu thập rơi xuống
+3001; Bảo vật gia truyền chi đàn
+3002; Bảo vật gia truyền chi kiếm
+3003; Bảo vật gia truyền chi chùy
+3101; Hai người thi đấu bảo rương
+3102; Hai người thi đấu bảo rương
+3103; Hai người thi đấu bảo rương
+3201;1 Giai thần trang vũ khí rương ( Có thể chọn )
+3202;2 Giai thần trang vũ khí rương ( Có thể chọn )
+3203;3 Giai thần trang vũ khí rương ( Có thể chọn )
+3204;4 Giai thần trang vũ khí rương ( Có thể chọn )
+3205;5 Giai thần trang vũ khí rương ( Có thể chọn )
+3206;6 Giai thần trang vũ khí rương ( Có thể chọn )
+3207;7 Giai thần trang vũ khí rương ( Có thể chọn )
+3208;8 Giai thần trang vũ khí rương ( Có thể chọn )
+3209;9 Giai thần trang vũ khí rương ( Có thể chọn )
+3210;10 Giai thần trang vũ khí rương ( Có thể chọn )
+3211;11 Giai thần trang vũ khí rương ( Có thể chọn )
+3212;12 Giai thần trang vũ khí rương ( Có thể chọn )
+3301;1 Giai thần trang đồ phòng ngự rương ( Có thể chọn )
+3302;2 Giai thần trang đồ phòng ngự rương ( Có thể chọn )
+3303;3 Giai thần trang đồ phòng ngự rương ( Có thể chọn )
+3304;4 Giai thần trang đồ phòng ngự rương ( Có thể chọn )
+3305;5 Giai thần trang đồ phòng ngự rương ( Có thể chọn )
+3306;6 Giai thần trang đồ phòng ngự rương ( Có thể chọn )
+3307;7 Giai thần trang đồ phòng ngự rương ( Có thể chọn )
+3308;8 Giai thần trang đồ phòng ngự rương ( Có thể chọn )
+3309;9 Giai thần trang đồ phòng ngự rương ( Có thể chọn )
+3310;10 Giai thần trang đồ phòng ngự rương ( Có thể chọn )
+3311;11 Giai thần trang đồ phòng ngự rương ( Có thể chọn )
+3312;12 Giai thần trang đồ phòng ngự rương ( Có thể chọn )
+3401;1 Giai thần trang trang sức rương ( Có thể chọn )
+3402;2 Giai thần trang trang sức rương ( Có thể chọn )
+3403;3 Giai thần trang trang sức rương ( Có thể chọn )
+3404;4 Giai thần trang trang sức rương ( Có thể chọn )
+3405;5 Giai thần trang trang sức rương ( Có thể chọn )
+3406;6 Giai thần trang trang sức rương ( Có thể chọn )
+3407;7 Giai thần trang trang sức rương ( Có thể chọn )
+3408;8 Giai thần trang trang sức rương ( Có thể chọn )
+3409;9 Giai thần trang trang sức rương ( Có thể chọn )
+3410;10 Giai thần trang trang sức rương ( Có thể chọn )
+3411;11 Giai thần trang trang sức rương ( Có thể chọn )
+3412;12 Giai thần trang trang sức rương ( Có thể chọn )
+3501;1 Giai thần trang vũ khí rương ( Ngẫu nhiên )
+3502;2 Giai thần trang vũ khí rương ( Ngẫu nhiên )
+3503;3 Giai thần trang vũ khí rương ( Ngẫu nhiên )
+3504;4 Giai thần trang vũ khí rương ( Ngẫu nhiên )
+3505;5 Giai thần trang vũ khí rương ( Ngẫu nhiên )
+3506;6 Giai thần trang vũ khí rương ( Ngẫu nhiên )
+3507;7 Giai thần trang vũ khí rương ( Ngẫu nhiên )
+3508;8 Giai thần trang vũ khí rương ( Ngẫu nhiên )
+3509;9 Giai thần trang vũ khí rương ( Ngẫu nhiên )
+3510;10 Giai thần trang vũ khí rương ( Ngẫu nhiên )
+3511;11 Giai thần trang vũ khí rương ( Ngẫu nhiên )
+3512;12 Giai thần trang vũ khí rương ( Ngẫu nhiên )
+3601;1 Giai thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+3602;2 Giai thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+3603;3 Giai thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+3604;4 Giai thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+3605;5 Giai thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+3606;6 Giai thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+3607;7 Giai thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+3608;8 Giai thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+3609;9 Giai thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+3610;10 Giai thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+3611;11 Giai thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+3612;12 Giai thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+3701;1 Giai thần trang trang sức rương ( Ngẫu nhiên )
+3702;2 Giai thần trang trang sức rương ( Ngẫu nhiên )
+3703;3 Giai thần trang trang sức rương ( Ngẫu nhiên )
+3704;4 Giai thần trang trang sức rương ( Ngẫu nhiên )
+3705;5 Giai thần trang trang sức rương ( Ngẫu nhiên )
+3706;6 Giai thần trang trang sức rương ( Ngẫu nhiên )
+3707;7 Giai thần trang trang sức rương ( Ngẫu nhiên )
+3708;8 Giai thần trang trang sức rương ( Ngẫu nhiên )
+3709;9 Giai thần trang trang sức rương ( Ngẫu nhiên )
+3710;10 Giai thần trang trang sức rương ( Ngẫu nhiên )
+3711;11 Giai thần trang trang sức rương ( Ngẫu nhiên )
+3712;12 Giai thần trang trang sức rương ( Ngẫu nhiên )
+3721;1 Giai thần trang bảo rương ( Ngẫu nhiên )
+3722;2 Giai thần trang bảo rương ( Ngẫu nhiên )
+3723;3 Giai thần trang bảo rương ( Ngẫu nhiên )
+3724;4 Giai thần trang bảo rương ( Ngẫu nhiên )
+3725;5 Giai thần trang bảo rương ( Ngẫu nhiên )
+3726;6 Giai thần trang bảo rương ( Ngẫu nhiên )
+3727;7 Giai thần trang bảo rương ( Ngẫu nhiên )
+3728;8 Giai thần trang bảo rương ( Ngẫu nhiên )
+3729;9 Giai thần trang bảo rương ( Ngẫu nhiên )
+3730;10 Giai thần trang bảo rương ( Ngẫu nhiên )
+3731;11 Giai thần trang bảo rương ( Ngẫu nhiên )
+3732;12 Giai thần trang bảo rương ( Ngẫu nhiên )
+3741;1 Giai thần trang bảo rương ( Tự do )
+3742;2 Giai thần trang bảo rương ( Tự do )
+3743;3 Giai thần trang bảo rương ( Tự do )
+3744;4 Giai thần trang bảo rương ( Tự do )
+3745;5 Giai thần trang bảo rương ( Tự do )
+3746;6 Giai thần trang bảo rương ( Tự do )
+3747;7 Giai thần trang bảo rương ( Tự do )
+3748;8 Giai thần trang bảo rương ( Tự do )
+3749;9 Giai thần trang bảo rương ( Tự do )
+3750;10 Giai thần trang bảo rương ( Tự do )
+3751;11 Giai thần trang bảo rương ( Tự do )
+3752;12 Giai thần trang bảo rương ( Tự do )
+3762;2 Giai Chân Thần trang bảo rương ( Ngẫu nhiên )
+3763;3 Giai Chân Thần trang bảo rương ( Ngẫu nhiên )
+3764;4 Giai Chân Thần trang bảo rương ( Ngẫu nhiên )
+3765;5 Giai Chân Thần trang bảo rương ( Ngẫu nhiên )
+3766;6 Giai Chân Thần trang bảo rương ( Ngẫu nhiên )
+3767;7 Giai Chân Thần trang bảo rương ( Ngẫu nhiên )
+3768;8 Giai Chân Thần trang bảo rương ( Ngẫu nhiên )
+3769;9 Giai Chân Thần trang bảo rương ( Ngẫu nhiên )
+3770;10 Giai Chân Thần trang bảo rương ( Ngẫu nhiên )
+3771;11 Giai Chân Thần trang bảo rương ( Ngẫu nhiên )
+3772;12 Giai Chân Thần trang bảo rương ( Ngẫu nhiên )
+3782;2 Giai Chân Thần trang bảo rương ( Tự do )
+3783;3 Giai Chân Thần trang bảo rương ( Tự do )
+3784;4 Giai Chân Thần trang bảo rương ( Tự do )
+3785;5 Giai Chân Thần trang bảo rương ( Tự do )
+3786;6 Giai Chân Thần trang bảo rương ( Tự do )
+3787;7 Giai Chân Thần trang bảo rương ( Tự do )
+3788;8 Giai Chân Thần trang bảo rương ( Tự do )
+3789;9 Giai Chân Thần trang bảo rương ( Tự do )
+3790;10 Giai Chân Thần trang bảo rương ( Tự do )
+3791;11 Giai Chân Thần trang bảo rương ( Tự do )
+3792;12 Giai Chân Thần trang bảo rương ( Tự do )
+3801; Tiên khí màu xanh lục ngẫu nhiên bảo rương
+3802; Tiên khí màu xanh lam ngẫu nhiên bảo rương
+3803; Tiên khí màu tím ngẫu nhiên bảo rương
+3804; Tiên khí màu vàng óng ngẫu nhiên bảo rương
+3805; Tiên khí màu đỏ ngẫu nhiên bảo rương
+3811; Tiên khí màu xanh lục ngẫu nhiên bảo rương
+3812; Tiên khí màu xanh lam ngẫu nhiên bảo rương
+3813; Tiên khí màu tím ngẫu nhiên bảo rương
+3814; Tiên khí màu vàng óng ngẫu nhiên bảo rương
+3815; Tiên khí màu đỏ ngẫu nhiên bảo rương
+3821; Tiên khí màu xanh lục ngẫu nhiên bảo rương
+3822; Tiên khí màu xanh lam ngẫu nhiên bảo rương
+3823; Tiên khí màu tím ngẫu nhiên bảo rương
+3824; Tiên khí màu vàng óng ngẫu nhiên bảo rương
+3825; Tiên khí màu đỏ ngẫu nhiên bảo rương
+3830; Lục sắc trang sức ngẫu nhiên bảo rương
+3831; Màu lam trang sức ngẫu nhiên bảo rương
+3832; Tử sắc trang sức ngẫu nhiên bảo rương
+3833; Kim sắc trang sức ngẫu nhiên bảo rương
+3834; Màu đỏ 2 Tinh trang sức ngẫu nhiên bảo rương
+3835; Màu đỏ 3 Tinh trang sức ngẫu nhiên bảo rương
+3841; Vạn năm yêu huyệt tầng thứ nhất càn quét bảo rương
+3842; Vạn năm yêu huyệt tầng thứ hai càn quét bảo rương
+3843; Vạn năm yêu huyệt tầng thứ ba càn quét bảo rương
+3844; Vạn năm yêu huyệt tầng thứ tư càn quét bảo rương
+3845; Vạn năm yêu huyệt tầng thứ năm càn quét bảo rương
+3846; Vạn năm yêu huyệt tầng thứ sáu càn quét bảo rương
+3847; Vạn năm yêu huyệt tầng thứ bảy càn quét bảo rương
+3848; Vạn năm yêu huyệt tầng thứ tám càn quét bảo rương
+3849; Vạn năm yêu huyệt tầng thứ chín càn quét bảo rương
+3850; Vạn năm yêu huyệt tầng thứ mười càn quét bảo rương
+3902;2 Giai tiên thần trang bảo rương ( Ngẫu nhiên )
+3903;3 Giai tiên thần trang bảo rương ( Ngẫu nhiên )
+3904;4 Giai tiên thần trang bảo rương ( Ngẫu nhiên )
+3905;5 Giai tiên thần trang bảo rương ( Ngẫu nhiên )
+3906;6 Giai tiên thần trang bảo rương ( Ngẫu nhiên )
+3907;7 Giai tiên thần trang bảo rương ( Ngẫu nhiên )
+3908;8 Giai tiên thần trang bảo rương ( Ngẫu nhiên )
+3909;9 Giai tiên thần trang bảo rương ( Ngẫu nhiên )
+3910;10 Giai tiên thần trang bảo rương ( Ngẫu nhiên )
+3911;11 Giai tiên thần trang bảo rương ( Ngẫu nhiên )
+3912;12 Giai tiên thần trang bảo rương ( Ngẫu nhiên )
+3922;2 Giai tiên thần trang bảo rương ( Tự do )
+3923;3 Giai tiên thần trang bảo rương ( Tự do )
+3924;4 Giai tiên thần trang bảo rương ( Tự do )
+3925;5 Giai tiên thần trang bảo rương ( Tự do )
+3926;6 Giai tiên thần trang bảo rương ( Tự do )
+3927;7 Giai tiên thần trang bảo rương ( Tự do )
+3928;8 Giai tiên thần trang bảo rương ( Tự do )
+3929;9 Giai tiên thần trang bảo rương ( Tự do )
+3930;10 Giai tiên thần trang bảo rương ( Tự do )
+3931;11 Giai tiên thần trang bảo rương ( Tự do )
+3932;12 Giai tiên thần trang bảo rương ( Tự do )
+3944;4 Giai tuyệt thần trang bảo rương ( Ngẫu nhiên )
+3945;5 Giai tuyệt thần trang bảo rương ( Ngẫu nhiên )
+3946;6 Giai tuyệt thần trang bảo rương ( Ngẫu nhiên )
+3947;7 Giai tuyệt thần trang bảo rương ( Ngẫu nhiên )
+3948;8 Giai tuyệt thần trang bảo rương ( Ngẫu nhiên )
+3949;9 Giai tuyệt thần trang bảo rương ( Ngẫu nhiên )
+3950;10 Giai tuyệt thần trang bảo rương ( Ngẫu nhiên )
+3951;11 Giai tuyệt thần trang bảo rương ( Ngẫu nhiên )
+3952;12 Giai tuyệt thần trang bảo rương ( Ngẫu nhiên )
+3964;4 Giai tuyệt thần trang bảo rương ( Tự do )
+3965;5 Giai tuyệt thần trang bảo rương ( Tự do )
+3966;6 Giai tuyệt thần trang bảo rương ( Tự do )
+3967;7 Giai tuyệt thần trang bảo rương ( Tự do )
+3968;8 Giai tuyệt thần trang bảo rương ( Tự do )
+3969;9 Giai tuyệt thần trang bảo rương ( Tự do )
+3970;10 Giai tuyệt thần trang bảo rương ( Tự do )
+3971;11 Giai tuyệt thần trang bảo rương ( Tự do )
+3972;12 Giai tuyệt thần trang bảo rương ( Tự do )
+4001; Độc nhất vô nhị gói quà
+4002;VIP Gói quà
+4003; Vấn quyển gói quà
+4004; Phúc lợi gói quà ( Một )
+4005; Phúc lợi gói quà ( Hai )
+4006; Phản hồi gói quà
+4007; Diễn đàn hoạt động gói quà
+4008; Nhập bầy gói quà
+4009; An phong tròn năm khánh gói quà
+4010; Mới nhập bầy gói quà
+4011; Điện thoại khóa lại gói quà
+4012; Hẹn trước gói quà
+4013; Tân thủ gói quà
+4014; Trung cấp gói quà
+4015;VIP1 Phúc lợi gói quà
+4016;VIP2 Phúc lợi gói quà
+4017;VIP3 Phúc lợi gói quà
+4018;VIP4 Phúc lợi gói quà
+4019;VIP5 Phúc lợi gói quà
+4020;VIP6 Phúc lợi gói quà
+4021;VIP7 Phúc lợi gói quà
+4022;VIP8 Phúc lợi gói quà
+4023;VIP9 Phúc lợi gói quà
+4024;VIP10 Phúc lợi gói quà
+4025; Mới VIP Gói quà
+4026; Đề nghị gói quà
+4027; Chiến lực gói quà
+4028; Cao cấp gói quà
+4029; Con đường phản hồi gói quà
+4030; Con đường VIP Gói quà
+4031; Rút thưởng gói quà
+4032; Thanh đồng gói quà
+4033; Bạch ngân gói quà
+4034; Hoàng kim gói quà
+4035; Kim cương gói quà
+4036; Wechat chú ý gói quà
+4037; Mời 1 Người gói quà
+4038; Mời 3 Người gói quà
+4039; Mời 5 Người gói quà
+4040; Mời 10 Người gói quà
+4041;10W Tập kết gói quà
+4042;20W Tập kết gói quà
+4043;50W Tập kết gói quà
+4044;100W Tập kết gói quà
+4045; Đẳng cấp hào lễ ( Thẻ bạc )
+4046; Đẳng cấp hào lễ ( Thẻ vàng )
+4047; Đẳng cấp hào lễ ( Bạch kim thẻ vàng )
+4048; Đẳng cấp hào lễ ( Đen thẻ )
+4049; Mỗi ngày phúc lợi ( Thẻ hội viên )
+4050; Mỗi ngày phúc lợi ( Thẻ bạc )
+4051; Mỗi ngày phúc lợi ( Thẻ vàng )
+4052; Mỗi ngày phúc lợi ( Bạch kim thẻ vàng )
+4053; Mỗi ngày phúc lợi ( Đen thẻ )
+4054; Định chế đạo cụ ( Thẻ vàng )
+4055; Định chế đạo cụ ( Bạch kim thẻ vàng )
+4056; Định chế đạo cụ ( Đen thẻ )
+4057; Bá phục mới người sử dụng gói quà
+4058; Mới người sử dụng gói quà
+4059; Open Beta gói quà
+4060; Thủ mạo xưng gói quà
+4061; Bạch ngân nạp tiền gói quà
+4062; Hoàng kim nạp tiền gói quà
+4063; Kim cương nạp tiền gói quà
+4064; Chí tôn nạp tiền gói quà
+4065; Tiên Tôn nạp tiền gói quà
+4066; Thánh Tôn nạp tiền gói quà
+4067; Đế Tôn nạp tiền gói quà
+4068; Nhãn hiệu gói quà
+4069; Hàng tháng gói quà
+4070; Sơ cấp triệu hồi gói quà
+4071; Trung cấp triệu hồi gói quà
+4072; Cao cấp triệu hồi gói quà
+4073; Hẹn trước gói quà
+4074; Mời một người
+4075; Mời hai người
+4076; Mời ba người
+4077; Phục vụ khách hàng gói quà _ Nhỏ
+4078; Phục vụ khách hàng gói quà _ Bên trong
+4079; Phục vụ khách hàng gói quà _ Lớn
+4081;MYCARD Chuyên môn hảo lễ
+4102;2 Giai Chân Thần trang vũ khí rương ( Ngẫu nhiên )
+4103;3 Giai Chân Thần trang vũ khí rương ( Ngẫu nhiên )
+4104;4 Giai Chân Thần trang vũ khí rương ( Ngẫu nhiên )
+4105;5 Giai Chân Thần trang vũ khí rương ( Ngẫu nhiên )
+4106;6 Giai Chân Thần trang vũ khí rương ( Ngẫu nhiên )
+4107;7 Giai Chân Thần trang vũ khí rương ( Ngẫu nhiên )
+4108;8 Giai Chân Thần trang vũ khí rương ( Ngẫu nhiên )
+4109;9 Giai Chân Thần trang vũ khí rương ( Ngẫu nhiên )
+4110;10 Giai Chân Thần trang vũ khí rương ( Ngẫu nhiên )
+4111;11 Giai Chân Thần trang vũ khí rương ( Ngẫu nhiên )
+4112;12 Giai Chân Thần trang vũ khí rương ( Ngẫu nhiên )
+4202;2 Giai Chân Thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4203;3 Giai Chân Thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4204;4 Giai Chân Thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4205;5 Giai Chân Thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4206;6 Giai Chân Thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4207;7 Giai Chân Thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4208;8 Giai Chân Thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4209;9 Giai Chân Thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4210;10 Giai Chân Thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4211;11 Giai Chân Thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4212;12 Giai Chân Thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4302;2 Giai Chân Thần vật phẩm trang sức rương ( Ngẫu nhiên )
+4303;3 Giai Chân Thần vật phẩm trang sức rương ( Ngẫu nhiên )
+4304;4 Giai Chân Thần vật phẩm trang sức rương ( Ngẫu nhiên )
+4305;5 Giai Chân Thần vật phẩm trang sức rương ( Ngẫu nhiên )
+4306;6 Giai Chân Thần vật phẩm trang sức rương ( Ngẫu nhiên )
+4307;7 Giai Chân Thần vật phẩm trang sức rương ( Ngẫu nhiên )
+4308;8 Giai Chân Thần vật phẩm trang sức rương ( Ngẫu nhiên )
+4309;9 Giai Chân Thần vật phẩm trang sức rương ( Ngẫu nhiên )
+4310;10 Giai Chân Thần vật phẩm trang sức rương ( Ngẫu nhiên )
+4311;11 Giai Chân Thần vật phẩm trang sức rương ( Ngẫu nhiên )
+4312;12 Giai Chân Thần vật phẩm trang sức rương ( Ngẫu nhiên )
+4402;2 Giai tiên thần trang vũ khí rương ( Ngẫu nhiên )
+4403;3 Giai tiên thần trang vũ khí rương ( Ngẫu nhiên )
+4404;4 Giai tiên thần trang vũ khí rương ( Ngẫu nhiên )
+4405;5 Giai tiên thần trang vũ khí rương ( Ngẫu nhiên )
+4406;6 Giai tiên thần trang vũ khí rương ( Ngẫu nhiên )
+4407;7 Giai tiên thần trang vũ khí rương ( Ngẫu nhiên )
+4408;8 Giai tiên thần trang vũ khí rương ( Ngẫu nhiên )
+4409;9 Giai tiên thần trang vũ khí rương ( Ngẫu nhiên )
+4410;10 Giai tiên thần trang vũ khí rương ( Ngẫu nhiên )
+4411;11 Giai tiên thần trang vũ khí rương ( Ngẫu nhiên )
+4412;12 Giai tiên thần trang vũ khí rương ( Ngẫu nhiên )
+4502;2 Giai tiên thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4503;3 Giai tiên thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4504;4 Giai tiên thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4505;5 Giai tiên thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4506;6 Giai tiên thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4507;7 Giai tiên thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4508;8 Giai tiên thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4509;9 Giai tiên thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4510;10 Giai tiên thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4511;11 Giai tiên thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4512;12 Giai tiên thần trang đồ phòng ngự rương ( Ngẫu nhiên )
+4602;2 Giai tiên thần trang trang sức rương ( Ngẫu nhiên )
+4603;3 Giai tiên thần trang trang sức rương ( Ngẫu nhiên )
+4604;4 Giai tiên thần trang trang sức rương ( Ngẫu nhiên )
+4605;5 Giai tiên thần trang trang sức rương ( Ngẫu nhiên )
+4606;6 Giai tiên thần trang trang sức rương ( Ngẫu nhiên )
+4607;7 Giai tiên thần trang trang sức rương ( Ngẫu nhiên )
+4608;8 Giai tiên thần trang trang sức rương ( Ngẫu nhiên )
+4609;9 Giai tiên thần trang trang sức rương ( Ngẫu nhiên )
+4610;10 Giai tiên thần trang trang sức rương ( Ngẫu nhiên )
+4611;11 Giai tiên thần trang trang sức rương ( Ngẫu nhiên )
+4612;12 Giai tiên thần trang trang sức rương ( Ngẫu nhiên )
+4701; Thế giới BOSS Sơ cấp bảo rương
+4702; Thế giới BOSS Trung cấp bảo rương
+4703; Thế giới BOSS Cao cấp bảo rương
+4704; Thế giới BOSS Thật cấp bảo rương
+4705; Thế giới BOSS Tiên cấp bảo rương
+4706; Thế giới BOSS Tuyệt cấp bảo rương
+4707; Thế giới BOSS Vô song bảo rương
+5001; Kết hôn nhỏ gói quà
+5002; Kết hôn xa hoa gói quà
+5003; Phổ thông kẹo mừng
+5004; Cao cấp kẹo mừng
+5005; Xa hoa kẹo mừng
+5501; Địa cung quyển trục x3
+5502; Tinh luyện thạch x50
+5503; Sáo trang thạch x50
+5504; Thương khung sáo trang thạch x50
+5505; Ngẫu nhiên khóa lại Nguyên bảo (200-400)
+5506; Khóa lại Nguyên bảo x1000
+5507; Thái Sơ Thánh Tôn trang bị bảo rương ( Mục tiêu )
+5508; Thái Sơ Thánh Tôn · Đế trang bị bảo rương ( Mục tiêu )
+5509; Thái Sơ Thánh Tôn · Đế trang bị bảo rương ( Mục tiêu / Có thể chọn )
+5510; Chí bảo rèn luyện thạch x50
+5511; Tọa kỵ / Cánh chim tiến giai bảo rương
+5512; Tử sắc phù văn gói quà
+5513; Phù văn màu vàng gói quà
+5514; Phù văn khiến x2
+5515; Chí bảo tiến giai bảo rương
+5516; Nhất giai độn giáp bảo rương ( Có thể chọn )
+5517; Nhị giai độn giáp bảo rương ( Có thể chọn )
+5518; Tam giai độn giáp bảo rương ( Có thể chọn )
+5519; Tứ giai độn giáp bảo rương ( Có thể chọn )
+5520; Ngũ giai độn giáp bảo rương ( Có thể chọn )
+5521; Lục giai độn giáp bảo rương ( Có thể chọn )
+5522; Thất giai độn giáp bảo rương ( Có thể chọn )
+5523; Bát giai độn giáp bảo rương ( Có thể chọn )
+5524; Cửu giai độn giáp bảo rương ( Có thể chọn )
+5525; Thập giai độn giáp bảo rương ( Có thể chọn )
+5526; Trời phách ngẫu nhiên bảo rương · Sơ
+5527; Trời phách ngẫu nhiên bảo rương · Bên trong
+5528; Trời phách ngẫu nhiên bảo rương · Cao
+5529; Trời phách ngẫu nhiên bảo rương · Ưu
+5530; Trời phách ngẫu nhiên bảo rương · Ưu ( Nhất tinh )
+5531; Trời phách ngẫu nhiên bảo rương · Ưu ( Nhị tinh )
+5532; Trời phách ngẫu nhiên bảo rương · Ưu ( Tam tinh )
+5533; Trời phách ngẫu nhiên bảo rương · Đặc biệt
+5534; Trời phách ngẫu nhiên bảo rương · Đặc biệt ( Nhất tinh )
+5535; Trời phách ngẫu nhiên bảo rương · Đặc biệt ( Nhị tinh )
+5536; Trời phách ngẫu nhiên bảo rương · Đặc biệt ( Tam tinh )
+5537; Lục sắc tuyệt âm đàn ngẫu nhiên bảo rương
+5538; Màu lam tuyệt âm đàn ngẫu nhiên bảo rương
+5539; Tử sắc tuyệt âm đàn ngẫu nhiên bảo rương
+5540; Kim sắc tuyệt âm đàn ngẫu nhiên bảo rương
+5541; Màu đỏ tuyệt âm đàn ngẫu nhiên bảo rương
+5542; Lục sắc ngự hỏa kiếm ngẫu nhiên bảo rương
+5543; Màu lam ngự hỏa kiếm ngẫu nhiên bảo rương
+5544; Tử sắc ngự hỏa kiếm ngẫu nhiên bảo rương
+5545; Kim sắc ngự hỏa kiếm ngẫu nhiên bảo rương
+5546; Màu đỏ ngự hỏa kiếm ngẫu nhiên bảo rương
+5547; Lục sắc La Sát chùy ngẫu nhiên bảo rương
+5548; Màu lam La Sát chùy ngẫu nhiên bảo rương
+5549; Tử sắc La Sát chùy ngẫu nhiên bảo rương
+5550; Kim sắc La Sát chùy ngẫu nhiên bảo rương
+5551; Màu đỏ La Sát chùy ngẫu nhiên bảo rương
+5552; Lục sắc huyền vũ kiếm ngẫu nhiên bảo rương
+5553; Màu lam huyền vũ kiếm ngẫu nhiên bảo rương
+5554; Tử sắc huyền vũ kiếm ngẫu nhiên bảo rương
+5555; Kim sắc huyền vũ kiếm ngẫu nhiên bảo rương
+5556; Màu đỏ huyền vũ kiếm ngẫu nhiên bảo rương
+5557; Vu bà mũ
+5558; Nhỏ mộ bia
+5559; Kẹo que
+5560; Bí đỏ đèn
+5561; Sơ cấp mảnh vỡ pháp bảo tự do bảo rương
+5562; Trung cấp mảnh vỡ pháp bảo tự do bảo rương
+5563; Cao cấp mảnh vỡ pháp bảo tự do bảo rương
+5564; Chí tôn mảnh vỡ pháp bảo tự do bảo rương
+5565; Sơ cấp mảnh vỡ pháp bảo ngẫu nhiên bảo rương
+5566; Trung cấp mảnh vỡ pháp bảo ngẫu nhiên bảo rương
+5567; Cao cấp mảnh vỡ pháp bảo ngẫu nhiên bảo rương
+5568; Chí tôn mảnh vỡ pháp bảo ngẫu nhiên bảo rương
+5569; Phổ thông sáo trang thạch bảo rương ( Có thể chọn )
+5570; Thương khung sáo trang thạch bảo rương ( Có thể chọn )
+5571; Chế tạo thạch bảo rương
+5572; Chế tạo đá bể phiến bảo rương
+5573; Trữ giá trị gói quà một
+5574; Trữ giá trị gói quà hai
+5575; Trữ giá trị gói quà ba
+5576; Trữ giá trị gói quà bốn
+5577; Trữ giá trị gói quà năm
+5578; Trữ giá trị gói quà sáu
+5579; Trữ giá trị gói quà bảy
+5580; Trữ giá trị gói quà tám
+5581; Trữ giá trị gói quà chín
+5582; Trữ giá trị gói quà mười
+5583; Trữ giá trị gói quà mười một
+5584; Trữ giá trị gói quà mười hai
+5585; Trữ giá trị gói quà mười ba
+5586; Thái Sơ Thánh Tôn trang bị bảo rương ( Mục tiêu / Có thể chọn )
+5587; Thái Sơ Thánh Tôn · Cực trang bị bảo rương ( Mục tiêu / Có thể chọn )
+5588; Tập chữ nhỏ gói quà ( Một )
+5589; Tập trong chữ gói quà ( Một )
+5590; Tập chữ gói quà lớn ( Một )
+5591; Tập chữ chung cực gói quà ( Một )
+5592; Tập chữ nhỏ gói quà ( Hai )
+5593; Tập trong chữ gói quà ( Hai )
+5594; Tập chữ gói quà lớn ( Hai )
+5595; Tập chữ chung cực gói quà ( Hai )
+5596; Tập chữ nhỏ gói quà ( Ba )
+5597; Tập trong chữ gói quà ( Ba )
+5598; Tập chữ gói quà lớn ( Ba )
+5599; Tập chữ chung cực gói quà ( Ba )
+5600; Tập chữ cuồng hoan
+5601; Lục sắc tuyệt âm đàn có thể chọn bảo rương
+5602; Màu lam tuyệt âm đàn có thể chọn bảo rương
+5603; Tử sắc tuyệt âm đàn có thể chọn bảo rương
+5604; Kim sắc tuyệt âm đàn có thể chọn bảo rương
+5605; Màu đỏ tuyệt âm đàn có thể chọn bảo rương
+5606; Lục sắc ngự hỏa kiếm có thể chọn bảo rương
+5607; Màu lam ngự hỏa kiếm có thể chọn bảo rương
+5608; Tử sắc ngự hỏa kiếm có thể chọn bảo rương
+5609; Kim sắc ngự hỏa kiếm có thể chọn bảo rương
+5610; Màu đỏ ngự hỏa kiếm có thể chọn bảo rương
+5611; Lục sắc La Sát chùy có thể chọn bảo rương
+5612; Màu lam La Sát chùy có thể chọn bảo rương
+5613; Tử sắc La Sát chùy có thể chọn bảo rương
+5614; Kim sắc La Sát chùy có thể chọn bảo rương
+5615; Màu đỏ La Sát chùy có thể chọn bảo rương
+5616; Lục sắc huyền vũ kiếm có thể chọn bảo rương
+5617; Màu lam huyền vũ kiếm có thể chọn bảo rương
+5618; Tử sắc huyền vũ kiếm có thể chọn bảo rương
+5619; Kim sắc huyền vũ kiếm có thể chọn bảo rương
+5620; Màu đỏ huyền vũ kiếm có thể chọn bảo rương
+5621; Chế tạo thạch bảo rương ( Có thể chọn )
+5622; Cuối tuần nhỏ gói quà ( Một )
+5623; Cuối tuần bên trong gói quà ( Một )
+5624; Cuối tuần gói quà lớn ( Một )
+5625; Cuối tuần cuồng hoan gói quà ( Một )
+5626; Cuối tuần cuồng hoan
+5627; Cuối tuần nhỏ gói quà ( Hai )
+5628; Cuối tuần bên trong gói quà ( Hai )
+5629; Cuối tuần gói quà lớn ( Hai )
+5630; Cuối tuần cuồng hoan gói quà ( Hai )
+5631; Giáng Sinh mũ
+5632; Tiểu Tuyết người
+5633; Linh đang
+5634; Trượt tuyết
+5635; Vượt năm nhỏ gói quà
+5636; Vượt giữa năm gói quà
+5637; Vượt năm gói quà lớn
+5638; Vượt lễ mừng mỗi năm điển lễ bao
+5639; Lục sắc thiên chương bảo rương ( Tự do )
+5640; Màu lam thiên chương bảo rương ( Tự do )
+5641; Tử sắc thiên chương bảo rương ( Tự do )
+5642; Kim sắc thiên chương bảo rương ( Tự do )
+5643; Màu đỏ thiên chương bảo rương ( Tự do )
+6000; Độn giáp khảo thí gói quà
+6100; Tiểu Phi giày gói quà
+7001;1 Cấp ngọc thạch bảo rương
+7002;2 Cấp ngọc thạch bảo rương
+7003;3 Cấp ngọc thạch bảo rương
+7004;4 Cấp ngọc thạch bảo rương
+7005;5 Cấp ngọc thạch bảo rương
+7006;6 Cấp ngọc thạch bảo rương
+7007;7 Cấp ngọc thạch bảo rương
+7008;8 Cấp ngọc thạch bảo rương
+7009;9 Cấp ngọc thạch bảo rương
+7010;10 Cấp ngọc thạch bảo rương
+31001; Tiên lữ nguyệt thẻ
+31002;2 Giai vũ khí rương
+31003;3 Giai vũ khí rương
+31004;4 Giai vũ khí rương
+31005;5 Giai vũ khí rương
+31006;6 Giai vũ khí rương
+31007;7 Giai vũ khí rương
+31008;8 Giai vũ khí rương
+31009;9 Giai vũ khí rương
+31010;10 Giai vũ khí rương
+40001;S1 Trận đấu mùa giải tiên lệnh đặc quyền
+40002;S2 Trận đấu mùa giải tiên lệnh đặc quyền
+40003;S3 Trận đấu mùa giải tiên lệnh đặc quyền
+40004;S4 Trận đấu mùa giải tiên lệnh đặc quyền
+40005;S5 Trận đấu mùa giải tiên lệnh đặc quyền
+40006;S6 Trận đấu mùa giải tiên lệnh đặc quyền
+40007;S7 Trận đấu mùa giải tiên lệnh đặc quyền
+40008;S8 Trận đấu mùa giải tiên lệnh đặc quyền
+40009;S9 Trận đấu mùa giải tiên lệnh đặc quyền
+40010;S10 Trận đấu mùa giải tiên lệnh đặc quyền
+80001;10 Nguyên bảo
+80002;30 Nguyên bảo
+80003;60 Nguyên bảo
+80004;180 Nguyên bảo
+80005;300 Nguyên bảo
+80006;680 Nguyên bảo
+80007;980 Nguyên bảo
+80008;1280 Nguyên bảo
+80009;1980 Nguyên bảo
+80010;2980 Nguyên bảo
+80011;3280 Nguyên bảo
+80012;6480 Nguyên bảo
+80013;10000 Nguyên bảo
+80014;20000 Nguyên bảo
+80015;30000 Nguyên bảo
+80021;10 Nguyên bảo
+80022;30 Nguyên bảo
+80023;60 Nguyên bảo
+80024;180 Nguyên bảo
+80025;300 Nguyên bảo
+80026;680 Nguyên bảo
+80027;980 Nguyên bảo
+80028;1280 Nguyên bảo
+80029;1980 Nguyên bảo
+80030;2980 Nguyên bảo
+80031;3280 Nguyên bảo
+80032;6480 Nguyên bảo
+80040;60 Nguyên bảo
+80041;100 Nguyên bảo
+80042;180 Nguyên bảo
+80043;300 Nguyên bảo
+80044;600 Nguyên bảo
+80045;700 Nguyên bảo
+80046;800 Nguyên bảo
+80047;900 Nguyên bảo
+80048;1000 Nguyên bảo
+80049;1500 Nguyên bảo
+80050;2000 Nguyên bảo
+80051;2300 Nguyên bảo
+80052;2700 Nguyên bảo
+80053;2980 Nguyên bảo
+80054;4000 Nguyên bảo
+80055;6000 Nguyên bảo
+80056;10000 Nguyên bảo
+80057;20000 Nguyên bảo
+80058;40000 Nguyên bảo
+80059;60000 Nguyên bảo
+80060;100000 Nguyên bảo
+88001;10 Nguyên bảo
+88002;30 Nguyên bảo
+88003;60 Nguyên bảo
+88004;180 Nguyên bảo
+88005;300 Nguyên bảo
+88006;680 Nguyên bảo
+88007;980 Nguyên bảo
+88008;1280 Nguyên bảo
+88009;1980 Nguyên bảo
+88010;2980 Nguyên bảo
+88011;3280 Nguyên bảo
+88012;6480 Nguyên bảo
+88021;10 Nguyên bảo
+88022;30 Nguyên bảo
+88023;60 Nguyên bảo
+88024;180 Nguyên bảo
+88025;300 Nguyên bảo
+88026;680 Nguyên bảo
+88027;980 Nguyên bảo
+88028;1280 Nguyên bảo
+88029;1980 Nguyên bảo
+88030;2980 Nguyên bảo
+88031;3280 Nguyên bảo
+88032;6480 Nguyên bảo
+89001;10 Nguyên bảo
+89002;30 Nguyên bảo
+89003;60 Nguyên bảo
+89004;180 Nguyên bảo
+89005;300 Nguyên bảo
+89006;680 Nguyên bảo
+89007;980 Nguyên bảo
+89008;1280 Nguyên bảo
+89009;1980 Nguyên bảo
+89010;2980 Nguyên bảo
+89011;3280 Nguyên bảo
+89012;6480 Nguyên bảo
+89021;10 Nguyên bảo
+89022;30 Nguyên bảo
+89023;60 Nguyên bảo
+89024;180 Nguyên bảo
+89025;300 Nguyên bảo
+89026;680 Nguyên bảo
+89027;980 Nguyên bảo
+89028;1280 Nguyên bảo
+89029;1980 Nguyên bảo
+89030;2980 Nguyên bảo
+89031;3280 Nguyên bảo
+89032;6480 Nguyên bảo
+10001; Tọa kỵ tiến giai thạch
+10002; Cánh chim tiến giai thạch
+10003; Linh sủng tiến giai thạch
+10004; Chí bảo tiến giai thạch
+10005; Thần thú tiến giai thạch
+10006; Linh Vũ tiến giai thạch
+10007; Phi kiếm tiến giai thạch
+10008; Linh châu tiến giai thạch
+10009; Chí bảo rèn luyện thạch
+10010; Thức tỉnh linh châu
+10011; Tan hồn tiến giai thạch
+10012; Tan hồn đột phá thạch
+10013; Sơ cấp phụ linh kinh nghiệm đan
+10014; Trung cấp phụ linh kinh nghiệm đan
+10015; Cao cấp phụ linh kinh nghiệm đan
+10016; Phụ linh đột phá thạch
+10020; Manh sủng tinh hoa
+10021; Sơ cấp manh sủng kinh nghiệm đan
+10022; Trung cấp manh sủng kinh nghiệm đan
+10023; Cao cấp manh sủng kinh nghiệm đan
+10024; Sơ cấp thần binh Khí Hồn
+10025; Trung cấp thần binh Khí Hồn
+10026; Cao cấp thần binh Khí Hồn
+10027; Tâm pháp sơ cấp kinh nghiệm đan
+10028; Trung cấp tâm pháp kinh nghiệm đan
+10029; Tâm pháp cao cấp kinh nghiệm đan
+10030; Sơ cấp quang hoàn kinh nghiệm đan
+10031; Trung cấp quang hoàn kinh nghiệm đan
+10032; Cao cấp quang hoàn kinh nghiệm đan
+10040;1 Giai kinh nghiệm đan
+10041;2 Giai kinh nghiệm đan
+10042;3 Giai kinh nghiệm đan
+10043;4 Giai kinh nghiệm đan
+10044;5 Giai kinh nghiệm đan
+10045;6 Giai kinh nghiệm đan
+10046;7 Giai kinh nghiệm đan
+10047;8 Giai kinh nghiệm đan
+10048;9 Giai kinh nghiệm đan
+10049;10 Giai kinh nghiệm đan
+10050; Thần thánh kinh nghiệm đan
+10051; Đẳng cấp kinh nghiệm đan
+10052; Phàm phẩm kinh nghiệm đan
+10053; Đẳng cấp kinh nghiệm đan
+10101; Tọa kỵ chi linh
+10102; Tọa kỵ chi hồn
+10103; Vũ Dực Chi Linh
+10104; Cánh chim chi hồn
+10105; Linh sủng chi linh
+10106; Linh sủng chi hồn
+10107; Chí bảo chi linh
+10108; Chí bảo chi hồn
+10109; Thần thú chi linh
+10110; Thần thú chi hồn
+10111; Linh Vũ chi linh
+10112; Linh Vũ chi hồn
+10113; Phi kiếm chi linh
+10114; Phi kiếm chi hồn
+10115; Linh châu chi linh
+10116; Linh châu chi hồn
+10151; Manh sủng lĩnh ngộ đan
+10152; Manh sủng thức tỉnh đan
+10153; Thần binh rèn luyện thạch
+10154; Thần binh tinh luyện thạch
+10155; Tâm pháp lĩnh ngộ đan
+10156; Tâm pháp thức tỉnh đan
+10157; Quang hoàn lĩnh ngộ đan
+10158; Quang hoàn thức tỉnh đan
+10159; Tiên bảo tinh hoa
+10160; Chí tôn tiên bảo tinh hoa
+10161; Sơ cấp thăng tinh thạch
+10162; Trung cấp thăng tinh thạch
+10163; Cao cấp thăng tinh thạch
+10164; Bảo thạch mảnh vỡ
+10165; Sơ cấp bảo thạch tinh túy
+10166; Trung cấp bảo thạch tinh túy
+10167; Cao cấp bảo thạch tinh túy
+10168; Sơ cấp phỉ thúy tinh hoa
+10169; Trung cấp phỉ thúy tinh hoa
+10170; Cao cấp phỉ thúy tinh hoa
+10171; Sơ cấp Tử Tinh tinh hoa
+10172; Trung cấp Tử Tinh tinh hoa
+10173; Cao cấp Tử Tinh tinh hoa
+10180; Sơ cấp thần trang mảnh vỡ
+10181; Trung cấp thần trang mảnh vỡ
+10182; Cao cấp thần trang mảnh vỡ
+10183; May mắn thạch
+10184; Trung cấp may mắn thạch
+10185; Cao cấp may mắn thạch
+10186; Hiếm thấy Huyền Tinh
+10190; Tinh luyện thạch
+10191; Thiên Cương thạch
+10192; Nhất giai càn khôn thạch
+10193; Nhị giai càn khôn thạch
+10194; Tam giai càn khôn thạch
+10195; Tứ giai càn khôn thạch
+10201; Nhất giai • Sơ cấp công kích đan
+10202; Nhất giai • Sơ cấp phòng ngự đan
+10203; Nhất giai • Sơ cấp sinh mệnh đan
+10211; Nhị giai • Sơ cấp công kích đan
+10212; Nhị giai • Sơ cấp phòng ngự đan
+10213; Nhị giai • Sơ cấp sinh mệnh đan
+10221; Tam giai • Sơ cấp công kích đan
+10222; Tam giai • Sơ cấp phòng ngự đan
+10223; Tam giai • Sơ cấp sinh mệnh đan
+10231; Nhất giai • Trung cấp công kích đan
+10232; Nhất giai • Trung cấp phòng ngự đan
+10233; Nhất giai • Trung cấp sinh mệnh đan
+10241; Nhị giai • Trung cấp công kích đan
+10242; Nhị giai • Trung cấp phòng ngự đan
+10243; Nhị giai • Trung cấp sinh mệnh đan
+10251; Tam giai • Trung cấp công kích đan
+10252; Tam giai • Trung cấp phòng ngự đan
+10253; Tam giai • Trung cấp sinh mệnh đan
+10261; Nhất giai • Cao cấp công kích đan
+10262; Nhất giai • Cao cấp phòng ngự đan
+10263; Nhất giai • Cao cấp sinh mệnh đan
+10271; Nhị giai • Cao cấp công kích đan
+10272; Nhị giai • Cao cấp phòng ngự đan
+10273; Nhị giai • Cao cấp sinh mệnh đan
+10281; Tam giai • Cao cấp công kích đan
+10282; Tam giai • Cao cấp phòng ngự đan
+10283; Tam giai • Cao cấp sinh mệnh đan
+10291; Sơ cấp chí tôn đan
+10292; Trung cấp chí tôn đan
+10293; Cao cấp chí tôn đan
+10294; Đỉnh cấp chí tôn đan
+10295; Siêu cấp chí tôn đan
+10296; Thần cấp chí tôn đan
+10297; Thánh cấp chí tôn đan
+10298; Phàm linh châu
+10299; Linh châu
+10300; Trời linh châu
+10311; Nổi giận
+10312; Sơ hở
+10313; Nghịch thiên
+10314; Hủy diệt
+10321; Cánh chim ngũ giai đông kết quyển
+10322; Cánh chim lục giai đông kết quyển
+10323; Cánh chim thất giai đông kết quyển
+10324; Cánh chim bát giai đông kết quyển
+10325; Cánh chim cửu giai đông kết quyển
+10326; Cánh chim thập giai đông kết quyển
+10331; Linh sủng ngũ giai đông kết quyển
+10332; Linh sủng lục giai đông kết quyển
+10333; Linh sủng thất giai đông kết quyển
+10334; Linh sủng bát giai đông kết quyển
+10335; Linh sủng cửu giai đông kết quyển
+10336; Linh sủng thập giai đông kết quyển
+10341; Chí bảo ngũ giai đông kết quyển
+10342; Chí bảo lục giai đông kết quyển
+10343; Chí bảo thất giai đông kết quyển
+10344; Chí bảo bát giai đông kết quyển
+10345; Chí bảo cửu giai đông kết quyển
+10346; Chí bảo thập giai đông kết quyển
+10351; Thần thú tứ giai đông kết quyển
+10352; Thần thú ngũ giai đông kết quyển
+10353; Thần thú lục giai đông kết quyển
+10354; Thần thú thất giai đông kết quyển
+10355; Thần thú bát giai đông kết quyển
+10356; Thần thú cửu giai đông kết quyển
+10357; Thần thú thập giai đông kết quyển
+10361; Linh Vũ tứ giai đông kết quyển
+10362; Linh Vũ ngũ giai đông kết quyển
+10363; Linh Vũ lục giai đông kết quyển
+10364; Linh Vũ Thất giai đông kết quyển
+10365; Linh Vũ bát giai đông kết quyển
+10366; Linh Vũ cửu giai đông kết quyển
+10367; Linh Vũ thập giai đông kết quyển
+10371; Phi kiếm tứ giai đông kết quyển
+10372; Phi kiếm ngũ giai đông kết quyển
+10373; Phi kiếm lục giai đông kết quyển
+10374; Phi kiếm thất giai đông kết quyển
+10375; Phi kiếm bát giai đông kết quyển
+10376; Phi kiếm cửu giai đông kết quyển
+10377; Phi kiếm thập giai đông kết quyển
+10401;1 Giờ offline treo máy thẻ
+10402;2 Giờ offline treo máy thẻ
+10403;5 Giờ offline treo máy thẻ
+10404;1.5 Lần kinh nghiệm đan
+10405;2 Lần kinh nghiệm đan
+10406;3 Lần kinh nghiệm đan
+10407;5 Lần kinh nghiệm đan
+10408;10 Lần kinh nghiệm đan
+10501; Đại Hoàn đan
+10502; Tiểu Hoàn đan
+10503; Hồi phục linh dịch
+10601; Địa cung số lần quyển trục
+10602; Kinh nghiệm phó bản quyển trục
+10603; Kinh nghiệm BOSS Quyển trục
+10604; Kim tệ BOSS Quyển trục
+10605; Đẳng cấp kinh nghiệm đan
+10606; Tiến giai lên thẳng quyển
+10607; Tiến giai chúc phúc quyển
+10608; Tiểu Phi giày số lần +1
+10609; Bí cảnh BOSS Thể lực quyển quất
+10610; Chiến trường BOSS Thể lực quyển trục
+10701; Tọa kỵ 3 Giai thăng tinh quyển
+10702; Cánh chim 5 Giai lên thẳng quyển
+10703; Linh sủng 5 Giai lên thẳng quyển
+10704; Chí bảo 5 Giai lên thẳng quyển
+10705; Thần thú 5 Giai lên thẳng quyển
+10706; Linh Vũ 5 Giai lên thẳng quyển
+10707; Phi kiếm 5 Giai lên thẳng quyển
+10732; Cánh chim 8 Giai lên thẳng quyển
+10742; Cánh chim 9 Giai lên thẳng quyển
+10733; Linh sủng 8 Giai lên thẳng quyển
+10743; Linh sủng 9 Giai lên thẳng quyển
+10802; Cánh chim 5 Giai chúc phúc quyển
+10803; Linh sủng 5 Giai chúc phúc quyển
+10804; Chí bảo 5 Giai chúc phúc quyển
+10805; Thần thú 5 Giai chúc phúc quyển
+10806; Linh Vũ 5 Giai chúc phúc quyển
+10807; Phi kiếm 5 Giai chúc phúc quyển
+10812; Cánh chim 6 Giai chúc phúc quyển
+10813; Linh sủng 6 Giai chúc phúc quyển
+10814; Chí bảo 6 Giai chúc phúc quyển
+10815; Thần thú 6 Giai chúc phúc quyển
+10816; Linh Vũ 6 Giai chúc phúc quyển
+10817; Phi kiếm 6 Giai chúc phúc quyển
+10822; Cánh chim 7 Giai chúc phúc quyển
+10823; Linh sủng 7 Giai chúc phúc quyển
+10824; Chí bảo 7 Giai chúc phúc quyển
+10825; Thần thú 7 Giai chúc phúc quyển
+10826; Linh Vũ 7 Giai chúc phúc quyển
+10827; Phi kiếm 7 Giai chúc phúc quyển
+10834; Chí bảo 8 Giai chúc phúc quyển
+10835; Thần thú 8 Giai chúc phúc quyển
+10836; Linh Vũ 8 Giai chúc phúc quyển
+10837; Phi kiếm 8 Giai chúc phúc quyển
+10844; Chí bảo 9 Giai chúc phúc quyển
+10845; Thần thú 9 Giai chúc phúc quyển
+10846; Linh Vũ 9 Giai chúc phúc quyển
+10847; Phi kiếm 9 Giai chúc phúc quyển
+10901; Rút thưởng khoán
+10910; Thần trang chìa khoá
+10911; Thanh đồng chìa khoá
+10912; Bạch ngân chìa khoá
+10913; Hoàng kim chìa khoá
+10914; Huyễn chìa khóa vàng
+10921; Bạch ngân VIP Vĩnh cửu kích hoạt thẻ
+10922; Hoàng kim VIP Vĩnh cửu kích hoạt thẻ
+10923; Kim cương VIP Vĩnh cửu kích hoạt thẻ
+10931; Tiêu dao xúc xắc
+10932; Thiên cơ xúc xắc
+10941; Vạn năng bài
+10951; Tưới nước ấm
+11001;4 Cấp bảo thạch tinh hoa
+11002;5 Cấp bảo thạch tinh hoa
+11003;6 Cấp bảo thạch tinh hoa
+11004;7 Cấp bảo thạch tinh hoa
+11005;8 Cấp bảo thạch tinh hoa
+11006;9 Cấp bảo thạch tinh hoa
+11007;10 Cấp bảo thạch tinh hoa
+11008;11 Cấp bảo thạch tinh hoa
+11009;12 Cấp bảo thạch tinh hoa
+11010;13 Cấp bảo thạch tinh hoa
+11011;14 Cấp bảo thạch tinh hoa
+11012;15 Cấp bảo thạch tinh hoa
+11013;16 Cấp bảo thạch tinh hoa
+11014;17 Cấp bảo thạch tinh hoa
+11015;18 Cấp bảo thạch tinh hoa
+11016;19 Cấp bảo thạch tinh hoa
+11017;20 Cấp bảo thạch tinh hoa
+11018;21 Cấp bảo thạch tinh hoa
+11019;22 Cấp bảo thạch tinh hoa
+11020;23 Cấp bảo thạch tinh hoa
+11021;24 Cấp bảo thạch tinh hoa
+11022;25 Cấp bảo thạch tinh hoa
+11023;26 Cấp bảo thạch tinh hoa
+11024;27 Cấp bảo thạch tinh hoa
+11025;28 Cấp bảo thạch tinh hoa
+11026;29 Cấp bảo thạch tinh hoa
+11027;30 Cấp bảo thạch tinh hoa
+11100; Phỉ thúy đá bể phiến
+11101;1 Cấp phỉ thúy thạch
+11102;2 Cấp phỉ thúy thạch
+11103;3 Cấp phỉ thúy thạch
+11104;4 Cấp phỉ thúy thạch
+11105;5 Cấp phỉ thúy thạch
+11106;6 Cấp phỉ thúy thạch
+11107;7 Cấp phỉ thúy thạch
+11108;8 Cấp phỉ thúy thạch
+11109;9 Cấp phỉ thúy thạch
+11110;10 Cấp phỉ thúy thạch
+11115; Tử Tinh ngọc nát phiến
+11116;1 Cấp Tử Tinh ngọc
+11117;2 Cấp Tử Tinh ngọc
+11118;3 Cấp Tử Tinh ngọc
+11119;4 Cấp Tử Tinh ngọc
+11120;5 Cấp Tử Tinh ngọc
+11121;6 Cấp Tử Tinh ngọc
+11122;7 Cấp Tử Tinh ngọc
+11123;8 Cấp Tử Tinh ngọc
+11124;9 Cấp Tử Tinh ngọc
+11125;10 Cấp Tử Tinh ngọc
+11130; Chế tạo đá bể phiến
+11131;1 Giai chế tạo thạch
+11132;2 Giai chế tạo thạch
+11133;3 Giai chế tạo thạch
+11134;4 Giai chế tạo thạch
+11135;5 Giai chế tạo thạch
+11136;6 Giai chế tạo thạch
+11137;7 Giai chế tạo thạch
+11138;8 Giai chế tạo thạch
+11201; Sơ cấp ngọc thạch quyển
+11202; Trung cấp ngọc thạch quyển
+11203; Cao cấp ngọc thạch quyển
+11204; Hộ oản hợp thành quyển
+11205; Chiếc nhẫn hợp thành quyển
+11206; Cao cấp hộ oản hợp thành quyển
+11207; Cao cấp chiếc nhẫn hợp thành quyển
+11208; Mặt nạ tiến giai quyển
+11209; Khuyên tai tiến giai quyển
+11301; Nhất giai thánh trang đế đồ phòng ngự quyển trục
+11302; Nhị giai thánh trang đế đồ phòng ngự quyển trục
+11303; Tam giai thánh trang đế đồ phòng ngự quyển trục
+11304; Tứ giai thánh trang đế đồ phòng ngự quyển trục
+11305; Ngũ giai thánh trang đế đồ phòng ngự quyển trục
+11306; Lục giai thánh trang đế đồ phòng ngự quyển trục
+11307; Thất giai thánh trang đế đồ phòng ngự quyển trục
+11308; Bát giai thánh trang đế đồ phòng ngự quyển trục
+11309; Nhất giai thánh trang đế trang sức quyển trục
+11310; Nhị giai thánh trang đế trang sức quyển trục
+11311; Tam giai thánh trang đế trang sức quyển trục
+11312; Tứ giai thánh trang đế trang sức quyển trục
+11313; Ngũ giai thánh trang đế trang sức quyển trục
+11314; Lục giai thánh trang đế trang sức quyển trục
+11315; Thất giai thánh trang đế trang sức quyển trục
+11316; Bát giai thánh trang đế trang sức quyển trục
+11317; Nhất giai thánh trang đế vũ khí quyển trục
+11318; Nhị giai thánh trang đế vũ khí quyển trục
+11319; Tam giai thánh trang đế vũ khí quyển trục
+11320; Tứ giai thánh trang đế vũ khí quyển trục
+11321; Ngũ giai thánh trang đế vũ khí quyển trục
+11322; Lục giai thánh trang đế vũ khí quyển trục
+11323; Thất giai thánh trang đế vũ khí quyển trục
+11324; Bát giai thánh trang đế vũ khí quyển trục
+11325; Nhất giai thánh trang cực đồ phòng ngự quyển trục
+11326; Nhị giai thánh trang cực đồ phòng ngự quyển trục
+11327; Tam giai thánh trang cực đồ phòng ngự quyển trục
+11328; Tứ giai thánh trang cực đồ phòng ngự quyển trục
+11329; Ngũ giai thánh trang cực đồ phòng ngự quyển trục
+11330; Lục giai thánh trang cực đồ phòng ngự quyển trục
+11331; Thất giai thánh trang cực đồ phòng ngự quyển trục
+11332; Bát giai thánh trang cực đồ phòng ngự quyển trục
+11333; Nhất giai thánh trang cực trang sức quyển trục
+11334; Nhị giai thánh trang cực trang sức quyển trục
+11335; Tam giai thánh trang cực trang sức quyển trục
+11336; Tứ giai thánh trang cực trang sức quyển trục
+11337; Ngũ giai thánh trang cực trang sức quyển trục
+11338; Lục giai thánh trang cực trang sức quyển trục
+11339; Thất giai thánh trang cực trang sức quyển trục
+11340; Bát giai thánh trang cực trang sức quyển trục
+11341; Nhất giai thánh trang cực vũ khí quyển trục
+11342; Nhị giai thánh trang cực vũ khí quyển trục
+11343; Tam giai thánh trang cực vũ khí quyển trục
+11344; Tứ giai thánh trang cực vũ khí quyển trục
+11345; Ngũ giai thánh trang cực vũ khí quyển trục
+11346; Lục giai thánh trang cực vũ khí quyển trục
+11347; Thất giai thánh trang cực vũ khí quyển trục
+11348; Bát giai thánh trang cực vũ khí quyển trục
+11351;1 Giai thánh trang quyển trục
+11352;2 Giai thánh trang quyển trục
+11353;3 Giai thánh trang quyển trục
+11354;4 Giai thánh trang quyển trục
+11355;5 Giai thánh trang quyển trục
+11356;6 Giai thánh trang quyển trục
+11357;7 Giai thánh trang quyển trục
+11358;8 Giai thánh trang quyển trục
+11361;1 Giai thánh trang cao cấp quyển trục
+11362;2 Giai thánh trang cao cấp quyển trục
+11363;3 Giai thánh trang cao cấp quyển trục
+11364;4 Giai thánh trang cao cấp quyển trục
+11365;5 Giai thánh trang cao cấp quyển trục
+11366;6 Giai thánh trang cao cấp quyển trục
+11367;7 Giai thánh trang cao cấp quyển trục
+11368;8 Giai thánh trang cao cấp quyển trục
+12000; Huyền âm sáo trang thạch - Võ
+12001; Huyền âm sáo trang thạch - Phòng
+12002; Huyền âm sáo trang thạch - Sức
+12003; Huyền âm sáo trang thạch - Eo / Tay
+12004; Huyền âm sáo trang thạch - Vai / Giày
+12005; Huyền âm sáo trang thạch - Liên / Giới
+12006; Huyền âm sáo trang thạch - Đeo sức
+12010; Kiếm tu sáo trang thạch - Võ
+12011; Kiếm tu sáo trang thạch - Phòng
+12012; Kiếm tu sáo trang thạch - Sức
+12013; Kiếm tu sáo trang thạch - Eo / Tay
+12014; Kiếm tu sáo trang thạch - Vai / Giày
+12015; Kiếm tu sáo trang thạch - Liên / Giới
+12016; Kiếm tu sáo trang thạch - Đeo sức
+12020; Kinh lôi sáo trang thạch - Võ
+12021; Kinh lôi sáo trang thạch - Phòng
+12022; Kinh lôi sáo trang thạch - Sức
+12023; Kinh lôi sáo trang thạch - Eo / Tay
+12024; Kinh lôi sáo trang thạch - Vai / Giày
+12025; Kinh lôi sáo trang thạch - Liên / Giới
+12026; Kinh lôi sáo trang thạch - Đeo sức
+12030; Thương khung sáo trang thạch - Võ
+12031; Thương khung sáo trang thạch - Phòng
+12032; Thương khung sáo trang thạch - Sức
+12033; Thương khung sáo trang thạch - Eo / Tay
+12034; Thương khung sáo trang thạch - Vai / Giày
+12035; Thương khung sáo trang thạch - Liên / Giới
+12036; Thương khung sáo trang thạch - Đeo sức
+12040; Hoàn mỹ sáo trang thạch
+12041; Sáo trang đá bể phiến
+12100; Tiêu dao sáo trang thạch - Mặt nạ
+12101; Tiêu dao sáo trang thạch - Khuyên tai
+12102; Tiêu dao sáo trang thạch - Ngọc phù
+12103; Tiêu dao sáo trang thạch - Kim vòng tay
+12110; Thái hư sáo trang thạch - Mặt nạ
+12111; Thái hư sáo trang thạch - Khuyên tai
+12112; Thái hư sáo trang thạch - Ngọc phù
+12113; Thái hư sáo trang thạch - Kim vòng tay
+13001; Cát bay
+13002; Phi kỵ đoạt hồn
+13003; Ngăn cản
+13004; Hung thú gầm thét
+13005; Khích lệ
+13006; Chấn thiên gào thét
+13007; Tọa kỵ sách kỹ năng
+13011; Giận vảy
+13012; Gió táp vũ lưỡi đao
+13013; Cây khô gặp mùa xuân
+13014; Thần thánh cánh chim
+13015; Suy cho cùng
+13016; Ánh sáng vạn vật
+13017; Cánh chim sách kỹ năng
+13021; Thải y
+13022; Làm thơ
+13023; Nhảy múa
+13024; Đánh cờ vây
+13025; Vẽ tranh
+13026; Tấu nhạc
+13027; Linh sủng sách kỹ năng
+13031; Lạc ấn
+13032; Mang chỉ riêng
+13033; Ẩn nấp
+13034; Trọng áp
+13035; Xuyên qua
+13036; Cuồng bạo
+13037; Chí bảo sách kỹ năng
+13041; Chấn nhiếp
+13042; Xích Viêm
+13043; Băng sương
+13044; Truy kích
+13045; Nhiếp hồn
+13046; Thấu xương
+13047; Thần thú sách kỹ năng
+13051; Hộ thân
+13052; Trảm hồn
+13053; Khu ma
+13054; Ngự quỷ
+13055; Gọi thần
+13056; Thần khóc
+13057; Linh Vũ sách kỹ năng
+13061; Liệt hỏa chưởng
+13062; Băng Tâm Quyết
+13063; Cách sơn đả ngưu
+13064; Hám địa chưởng
+13065; Xuyên tim chưởng
+13066; Phá thiên quyết
+13067; Phi kiếm sách kỹ năng
+13071; Lấy nhu thắng cương
+13072; Phong mang quán thể
+13073; Phú lực quyết
+13074; Linh lực lưỡi đao
+13075; Linh lực giáp
+13076; Bích Linh quyết
+13077; Linh châu sách kỹ năng
+15001; Sơ cấp ngọc lộ nước
+15002; Trung cấp ngọc lộ nước
+15003; Cao cấp ngọc lộ nước
+15011; Sơ cấp Nhân Sâm Quả
+15012; Trung cấp Nhân Sâm Quả
+15013; Cao cấp Nhân Sâm Quả
+15020; Đồng tâm khóa
+15021; So Dực Song Phi
+100001; Thuốc hồi phục phẩm
+100002; Luân hồi ngọc
+100003; Đổi tên thẻ
+100004; Tiên tông đổi tên thẻ
+100011; Này điểm
+100043; Gói quà
+100059; Thẻ tre
+100060; Kinh nghiệm phó bản ra trận quyển
+100100; Bí tịch
+100101; Phúc bao
+100102; Tàn trang
+100103; Hoàng kim bát
+100104; Lò luyện đan
+100105; Vỡ vụn tiên ngọc
+100106; Cây lựu hoa
+100107; Ngọc Tịnh bình
+100108; Vạn thọ đào
+100109; Lam liên hoa
+100110; Kim cương bí tịch
+100111; Thiên Đình thánh chỉ
+100112; Hoa hồng bao
+100113; Xích Viêm bảo châu
+100114; Tiên Đồ tàn quyển
+100115; Linh chi
+100116; Tà dương hoa
+100201; May mắn tệ
+100202; Chiết khấu tệ
+101001; Tuần
+101002; Mạt
+101003; Cuồng
+101004; Hoan
+101011; Năm
+101012; Một
+101013; Khánh
+101014; Điển
+101021; Bưng
+101022; Buổi trưa
+101023; An
+101024; Khang
+101031; Vạn
+101032; Thánh
+101033; Khánh
+101034; Điển
+101041; Tập
+101042; Chữ
+101043; Cuồng
+101044; Hoan
+101051; Hoan
+101052; Độ
+101053; Thánh
+101054; Sinh
+101061; Vượt
+101062; Năm
+101063; Khánh
+101064; Điển
+110001; Ngũ giai · Huyễn Giới cá chép
+110002; Ngũ giai · Hạc mây thánh vũ
+110003; Ngũ giai · Huyền Thiên quận chúa
+110004; Ngũ giai · Phật Nộ Hỏa Liên
+110005; Tam giai · Thần thú
+110006; Tam giai · Quạt ba tiêu
+110007; Tam giai · Phi kiếm
+110008; Tam giai · Tử Minh châu
+110009; Siêu cấp thủ mạo xưng
+110010; Hoàng kim VIP
+110011; Bảy ngày đầu tư
+110012; Đẳng cấp đầu tư
+110013; Bạch ngân VIP
+110014; Kim cương VIP
+120001; Sơ trong lòng nón trụ
+120002; Sơ tâm khôi giáp
+120003; Sơ tâm đai lưng
+120004; Sơ tâm quần dài
+120005; Sơ tâm giày
+120006; Sơ tâm miếng lót vai
+120007; Sơ tâm dây chuyền
+120008; Sơ tâm đeo sức
+120009; Sơ tâm hộ oản
+120010; Sơ tâm chiếc nhẫn
+120011; Sơ tâm vũ khí
+120101; Thái Sơ mũ giáp
+120102; Thái Sơ khôi giáp
+120103; Thái Sơ đai lưng
+120104; Thái Sơ quần dài
+120105; Thái Sơ giày
+120106; Thái Sơ miếng lót vai
+120107; Thái Sơ dây chuyền
+120108; Thái Sơ đeo sức
+120109; Thái Sơ hộ oản
+120110; Thái Sơ chiếc nhẫn
+120111; Thái Sơ vũ khí
+120201; Lưỡng Nghi mũ giáp
+120202; Lưỡng Nghi khôi giáp
+120203; Lưỡng Nghi đai lưng
+120204; Lưỡng Nghi quần dài
+120205; Lưỡng Nghi giày
+120206; Lưỡng Nghi miếng lót vai
+120207; Lưỡng Nghi dây chuyền
+120208; Lưỡng Nghi đeo sức
+120209; Lưỡng Nghi hộ oản
+120210; Lưỡng Nghi chiếc nhẫn
+120211; Lưỡng Nghi vũ khí
+120301; Ba cấp mũ giáp
+120302; Ba cấp khôi giáp
+120303; Ba cấp đai lưng
+120304; Ba cấp quần dài
+120305; Ba cấp giày
+120306; Ba cấp miếng lót vai
+120307; Ba cấp dây chuyền
+120308; Ba cấp đeo sức
+120309; Ba cấp hộ oản
+120310; Ba cấp chiếc nhẫn
+120311; Ba cấp vũ khí
+120401; Tứ Tượng mũ giáp
+120402; Tứ Tượng khôi giáp
+120403; Tứ Tượng đai lưng
+120404; Tứ Tượng quần dài
+120405; Tứ Tượng giày
+120406; Tứ Tượng miếng lót vai
+120407; Tứ Tượng dây chuyền
+120408; Tứ Tượng đeo sức
+120409; Tứ Tượng hộ oản
+120410; Tứ Tượng chiếc nhẫn
+120411; Tứ Tượng vũ khí
+120501; Ngũ tuyệt mũ giáp
+120502; Ngũ tuyệt khôi giáp
+120503; Ngũ tuyệt đai lưng
+120504; Ngũ tuyệt quần dài
+120505; Ngũ tuyệt giày
+120506; Ngũ tuyệt miếng lót vai
+120507; Ngũ tuyệt dây chuyền
+120508; Ngũ tuyệt đeo sức
+120509; Ngũ tuyệt hộ oản
+120510; Ngũ tuyệt chiếc nhẫn
+120511; Ngũ tuyệt vũ khí
+120601; Lục đạo mũ giáp
+120602; Lục đạo khôi giáp
+120603; Lục đạo đai lưng
+120604; Lục đạo trưởng quần
+120605; Lục đạo giày
+120606; Lục đạo miếng lót vai
+120607; Lục đạo dây chuyền
+120608; Lục đạo đeo sức
+120609; Lục đạo hộ oản
+120610; Lục đạo chiếc nhẫn
+120611; Lục đạo vũ khí
+120701; Thất Diệu mũ giáp
+120702; Thất Diệu khôi giáp
+120703; Thất Diệu đai lưng
+120704; Thất Diệu quần dài
+120705; Thất Diệu giày
+120706; Thất Diệu miếng lót vai
+120707; Thất Diệu dây chuyền
+120708; Thất Diệu đeo sức
+120709; Thất Diệu hộ oản
+120710; Thất Diệu chiếc nhẫn
+120711; Thất Diệu vũ khí
+120801; Bát Hoang mũ giáp
+120802; Bát Hoang khôi giáp
+120803; Bát Hoang đai lưng
+120804; Bát Hoang quần dài
+120805; Bát Hoang giày
+120806; Bát Hoang miếng lót vai
+120807; Bát Hoang dây chuyền
+120808; Bát Hoang đeo sức
+120809; Bát Hoang hộ oản
+120810; Bát Hoang chiếc nhẫn
+120811; Bát Hoang vũ khí
+120901; Cửu tiêu mũ giáp
+120902; Cửu tiêu khôi giáp
+120903; Cửu tiêu đai lưng
+120904; Cửu tiêu quần dài
+120905; Cửu tiêu giày
+120906; Cửu tiêu miếng lót vai
+120907; Cửu tiêu dây chuyền
+120908; Cửu tiêu đeo sức
+120909; Cửu tiêu hộ oản
+120910; Cửu tiêu chiếc nhẫn
+120911; Cửu tiêu vũ khí
+121001; Thập phương mũ giáp
+121002; Thập phương khôi giáp
+121003; Thập phương đai lưng
+121004; Thập phương quần dài
+121005; Thập phương giày
+121006; Thập phương miếng lót vai
+121007; Thập phương dây chuyền
+121008; Thập phương đeo sức
+121009; Thập phương hộ oản
+121010; Thập phương chiếc nhẫn
+121011; Thập phương vũ khí
+121101; Ngự Long mũ giáp
+121102; Ngự Long khôi giáp
+121103; Ngự Long đai lưng
+121104; Ngự Long quần dài
+121105; Ngự Long giày
+121106; Ngự Long miếng lót vai
+121107; Ngự Long dây chuyền
+121108; Ngự Long đeo sức
+121109; Ngự Long hộ oản
+121110; Ngự Long chiếc nhẫn
+121111; Ngự Long vũ khí
+121201; Phá thiên mũ giáp
+121202; Phá thiên khôi giáp
+121203; Phá thiên đai lưng
+121204; Phá thiên quần dài
+121205; Phá thiên giày
+121206; Phá thiên miếng lót vai
+121207; Phá thiên dây chuyền
+121208; Phá thiên đeo sức
+121209; Phá thiên hộ oản
+121210; Phá thiên chiếc nhẫn
+121211; Phá thiên vũ khí
+130001; Sơ trong lòng nón trụ · Thật
+130002; Sơ tâm khôi giáp · Thật
+130003; Sơ tâm đai lưng · Thật
+130004; Sơ tâm quần dài · Thật
+130005; Sơ tâm giày · Thật
+130006; Sơ tâm miếng lót vai · Thật
+130007; Sơ tâm dây chuyền · Thật
+130008; Sơ tâm đeo sức · Thật
+130009; Sơ tâm hộ oản · Thật
+130010; Sơ tâm chiếc nhẫn · Thật
+130011; Sơ tâm vũ khí · Thật
+130101; Thái Sơ mũ giáp · Thật
+130102; Thái Sơ khôi giáp · Thật
+130103; Thái Sơ đai lưng · Thật
+130104; Thái Sơ quần dài · Thật
+130105; Thái Sơ giày · Thật
+130106; Thái Sơ miếng lót vai · Thật
+130107; Thái Sơ dây chuyền · Thật
+130108; Thái Sơ đeo sức · Thật
+130109; Thái Sơ hộ oản · Thật
+130110; Thái Sơ chiếc nhẫn · Thật
+130111; Thái Sơ vũ khí · Thật
+130201; Lưỡng Nghi mũ giáp · Thật
+130202; Lưỡng Nghi khôi giáp · Thật
+130203; Lưỡng Nghi đai lưng · Thật
+130204; Lưỡng Nghi quần dài · Thật
+130205; Lưỡng Nghi giày · Thật
+130206; Lưỡng Nghi miếng lót vai · Thật
+130207; Lưỡng Nghi dây chuyền · Thật
+130208; Lưỡng Nghi đeo sức · Thật
+130209; Lưỡng Nghi hộ oản · Thật
+130210; Lưỡng Nghi chiếc nhẫn · Thật
+130211; Lưỡng Nghi vũ khí · Thật
+130301; Ba cấp mũ giáp · Thật
+130302; Ba cấp khôi giáp · Thật
+130303; Ba cấp đai lưng · Thật
+130304; Ba cấp quần dài · Thật
+130305; Ba cấp giày · Thật
+130306; Ba cấp miếng lót vai · Thật
+130307; Ba cấp dây chuyền · Thật
+130308; Ba cấp đeo sức · Thật
+130309; Ba cấp hộ oản · Thật
+130310; Ba cấp chiếc nhẫn · Thật
+130311; Ba cấp vũ khí · Thật
+130401; Tứ Tượng mũ giáp · Thật
+130402; Tứ Tượng khôi giáp · Thật
+130403; Tứ Tượng đai lưng · Thật
+130404; Tứ Tượng quần dài · Thật
+130405; Tứ Tượng giày · Thật
+130406; Tứ Tượng miếng lót vai · Thật
+130407; Tứ Tượng dây chuyền · Thật
+130408; Tứ Tượng đeo sức · Thật
+130409; Tứ Tượng hộ oản · Thật
+130410; Tứ Tượng chiếc nhẫn · Thật
+130411; Tứ Tượng vũ khí · Thật
+130501; Ngũ tuyệt mũ giáp · Thật
+130502; Ngũ tuyệt khôi giáp · Thật
+130503; Ngũ tuyệt đai lưng · Thật
+130504; Ngũ tuyệt quần dài · Thật
+130505; Ngũ tuyệt giày · Thật
+130506; Ngũ tuyệt miếng lót vai · Thật
+130507; Ngũ tuyệt dây chuyền · Thật
+130508; Ngũ tuyệt đeo sức · Thật
+130509; Ngũ tuyệt hộ oản · Thật
+130510; Ngũ tuyệt chiếc nhẫn · Thật
+130511; Ngũ tuyệt vũ khí · Thật
+130601; Lục đạo mũ giáp · Thật
+130602; Lục đạo khôi giáp · Thật
+130603; Lục đạo đai lưng · Thật
+130604; Lục đạo trưởng quần · Thật
+130605; Lục đạo giày · Thật
+130606; Lục đạo miếng lót vai · Thật
+130607; Lục đạo dây chuyền · Thật
+130608; Lục đạo đeo sức · Thật
+130609; Lục đạo hộ oản · Thật
+130610; Lục đạo chiếc nhẫn · Thật
+130611; Lục đạo vũ khí · Thật
+130701; Thất Diệu mũ giáp · Thật
+130702; Thất Diệu khôi giáp · Thật
+130703; Thất Diệu đai lưng · Thật
+130704; Thất Diệu quần dài · Thật
+130705; Thất Diệu giày · Thật
+130706; Thất Diệu miếng lót vai · Thật
+130707; Thất Diệu dây chuyền · Thật
+130708; Thất Diệu đeo sức · Thật
+130709; Thất Diệu hộ oản · Thật
+130710; Thất Diệu chiếc nhẫn · Thật
+130711; Thất Diệu vũ khí · Thật
+130801; Bát Hoang mũ giáp · Thật
+130802; Bát Hoang khôi giáp · Thật
+130803; Bát Hoang đai lưng · Thật
+130804; Bát Hoang quần dài · Thật
+130805; Bát Hoang giày · Thật
+130806; Bát Hoang miếng lót vai · Thật
+130807; Bát Hoang dây chuyền · Thật
+130808; Bát Hoang đeo sức · Thật
+130809; Bát Hoang hộ oản · Thật
+130810; Bát Hoang chiếc nhẫn · Thật
+130811; Bát Hoang vũ khí · Thật
+130901; Cửu tiêu mũ giáp · Thật
+130902; Cửu tiêu khôi giáp · Thật
+130903; Cửu tiêu đai lưng · Thật
+130904; Cửu tiêu quần dài · Thật
+130905; Cửu tiêu giày · Thật
+130906; Cửu tiêu miếng lót vai · Thật
+130907; Cửu tiêu dây chuyền · Thật
+130908; Cửu tiêu đeo sức · Thật
+130909; Cửu tiêu hộ oản · Thật
+130910; Cửu tiêu chiếc nhẫn · Thật
+130911; Cửu tiêu vũ khí · Thật
+131001; Thập phương mũ giáp · Thật
+131002; Thập phương khôi giáp · Thật
+131003; Thập phương đai lưng · Thật
+131004; Thập phương quần dài · Thật
+131005; Thập phương giày · Thật
+131006; Thập phương miếng lót vai · Thật
+131007; Thập phương dây chuyền · Thật
+131008; Thập phương đeo sức · Thật
+131009; Thập phương hộ oản · Thật
+131010; Thập phương chiếc nhẫn · Thật
+131011; Thập phương vũ khí · Thật
+131101; Ngự Long mũ giáp · Thật
+131102; Ngự Long khôi giáp · Thật
+131103; Ngự Long đai lưng · Thật
+131104; Ngự Long quần dài · Thật
+131105; Ngự Long giày · Thật
+131106; Ngự Long miếng lót vai · Thật
+131107; Ngự Long dây chuyền · Thật
+131108; Ngự Long đeo sức · Thật
+131109; Ngự Long hộ oản · Thật
+131110; Ngự Long chiếc nhẫn · Thật
+131111; Ngự Long vũ khí · Thật
+131201; Phá thiên mũ giáp · Thật
+131202; Phá thiên khôi giáp · Thật
+131203; Phá thiên đai lưng · Thật
+131204; Phá thiên quần dài · Thật
+131205; Phá thiên giày · Thật
+131206; Phá thiên miếng lót vai · Thật
+131207; Phá thiên dây chuyền · Thật
+131208; Phá thiên đeo sức · Thật
+131209; Phá thiên hộ oản · Thật
+131210; Phá thiên chiếc nhẫn · Thật
+131211; Phá thiên vũ khí · Thật
+140001; Sơ trong lòng nón trụ · Tiên
+140002; Sơ tâm khôi giáp · Tiên
+140003; Sơ tâm đai lưng · Tiên
+140004; Sơ tâm quần dài · Tiên
+140005; Sơ tâm giày · Tiên
+140006; Sơ tâm miếng lót vai · Tiên
+140007; Sơ tâm dây chuyền · Tiên
+140008; Sơ tâm đeo sức · Tiên
+140009; Sơ tâm hộ oản · Tiên
+140010; Sơ tâm chiếc nhẫn · Tiên
+140011; Sơ tâm vũ khí · Tiên
+140101; Thái Sơ mũ giáp · Tiên
+140102; Thái Sơ khôi giáp · Tiên
+140103; Thái Sơ đai lưng · Tiên
+140104; Thái Sơ quần dài · Tiên
+140105; Thái Sơ giày · Tiên
+140106; Thái Sơ miếng lót vai · Tiên
+140107; Thái Sơ dây chuyền · Tiên
+140108; Thái Sơ đeo sức · Tiên
+140109; Thái Sơ hộ oản · Tiên
+140110; Thái Sơ chiếc nhẫn · Tiên
+140111; Thái Sơ vũ khí · Tiên
+140201; Lưỡng Nghi mũ giáp · Tiên
+140202; Lưỡng Nghi khôi giáp · Tiên
+140203; Lưỡng Nghi đai lưng · Tiên
+140204; Lưỡng Nghi quần dài · Tiên
+140205; Lưỡng Nghi giày · Tiên
+140206; Lưỡng Nghi miếng lót vai · Tiên
+140207; Lưỡng Nghi dây chuyền · Tiên
+140208; Lưỡng Nghi đeo sức · Tiên
+140209; Lưỡng Nghi hộ oản · Tiên
+140210; Lưỡng Nghi chiếc nhẫn · Tiên
+140211; Lưỡng Nghi vũ khí · Tiên
+140301; Ba cấp mũ giáp · Tiên
+140302; Ba cấp khôi giáp · Tiên
+140303; Ba cấp đai lưng · Tiên
+140304; Ba cấp quần dài · Tiên
+140305; Ba cấp giày · Tiên
+140306; Ba cấp miếng lót vai · Tiên
+140307; Ba cấp dây chuyền · Tiên
+140308; Ba cấp đeo sức · Tiên
+140309; Ba cấp hộ oản · Tiên
+140310; Ba cấp chiếc nhẫn · Tiên
+140311; Ba cấp vũ khí · Tiên
+140401; Tứ Tượng mũ giáp · Tiên
+140402; Tứ Tượng khôi giáp · Tiên
+140403; Tứ Tượng đai lưng · Tiên
+140404; Tứ Tượng quần dài · Tiên
+140405; Tứ Tượng giày · Tiên
+140406; Tứ Tượng miếng lót vai · Tiên
+140407; Tứ Tượng dây chuyền · Tiên
+140408; Tứ Tượng đeo sức · Tiên
+140409; Tứ Tượng hộ oản · Tiên
+140410; Tứ Tượng chiếc nhẫn · Tiên
+140411; Tứ Tượng vũ khí · Tiên
+140501; Ngũ tuyệt mũ giáp · Tiên
+140502; Ngũ tuyệt khôi giáp · Tiên
+140503; Ngũ tuyệt đai lưng · Tiên
+140504; Ngũ tuyệt quần dài · Tiên
+140505; Ngũ tuyệt giày · Tiên
+140506; Ngũ tuyệt miếng lót vai · Tiên
+140507; Ngũ tuyệt dây chuyền · Tiên
+140508; Ngũ tuyệt đeo sức · Tiên
+140509; Ngũ tuyệt hộ oản · Tiên
+140510; Ngũ tuyệt chiếc nhẫn · Tiên
+140511; Ngũ tuyệt vũ khí · Tiên
+140601; Lục đạo mũ giáp · Tiên
+140602; Lục đạo khôi giáp · Tiên
+140603; Lục đạo đai lưng · Tiên
+140604; Lục đạo trưởng quần · Tiên
+140605; Lục đạo giày · Tiên
+140606; Lục đạo miếng lót vai · Tiên
+140607; Lục đạo dây chuyền · Tiên
+140608; Lục đạo đeo sức · Tiên
+140609; Lục đạo hộ oản · Tiên
+140610; Lục đạo chiếc nhẫn · Tiên
+140611; Lục đạo vũ khí · Tiên
+140701; Thất Diệu mũ giáp · Tiên
+140702; Thất Diệu khôi giáp · Tiên
+140703; Thất Diệu đai lưng · Tiên
+140704; Thất Diệu quần dài · Tiên
+140705; Thất Diệu giày · Tiên
+140706; Thất Diệu miếng lót vai · Tiên
+140707; Thất Diệu dây chuyền · Tiên
+140708; Thất Diệu đeo sức · Tiên
+140709; Thất Diệu hộ oản · Tiên
+140710; Thất Diệu chiếc nhẫn · Tiên
+140711; Thất Diệu vũ khí · Tiên
+140801; Bát Hoang mũ giáp · Tiên
+140802; Bát Hoang khôi giáp · Tiên
+140803; Bát Hoang đai lưng · Tiên
+140804; Bát Hoang quần dài · Tiên
+140805; Bát Hoang giày · Tiên
+140806; Bát Hoang miếng lót vai · Tiên
+140807; Bát Hoang dây chuyền · Tiên
+140808; Bát Hoang đeo sức · Tiên
+140809; Bát Hoang hộ oản · Tiên
+140810; Bát Hoang chiếc nhẫn · Tiên
+140811; Bát Hoang vũ khí · Tiên
+140901; Cửu tiêu mũ giáp · Tiên
+140902; Cửu tiêu khôi giáp · Tiên
+140903; Cửu tiêu đai lưng · Tiên
+140904; Cửu tiêu quần dài · Tiên
+140905; Cửu tiêu giày · Tiên
+140906; Cửu tiêu miếng lót vai · Tiên
+140907; Cửu tiêu dây chuyền · Tiên
+140908; Cửu tiêu đeo sức · Tiên
+140909; Cửu tiêu hộ oản · Tiên
+140910; Cửu tiêu chiếc nhẫn · Tiên
+140911; Cửu tiêu vũ khí · Tiên
+141001; Thập phương mũ giáp · Tiên
+141002; Thập phương khôi giáp · Tiên
+141003; Thập phương đai lưng · Tiên
+141004; Thập phương quần dài · Tiên
+141005; Thập phương giày · Tiên
+141006; Thập phương miếng lót vai · Tiên
+141007; Thập phương dây chuyền · Tiên
+141008; Thập phương đeo sức · Tiên
+141009; Thập phương hộ oản · Tiên
+141010; Thập phương chiếc nhẫn · Tiên
+141011; Thập phương vũ khí · Tiên
+141101; Ngự Long mũ giáp · Tiên
+141102; Ngự Long khôi giáp · Tiên
+141103; Ngự Long đai lưng · Tiên
+141104; Ngự Long quần dài · Tiên
+141105; Ngự Long giày · Tiên
+141106; Ngự Long miếng lót vai · Tiên
+141107; Ngự Long dây chuyền · Tiên
+141108; Ngự Long đeo sức · Tiên
+141109; Ngự Long hộ oản · Tiên
+141110; Ngự Long chiếc nhẫn · Tiên
+141111; Ngự Long vũ khí · Tiên
+141201; Phá thiên mũ giáp · Tiên
+141202; Phá thiên khôi giáp · Tiên
+141203; Phá thiên đai lưng · Tiên
+141204; Phá thiên quần dài · Tiên
+141205; Phá thiên giày · Tiên
+141206; Phá thiên miếng lót vai · Tiên
+141207; Phá thiên dây chuyền · Tiên
+141208; Phá thiên đeo sức · Tiên
+141209; Phá thiên hộ oản · Tiên
+141210; Phá thiên chiếc nhẫn · Tiên
+141211; Phá thiên vũ khí · Tiên
+190001; Kinh nghiệm thủ hộ
+190002; Phòng ngự thủ hộ
+190003; Kinh nghiệm thủ hộ ( Vĩnh cửu )
+190004; Phòng ngự thủ hộ ( Vĩnh cửu )
+190101; Tứ Tượng mũ giáp · Tuyệt
+190102; Tứ Tượng khôi giáp · Tuyệt
+190103; Tứ Tượng đai lưng · Tuyệt
+190104; Tứ Tượng quần dài · Tuyệt
+190105; Tứ Tượng giày · Tuyệt
+190106; Tứ Tượng miếng lót vai · Tuyệt
+190107; Tứ Tượng dây chuyền · Tuyệt
+190108; Tứ Tượng đeo sức · Tuyệt
+190109; Tứ Tượng hộ oản · Tuyệt
+190110; Tứ Tượng chiếc nhẫn · Tuyệt
+190111; Tứ Tượng vũ khí · Tuyệt
+190201; Ngũ tuyệt mũ giáp · Tuyệt
+190202; Ngũ tuyệt khôi giáp · Tuyệt
+190203; Ngũ tuyệt đai lưng · Tuyệt
+190204; Ngũ tuyệt quần dài · Tuyệt
+190205; Ngũ tuyệt giày · Tuyệt
+190206; Ngũ tuyệt miếng lót vai · Tuyệt
+190207; Ngũ tuyệt dây chuyền · Tuyệt
+190208; Ngũ tuyệt đeo sức · Tuyệt
+190209; Ngũ tuyệt hộ oản · Tuyệt
+190210; Ngũ tuyệt chiếc nhẫn · Tuyệt
+190211; Ngũ tuyệt vũ khí · Tuyệt
+191001; Lục đạo mũ giáp · Tuyệt
+191002; Lục đạo khôi giáp · Tuyệt
+191003; Lục đạo đai lưng · Tuyệt
+191004; Lục đạo trưởng quần · Tuyệt
+191005; Lục đạo giày · Tuyệt
+191006; Lục đạo miếng lót vai · Tuyệt
+191007; Lục đạo dây chuyền · Tuyệt
+191008; Lục đạo đeo sức · Tuyệt
+191009; Lục đạo hộ oản · Tuyệt
+191010; Lục đạo chiếc nhẫn · Tuyệt
+191011; Lục đạo vũ khí · Tuyệt
+191012; Thất Diệu mũ giáp · Tuyệt
+191013; Thất Diệu khôi giáp · Tuyệt
+191014; Thất Diệu đai lưng · Tuyệt
+191015; Thất Diệu quần dài · Tuyệt
+191016; Thất Diệu giày · Tuyệt
+191017; Thất Diệu miếng lót vai · Tuyệt
+191018; Thất Diệu dây chuyền · Tuyệt
+191019; Thất Diệu đeo sức · Tuyệt
+191020; Thất Diệu hộ oản · Tuyệt
+191021; Thất Diệu chiếc nhẫn · Tuyệt
+191022; Thất Diệu vũ khí · Tuyệt
+191023; Bát Hoang mũ giáp · Tuyệt
+191024; Bát Hoang khôi giáp · Tuyệt
+191025; Bát Hoang đai lưng · Tuyệt
+191026; Bát Hoang quần dài · Tuyệt
+191027; Bát Hoang giày · Tuyệt
+191028; Bát Hoang miếng lót vai · Tuyệt
+191029; Bát Hoang dây chuyền · Tuyệt
+191030; Bát Hoang đeo sức · Tuyệt
+191031; Bát Hoang hộ oản · Tuyệt
+191032; Bát Hoang chiếc nhẫn · Tuyệt
+191033; Bát Hoang vũ khí · Tuyệt
+191034; Cửu tiêu mũ giáp · Tuyệt
+191035; Cửu tiêu khôi giáp · Tuyệt
+191036; Cửu tiêu đai lưng · Tuyệt
+191037; Cửu tiêu quần dài · Tuyệt
+191038; Cửu tiêu giày · Tuyệt
+191039; Cửu tiêu miếng lót vai · Tuyệt
+191040; Cửu tiêu dây chuyền · Tuyệt
+191041; Cửu tiêu đeo sức · Tuyệt
+191042; Cửu tiêu hộ oản · Tuyệt
+191043; Cửu tiêu chiếc nhẫn · Tuyệt
+191044; Cửu tiêu vũ khí · Tuyệt
+191045; Thập phương mũ giáp · Tuyệt
+191046; Thập phương khôi giáp · Tuyệt
+191047; Thập phương đai lưng · Tuyệt
+191048; Thập phương quần dài · Tuyệt
+191049; Thập phương giày · Tuyệt
+191050; Thập phương miếng lót vai · Tuyệt
+191051; Thập phương dây chuyền · Tuyệt
+191052; Thập phương đeo sức · Tuyệt
+191053; Thập phương hộ oản · Tuyệt
+191054; Thập phương chiếc nhẫn · Tuyệt
+191055; Thập phương vũ khí · Tuyệt
+191056; Ngự Long mũ giáp · Tuyệt
+191057; Ngự Long khôi giáp · Tuyệt
+191058; Ngự Long đai lưng · Tuyệt
+191059; Ngự Long quần dài · Tuyệt
+191060; Ngự Long giày · Tuyệt
+191061; Ngự Long miếng lót vai · Tuyệt
+191062; Ngự Long dây chuyền · Tuyệt
+191063; Ngự Long đeo sức · Tuyệt
+191064; Ngự Long hộ oản · Tuyệt
+191065; Ngự Long chiếc nhẫn · Tuyệt
+191066; Ngự Long vũ khí · Tuyệt
+191067; Phá thiên mũ giáp · Tuyệt
+191068; Phá thiên khôi giáp · Tuyệt
+191069; Phá thiên đai lưng · Tuyệt
+191070; Phá thiên quần dài · Tuyệt
+191071; Phá thiên giày · Tuyệt
+191072; Phá thiên miếng lót vai · Tuyệt
+191073; Phá thiên dây chuyền · Tuyệt
+191074; Phá thiên đeo sức · Tuyệt
+191075; Phá thiên hộ oản · Tuyệt
+191076; Phá thiên chiếc nhẫn · Tuyệt
+191077; Phá thiên vũ khí · Tuyệt
+200001; Thái Sơ Tiên Tôn mũ giáp
+200101; Lưỡng Nghi Tiên Tôn mũ giáp
+200201; Ba cấp Tiên Tôn mũ giáp
+200301; Tứ Tượng Tiên Tôn mũ giáp
+200401; Ngũ tuyệt Tiên Tôn mũ giáp
+200501; Lục đạo Tiên Tôn mũ giáp
+200601; Thất Diệu Tiên Tôn mũ giáp
+200701; Bát Hoang Tiên Tôn mũ giáp
+201001; Thái Sơ Thánh Tôn mũ giáp
+201101; Lưỡng Nghi Thánh Tôn mũ giáp
+201201; Ba cấp Thánh Tôn mũ giáp
+201301; Tứ Tượng Thánh Tôn mũ giáp
+201401; Ngũ tuyệt Thánh Tôn mũ giáp
+201501; Lục đạo Thánh Tôn mũ giáp
+201601; Thất Diệu Thánh Tôn mũ giáp
+201701; Bát Hoang Thánh Tôn mũ giáp
+202001; Thái Sơ Thánh Tôn mũ giáp · Đế
+202101; Lưỡng Nghi Thánh Tôn mũ giáp · Đế
+202201; Ba cấp Thánh Tôn mũ giáp · Đế
+202301; Tứ Tượng Thánh Tôn mũ giáp · Đế
+202401; Ngũ tuyệt Thánh Tôn mũ giáp · Đế
+202501; Lục đạo Thánh Tôn mũ giáp · Đế
+202601; Thất Diệu Thánh Tôn mũ giáp · Đế
+202701; Bát Hoang Thánh Tôn mũ giáp · Đế
+203001; Thái Sơ Thánh Tôn mũ giáp · Cực
+203101; Lưỡng Nghi Thánh Tôn mũ giáp · Cực
+203201; Ba cấp Thánh Tôn mũ giáp · Cực
+203301; Tứ Tượng Thánh Tôn mũ giáp · Cực
+203401; Ngũ tuyệt Thánh Tôn mũ giáp · Cực
+203501; Lục đạo Thánh Tôn mũ giáp · Cực
+203601; Thất Diệu Thánh Tôn mũ giáp · Cực
+203701; Bát Hoang Thánh Tôn mũ giáp · Cực
+204001; Thái Sơ Chân Tiên mũ giáp
+204101; Lưỡng Nghi Chân Tiên mũ giáp
+204201; Ba cấp Chân Tiên mũ giáp
+204301; Tứ Tượng Chân Tiên mũ giáp
+204401; Ngũ tuyệt Chân Tiên mũ giáp
+204501; Lục đạo Chân Tiên mũ giáp
+204601; Thất Diệu Chân Tiên mũ giáp
+204701; Bát Hoang Chân Tiên mũ giáp
+200002; Thái Sơ Tiên Tôn hộ giáp
+200102; Lưỡng Nghi Tiên Tôn hộ giáp
+200202; Ba cấp Tiên Tôn hộ giáp
+200302; Tứ Tượng Tiên Tôn hộ giáp
+200402; Ngũ tuyệt Tiên Tôn hộ giáp
+200502; Lục đạo Tiên Tôn hộ giáp
+200602; Thất Diệu Tiên Tôn hộ giáp
+200702; Bát Hoang Tiên Tôn hộ giáp
+201002; Thái Sơ Thánh Tôn hộ giáp
+201102; Lưỡng Nghi Thánh Tôn hộ giáp
+201202; Ba cấp Thánh Tôn hộ giáp
+201302; Tứ Tượng Thánh Tôn hộ giáp
+201402; Ngũ tuyệt Thánh Tôn hộ giáp
+201502; Lục đạo Thánh Tôn hộ giáp
+201602; Thất Diệu Thánh Tôn hộ giáp
+201702; Bát Hoang Thánh Tôn hộ giáp
+202002; Thái Sơ Thánh Tôn hộ giáp · Đế
+202102; Lưỡng Nghi Thánh Tôn hộ giáp · Đế
+202202; Ba cấp Thánh Tôn hộ giáp · Đế
+202302; Tứ Tượng Thánh Tôn hộ giáp · Đế
+202402; Ngũ tuyệt Thánh Tôn hộ giáp · Đế
+202502; Lục đạo Thánh Tôn hộ giáp · Đế
+202602; Thất Diệu Thánh Tôn hộ giáp · Đế
+202702; Bát Hoang Thánh Tôn hộ giáp · Đế
+203002; Thái Sơ Thánh Tôn hộ giáp · Cực
+203102; Lưỡng Nghi Thánh Tôn hộ giáp · Cực
+203202; Ba cấp Thánh Tôn hộ giáp · Cực
+203302; Tứ Tượng Thánh Tôn hộ giáp · Cực
+203402; Ngũ tuyệt Thánh Tôn hộ giáp · Cực
+203502; Lục đạo Thánh Tôn hộ giáp · Cực
+203602; Thất Diệu Thánh Tôn hộ giáp · Cực
+203702; Bát Hoang Thánh Tôn hộ giáp · Cực
+204002; Thái Sơ Chân Tiên hộ giáp
+204102; Lưỡng Nghi Chân Tiên hộ giáp
+204202; Ba cấp Chân Tiên hộ giáp
+204302; Tứ Tượng Chân Tiên hộ giáp
+204402; Ngũ tuyệt Chân Tiên hộ giáp
+204502; Lục đạo Chân Tiên hộ giáp
+204602; Thất Diệu Chân Tiên hộ giáp
+204702; Bát Hoang Chân Tiên hộ giáp
+200003; Thái Sơ Tiên Tôn đai lưng
+200103; Lưỡng Nghi Tiên Tôn đai lưng
+200203; Ba cấp Tiên Tôn đai lưng
+200303; Tứ Tượng Tiên Tôn đai lưng
+200403; Ngũ tuyệt Tiên Tôn đai lưng
+200503; Lục đạo Tiên Tôn đai lưng
+200603; Thất Diệu Tiên Tôn đai lưng
+200703; Bát Hoang Tiên Tôn đai lưng
+201003; Thái Sơ Thánh Tôn đai lưng
+201103; Lưỡng Nghi Thánh Tôn đai lưng
+201203; Ba cấp Thánh Tôn đai lưng
+201303; Tứ Tượng Thánh Tôn đai lưng
+201403; Ngũ tuyệt Thánh Tôn đai lưng
+201503; Lục đạo Thánh Tôn đai lưng
+201603; Thất Diệu Thánh Tôn đai lưng
+201703; Bát Hoang Thánh Tôn đai lưng
+202003; Thái Sơ Thánh Tôn đai lưng · Đế
+202103; Lưỡng Nghi Thánh Tôn đai lưng · Đế
+202203; Ba cấp Thánh Tôn đai lưng · Đế
+202303; Tứ Tượng Thánh Tôn đai lưng · Đế
+202403; Ngũ tuyệt Thánh Tôn đai lưng · Đế
+202503; Lục đạo Thánh Tôn đai lưng · Đế
+202603; Thất Diệu Thánh Tôn đai lưng · Đế
+202703; Bát Hoang Thánh Tôn đai lưng · Đế
+203003; Thái Sơ Thánh Tôn đai lưng · Cực
+203103; Lưỡng Nghi Thánh Tôn đai lưng · Cực
+203203; Ba cấp Thánh Tôn đai lưng · Cực
+203303; Tứ Tượng Thánh Tôn đai lưng · Cực
+203403; Ngũ tuyệt Thánh Tôn đai lưng · Cực
+203503; Lục đạo Thánh Tôn đai lưng · Cực
+203603; Thất Diệu Thánh Tôn đai lưng · Cực
+203703; Bát Hoang Thánh Tôn đai lưng · Cực
+204003; Thái Sơ Chân Tiên đai lưng
+204103; Lưỡng Nghi Chân Tiên đai lưng
+204203; Ba cấp Chân Tiên đai lưng
+204303; Tứ Tượng Chân Tiên đai lưng
+204403; Ngũ tuyệt Chân Tiên đai lưng
+204503; Lục đạo Chân Tiên đai lưng
+204603; Thất Diệu Chân Tiên đai lưng
+204703; Bát Hoang Chân Tiên đai lưng
+200004; Thái Sơ Tiên Tôn quần
+200104; Lưỡng Nghi Tiên Tôn quần
+200204; Ba cấp Tiên Tôn quần
+200304; Tứ Tượng Tiên Tôn quần
+200404; Ngũ tuyệt Tiên Tôn quần
+200504; Lục đạo Tiên Tôn quần
+200604; Thất Diệu Tiên Tôn quần
+200704; Bát Hoang Tiên Tôn quần
+201004; Thái Sơ Thánh Tôn quần
+201104; Lưỡng Nghi Thánh Tôn quần
+201204; Ba cấp Thánh Tôn quần
+201304; Tứ Tượng Thánh Tôn quần
+201404; Ngũ tuyệt Thánh Tôn quần
+201504; Lục đạo Thánh Tôn quần
+201604; Thất Diệu Thánh Tôn quần
+201704; Bát Hoang Thánh Tôn quần
+202004; Thái Sơ Thánh Tôn quần · Đế
+202104; Lưỡng Nghi Thánh Tôn quần · Đế
+202204; Ba cấp Thánh Tôn quần · Đế
+202304; Tứ Tượng Thánh Tôn quần · Đế
+202404; Ngũ tuyệt Thánh Tôn quần · Đế
+202504; Lục đạo Thánh Tôn quần · Đế
+202604; Thất Diệu Thánh Tôn quần · Đế
+202704; Bát Hoang Thánh Tôn quần · Đế
+203004; Thái Sơ Thánh Tôn quần · Cực
+203104; Lưỡng Nghi Thánh Tôn quần · Cực
+203204; Ba cấp Thánh Tôn quần · Cực
+203304; Tứ Tượng Thánh Tôn quần · Cực
+203404; Ngũ tuyệt Thánh Tôn quần · Cực
+203504; Lục đạo Thánh Tôn quần · Cực
+203604; Thất Diệu Thánh Tôn quần · Cực
+203704; Bát Hoang Thánh Tôn quần · Cực
+204004; Thái Sơ Chân Tiên quần
+204104; Lưỡng Nghi Chân Tiên quần
+204204; Ba cấp Chân Tiên quần
+204304; Tứ Tượng Chân Tiên quần
+204404; Ngũ tuyệt Chân Tiên quần
+204504; Lục đạo Chân Tiên quần
+204604; Thất Diệu Chân Tiên quần
+204704; Bát Hoang Chân Tiên quần
+200005; Thái Sơ Tiên Tôn giày
+200105; Lưỡng Nghi Tiên Tôn giày
+200205; Ba cấp Tiên Tôn giày
+200305; Tứ Tượng Tiên Tôn giày
+200405; Ngũ tuyệt Tiên Tôn giày
+200505; Lục đạo Tiên Tôn giày
+200605; Thất Diệu Tiên Tôn giày
+200705; Bát Hoang Tiên Tôn giày
+201005; Thái Sơ Thánh Tôn giày
+201105; Lưỡng Nghi Thánh Tôn giày
+201205; Ba cấp Thánh Tôn giày
+201305; Tứ Tượng Thánh Tôn giày
+201405; Ngũ tuyệt Thánh Tôn giày
+201505; Lục đạo Thánh Tôn giày
+201605; Thất Diệu Thánh Tôn giày
+201705; Bát Hoang Thánh Tôn giày
+202005; Thái Sơ Thánh Tôn giày · Đế
+202105; Lưỡng Nghi Thánh Tôn giày · Đế
+202205; Ba cấp Thánh Tôn giày · Đế
+202305; Tứ Tượng Thánh Tôn giày · Đế
+202405; Ngũ tuyệt Thánh Tôn giày · Đế
+202505; Lục đạo Thánh Tôn giày · Đế
+202605; Thất Diệu Thánh Tôn giày · Đế
+202705; Bát Hoang Thánh Tôn giày · Đế
+203005; Thái Sơ Thánh Tôn giày · Cực
+203105; Lưỡng Nghi Thánh Tôn giày · Cực
+203205; Ba cấp Thánh Tôn giày · Cực
+203305; Tứ Tượng Thánh Tôn giày · Cực
+203405; Ngũ tuyệt Thánh Tôn giày · Cực
+203505; Lục đạo Thánh Tôn giày · Cực
+203605; Thất Diệu Thánh Tôn giày · Cực
+203705; Bát Hoang Thánh Tôn giày · Cực
+204005; Thái Sơ Chân Tiên giày
+204105; Lưỡng Nghi Chân Tiên giày
+204205; Ba cấp Chân Tiên giày
+204305; Tứ Tượng Chân Tiên giày
+204405; Ngũ tuyệt Chân Tiên giày
+204505; Lục đạo Chân Tiên giày
+204605; Thất Diệu Chân Tiên giày
+204705; Bát Hoang Chân Tiên giày
+200006; Thái Sơ Tiên Tôn miếng lót vai
+200106; Lưỡng Nghi Tiên Tôn miếng lót vai
+200206; Ba cấp Tiên Tôn miếng lót vai
+200306; Tứ Tượng Tiên Tôn miếng lót vai
+200406; Ngũ tuyệt Tiên Tôn miếng lót vai
+200506; Lục đạo Tiên Tôn miếng lót vai
+200606; Thất Diệu Tiên Tôn miếng lót vai
+200706; Bát Hoang Tiên Tôn miếng lót vai
+201006; Thái Sơ Thánh Tôn miếng lót vai
+201106; Lưỡng Nghi Thánh Tôn miếng lót vai
+201206; Ba cấp Thánh Tôn miếng lót vai
+201306; Tứ Tượng Thánh Tôn miếng lót vai
+201406; Ngũ tuyệt Thánh Tôn miếng lót vai
+201506; Lục đạo Thánh Tôn miếng lót vai
+201606; Thất Diệu Thánh Tôn miếng lót vai
+201706; Bát Hoang Thánh Tôn miếng lót vai
+202006; Thái Sơ Thánh Tôn miếng lót vai · Đế
+202106; Lưỡng Nghi Thánh Tôn miếng lót vai · Đế
+202206; Ba cấp Thánh Tôn miếng lót vai · Đế
+202306; Tứ Tượng Thánh Tôn miếng lót vai · Đế
+202406; Ngũ tuyệt Thánh Tôn miếng lót vai · Đế
+202506; Lục đạo Thánh Tôn miếng lót vai · Đế
+202606; Thất Diệu Thánh Tôn miếng lót vai · Đế
+202706; Bát Hoang Thánh Tôn miếng lót vai · Đế
+203006; Thái Sơ Thánh Tôn miếng lót vai · Cực
+203106; Lưỡng Nghi Thánh Tôn miếng lót vai · Cực
+203206; Ba cấp Thánh Tôn miếng lót vai · Cực
+203306; Tứ Tượng Thánh Tôn miếng lót vai · Cực
+203406; Ngũ tuyệt Thánh Tôn miếng lót vai · Cực
+203506; Lục đạo Thánh Tôn miếng lót vai · Cực
+203606; Thất Diệu Thánh Tôn miếng lót vai · Cực
+203706; Bát Hoang Thánh Tôn miếng lót vai · Cực
+204006; Thái Sơ Chân Tiên miếng lót vai
+204106; Lưỡng Nghi Chân Tiên miếng lót vai
+204206; Ba cấp Chân Tiên miếng lót vai
+204306; Tứ Tượng Chân Tiên miếng lót vai
+204406; Ngũ tuyệt Chân Tiên miếng lót vai
+204506; Lục đạo Chân Tiên miếng lót vai
+204606; Thất Diệu Chân Tiên miếng lót vai
+204706; Bát Hoang Chân Tiên miếng lót vai
+200007; Thái Sơ Tiên Tôn dây chuyền
+200107; Lưỡng Nghi Tiên Tôn dây chuyền
+200207; Ba cấp Tiên Tôn dây chuyền
+200307; Tứ Tượng Tiên Tôn dây chuyền
+200407; Ngũ tuyệt Tiên Tôn dây chuyền
+200507; Lục đạo Tiên Tôn dây chuyền
+200607; Thất Diệu Tiên Tôn dây chuyền
+200707; Bát Hoang Tiên Tôn dây chuyền
+201007; Thái Sơ Thánh Tôn dây chuyền
+201107; Lưỡng Nghi Thánh Tôn dây chuyền
+201207; Ba cấp Thánh Tôn dây chuyền
+201307; Tứ Tượng Thánh Tôn dây chuyền
+201407; Ngũ tuyệt Thánh Tôn dây chuyền
+201507; Lục đạo Thánh Tôn dây chuyền
+201607; Thất Diệu Thánh Tôn dây chuyền
+201707; Bát Hoang Thánh Tôn dây chuyền
+202007; Thái Sơ Thánh Tôn dây chuyền · Đế
+202107; Lưỡng Nghi Thánh Tôn dây chuyền · Đế
+202207; Ba cấp Thánh Tôn dây chuyền · Đế
+202307; Tứ Tượng Thánh Tôn dây chuyền · Đế
+202407; Ngũ tuyệt Thánh Tôn dây chuyền · Đế
+202507; Lục đạo Thánh Tôn dây chuyền · Đế
+202607; Thất Diệu Thánh Tôn dây chuyền · Đế
+202707; Bát Hoang Thánh Tôn dây chuyền · Đế
+203007; Thái Sơ Thánh Tôn dây chuyền · Cực
+203107; Lưỡng Nghi Thánh Tôn dây chuyền · Cực
+203207; Ba cấp Thánh Tôn dây chuyền · Cực
+203307; Tứ Tượng Thánh Tôn dây chuyền · Cực
+203407; Ngũ tuyệt Thánh Tôn dây chuyền · Cực
+203507; Lục đạo Thánh Tôn dây chuyền · Cực
+203607; Thất Diệu Thánh Tôn dây chuyền · Cực
+203707; Bát Hoang Thánh Tôn dây chuyền · Cực
+204007; Thái Sơ Chân Tiên dây chuyền
+204107; Lưỡng Nghi Chân Tiên dây chuyền
+204207; Ba cấp Chân Tiên dây chuyền
+204307; Tứ Tượng Chân Tiên dây chuyền
+204407; Ngũ tuyệt Chân Tiên dây chuyền
+204507; Lục đạo Chân Tiên dây chuyền
+204607; Thất Diệu Chân Tiên dây chuyền
+204707; Bát Hoang Chân Tiên dây chuyền
+200008; Thái Sơ Tiên Tôn đeo sức
+200108; Lưỡng Nghi Tiên Tôn đeo sức
+200208; Ba cấp Tiên Tôn đeo sức
+200308; Tứ Tượng Tiên Tôn đeo sức
+200408; Ngũ tuyệt Tiên Tôn đeo sức
+200508; Lục đạo Tiên Tôn đeo sức
+200608; Thất Diệu Tiên Tôn đeo sức
+200708; Bát Hoang Tiên Tôn đeo sức
+201008; Thái Sơ Thánh Tôn đeo sức
+201108; Lưỡng Nghi Thánh Tôn đeo sức
+201208; Ba cấp Thánh Tôn đeo sức
+201308; Tứ Tượng Thánh Tôn đeo sức
+201408; Ngũ tuyệt Thánh Tôn đeo sức
+201508; Lục đạo Thánh Tôn đeo sức
+201608; Thất Diệu Thánh Tôn đeo sức
+201708; Bát Hoang Thánh Tôn đeo sức
+202008; Thái Sơ Thánh Tôn đeo sức · Đế
+202108; Lưỡng Nghi Thánh Tôn đeo sức · Đế
+202208; Ba cấp Thánh Tôn đeo sức · Đế
+202308; Tứ Tượng Thánh Tôn đeo sức · Đế
+202408; Ngũ tuyệt Thánh Tôn đeo sức · Đế
+202508; Lục đạo Thánh Tôn đeo sức · Đế
+202608; Thất Diệu Thánh Tôn đeo sức · Đế
+202708; Bát Hoang Thánh Tôn đeo sức · Đế
+203008; Thái Sơ Thánh Tôn đeo sức · Cực
+203108; Lưỡng Nghi Thánh Tôn đeo sức · Cực
+203208; Ba cấp Thánh Tôn đeo sức · Cực
+203308; Tứ Tượng Thánh Tôn đeo sức · Cực
+203408; Ngũ tuyệt Thánh Tôn đeo sức · Cực
+203508; Lục đạo Thánh Tôn đeo sức · Cực
+203608; Thất Diệu Thánh Tôn đeo sức · Cực
+203708; Bát Hoang Thánh Tôn đeo sức · Cực
+204008; Thái Sơ Chân Tiên đeo sức
+204108; Lưỡng Nghi Chân Tiên đeo sức
+204208; Ba cấp Chân Tiên đeo sức
+204308; Tứ Tượng Chân Tiên đeo sức
+204408; Ngũ tuyệt Chân Tiên đeo sức
+204508; Lục đạo Chân Tiên đeo sức
+204608; Thất Diệu Chân Tiên đeo sức
+204708; Bát Hoang Chân Tiên đeo sức
+200009; Thái Sơ Tiên Tôn hộ oản
+200109; Lưỡng Nghi Tiên Tôn hộ oản
+200209; Ba cấp Tiên Tôn hộ oản
+200309; Tứ Tượng Tiên Tôn hộ oản
+200409; Ngũ tuyệt Tiên Tôn hộ oản
+200509; Lục đạo Tiên Tôn hộ oản
+200609; Thất Diệu Tiên Tôn hộ oản
+200709; Bát Hoang Tiên Tôn hộ oản
+201009; Thái Sơ Thánh Tôn hộ oản
+201109; Lưỡng Nghi Thánh Tôn hộ oản
+201209; Ba cấp Thánh Tôn hộ oản
+201309; Tứ Tượng Thánh Tôn hộ oản
+201409; Ngũ tuyệt Thánh Tôn hộ oản
+201509; Lục đạo Thánh Tôn hộ oản
+201609; Thất Diệu Thánh Tôn hộ oản
+201709; Bát Hoang Thánh Tôn hộ oản
+202009; Thái Sơ Thánh Tôn hộ oản · Đế
+202109; Lưỡng Nghi Thánh Tôn hộ oản · Đế
+202209; Ba cấp Thánh Tôn hộ oản · Đế
+202309; Tứ Tượng Thánh Tôn hộ oản · Đế
+202409; Ngũ tuyệt Thánh Tôn hộ oản · Đế
+202509; Lục đạo Thánh Tôn hộ oản · Đế
+202609; Thất Diệu Thánh Tôn hộ oản · Đế
+202709; Bát Hoang Thánh Tôn hộ oản · Đế
+203009; Thái Sơ Thánh Tôn hộ oản · Cực
+203109; Lưỡng Nghi Thánh Tôn hộ oản · Cực
+203209; Ba cấp Thánh Tôn hộ oản · Cực
+203309; Tứ Tượng Thánh Tôn hộ oản · Cực
+203409; Ngũ tuyệt Thánh Tôn hộ oản · Cực
+203509; Lục đạo Thánh Tôn hộ oản · Cực
+203609; Thất Diệu Thánh Tôn hộ oản · Cực
+203709; Bát Hoang Thánh Tôn hộ oản · Cực
+204009; Thái Sơ Chân Tiên hộ oản
+204109; Lưỡng Nghi Chân Tiên hộ oản
+204209; Ba cấp Chân Tiên hộ oản
+204309; Tứ Tượng Chân Tiên hộ oản
+204409; Ngũ tuyệt Chân Tiên hộ oản
+204509; Lục đạo Chân Tiên hộ oản
+204609; Thất Diệu Chân Tiên hộ oản
+204709; Bát Hoang Chân Tiên hộ oản
+200010; Thái Sơ Tiên Tôn chiếc nhẫn
+200110; Lưỡng Nghi Tiên Tôn chiếc nhẫn
+200210; Ba cấp Tiên Tôn chiếc nhẫn
+200310; Tứ Tượng Tiên Tôn chiếc nhẫn
+200410; Ngũ tuyệt Tiên Tôn chiếc nhẫn
+200510; Lục đạo Tiên Tôn chiếc nhẫn
+200610; Thất Diệu Tiên Tôn chiếc nhẫn
+200710; Bát Hoang Tiên Tôn chiếc nhẫn
+201010; Thái Sơ Thánh Tôn chiếc nhẫn
+201110; Lưỡng Nghi Thánh Tôn chiếc nhẫn
+201210; Ba cấp Thánh Tôn chiếc nhẫn
+201310; Tứ Tượng Thánh Tôn chiếc nhẫn
+201410; Ngũ tuyệt Thánh Tôn chiếc nhẫn
+201510; Lục đạo Thánh Tôn chiếc nhẫn
+201610; Thất Diệu Thánh Tôn chiếc nhẫn
+201710; Bát Hoang Thánh Tôn chiếc nhẫn
+202010; Thái Sơ Thánh Tôn chiếc nhẫn · Đế
+202110; Lưỡng Nghi Thánh Tôn chiếc nhẫn · Đế
+202210; Ba cấp Thánh Tôn chiếc nhẫn · Đế
+202310; Tứ Tượng Thánh Tôn chiếc nhẫn · Đế
+202410; Ngũ tuyệt Thánh Tôn chiếc nhẫn · Đế
+202510; Lục đạo Thánh Tôn chiếc nhẫn · Đế
+202610; Thất Diệu Thánh Tôn chiếc nhẫn · Đế
+202710; Bát Hoang Thánh Tôn chiếc nhẫn · Đế
+203010; Thái Sơ Thánh Tôn chiếc nhẫn · Cực
+203110; Lưỡng Nghi Thánh Tôn chiếc nhẫn · Cực
+203210; Ba cấp Thánh Tôn chiếc nhẫn · Cực
+203310; Tứ Tượng Thánh Tôn chiếc nhẫn · Cực
+203410; Ngũ tuyệt Thánh Tôn chiếc nhẫn · Cực
+203510; Lục đạo Thánh Tôn chiếc nhẫn · Cực
+203610; Thất Diệu Thánh Tôn chiếc nhẫn · Cực
+203710; Bát Hoang Thánh Tôn chiếc nhẫn · Cực
+204010; Thái Sơ Chân Tiên chiếc nhẫn
+204110; Lưỡng Nghi Chân Tiên chiếc nhẫn
+204210; Ba cấp Chân Tiên chiếc nhẫn
+204310; Tứ Tượng Chân Tiên chiếc nhẫn
+204410; Ngũ tuyệt Chân Tiên chiếc nhẫn
+204510; Lục đạo Chân Tiên chiếc nhẫn
+204610; Thất Diệu Chân Tiên chiếc nhẫn
+204710; Bát Hoang Chân Tiên chiếc nhẫn
+200011; Thái Sơ Tiên Tôn linh đàn
+200111; Lưỡng Nghi Tiên Tôn linh đàn
+200211; Ba cấp Tiên Tôn linh đàn
+200311; Tứ Tượng Tiên Tôn linh đàn
+200411; Ngũ tuyệt Tiên Tôn linh đàn
+200511; Lục đạo Tiên Tôn linh đàn
+200611; Thất Diệu Tiên Tôn linh đàn
+200711; Bát Hoang Tiên Tôn linh đàn
+201011; Thái Sơ Thánh Tôn linh đàn
+201111; Lưỡng Nghi Thánh Tôn linh đàn
+201211; Ba cấp Thánh Tôn linh đàn
+201311; Tứ Tượng Thánh Tôn linh đàn
+201411; Ngũ tuyệt Thánh Tôn linh đàn
+201511; Lục đạo Thánh Tôn linh đàn
+201611; Thất Diệu Thánh Tôn linh đàn
+201711; Bát Hoang Thánh Tôn linh đàn
+202011; Thái Sơ Thánh Tôn linh đàn · Đế
+202111; Lưỡng Nghi Thánh Tôn linh đàn · Đế
+202211; Ba cấp Thánh Tôn linh đàn · Đế
+202311; Tứ Tượng Thánh Tôn linh đàn · Đế
+202411; Ngũ tuyệt Thánh Tôn linh đàn · Đế
+202511; Lục đạo Thánh Tôn linh đàn · Đế
+202611; Thất Diệu Thánh Tôn linh đàn · Đế
+202711; Bát Hoang Thánh Tôn linh đàn · Đế
+203011; Thái Sơ Thánh Tôn linh đàn · Cực
+203111; Lưỡng Nghi Thánh Tôn linh đàn · Cực
+203211; Ba cấp Thánh Tôn linh đàn · Cực
+203311; Tứ Tượng Thánh Tôn linh đàn · Cực
+203411; Ngũ tuyệt Thánh Tôn linh đàn · Cực
+203511; Lục đạo Thánh Tôn linh đàn · Cực
+203611; Thất Diệu Thánh Tôn linh đàn · Cực
+203711; Bát Hoang Thánh Tôn linh đàn · Cực
+204011; Thái Sơ Chân Tiên linh đàn
+204111; Lưỡng Nghi Chân Tiên linh đàn
+204211; Ba cấp Chân Tiên linh đàn
+204311; Tứ Tượng Chân Tiên linh đàn
+204411; Ngũ tuyệt Chân Tiên linh đàn
+204511; Lục đạo Chân Tiên linh đàn
+204611; Thất Diệu Chân Tiên linh đàn
+204711; Bát Hoang Chân Tiên linh đàn
+200012; Thái Sơ Tiên Tôn Huyền kiếm
+200112; Lưỡng Nghi Tiên Tôn Huyền kiếm
+200212; Ba cấp Tiên Tôn Huyền kiếm
+200312; Tứ Tượng Tiên Tôn Huyền kiếm
+200412; Ngũ tuyệt Tiên Tôn Huyền kiếm
+200512; Lục đạo Tiên Tôn Huyền kiếm
+200612; Thất Diệu Tiên Tôn Huyền kiếm
+200712; Bát Hoang Tiên Tôn Huyền kiếm
+201012; Thái Sơ Thánh Tôn Huyền kiếm
+201112; Lưỡng Nghi Thánh Tôn Huyền kiếm
+201212; Ba cấp Thánh Tôn Huyền kiếm
+201312; Tứ Tượng Thánh Tôn Huyền kiếm
+201412; Ngũ tuyệt Thánh Tôn Huyền kiếm
+201512; Lục đạo Thánh Tôn Huyền kiếm
+201612; Thất Diệu Thánh Tôn Huyền kiếm
+201712; Bát Hoang Thánh Tôn Huyền kiếm
+202012; Thái Sơ Thánh Tôn Huyền kiếm · Đế
+202112; Lưỡng Nghi Thánh Tôn Huyền kiếm · Đế
+202212; Ba cấp Thánh Tôn Huyền kiếm · Đế
+202312; Tứ Tượng Thánh Tôn Huyền kiếm · Đế
+202412; Ngũ tuyệt Thánh Tôn Huyền kiếm · Đế
+202512; Lục đạo Thánh Tôn Huyền kiếm · Đế
+202612; Thất Diệu Thánh Tôn Huyền kiếm · Đế
+202712; Bát Hoang Thánh Tôn Huyền kiếm · Đế
+203012; Thái Sơ Thánh Tôn Huyền kiếm · Cực
+203112; Lưỡng Nghi Thánh Tôn Huyền kiếm · Cực
+203212; Ba cấp Thánh Tôn Huyền kiếm · Cực
+203312; Tứ Tượng Thánh Tôn Huyền kiếm · Cực
+203412; Ngũ tuyệt Thánh Tôn Huyền kiếm · Cực
+203512; Lục đạo Thánh Tôn Huyền kiếm · Cực
+203612; Thất Diệu Thánh Tôn Huyền kiếm · Cực
+203712; Bát Hoang Thánh Tôn Huyền kiếm · Cực
+204012; Thái Sơ Chân Tiên Huyền kiếm
+204112; Lưỡng Nghi Chân Tiên Huyền kiếm
+204212; Ba cấp Chân Tiên Huyền kiếm
+204312; Tứ Tượng Chân Tiên Huyền kiếm
+204412; Ngũ tuyệt Chân Tiên Huyền kiếm
+204512; Lục đạo Chân Tiên Huyền kiếm
+204612; Thất Diệu Chân Tiên Huyền kiếm
+204712; Bát Hoang Chân Tiên Huyền kiếm
+200013; Thái Sơ Tiên Tôn bá chùy
+200113; Lưỡng Nghi Tiên Tôn bá chùy
+200213; Ba cấp Tiên Tôn bá chùy
+200313; Tứ Tượng Tiên Tôn bá chùy
+200413; Ngũ tuyệt Tiên Tôn bá chùy
+200513; Lục đạo Tiên Tôn bá chùy
+200613; Thất Diệu Tiên Tôn bá chùy
+200713; Bát Hoang Tiên Tôn bá chùy
+201013; Thái Sơ Thánh Tôn bá chùy
+201113; Lưỡng Nghi Thánh Tôn bá chùy
+201213; Ba cấp Thánh Tôn bá chùy
+201313; Tứ Tượng Thánh Tôn bá chùy
+201413; Ngũ tuyệt Thánh Tôn bá chùy
+201513; Lục đạo Thánh Tôn bá chùy
+201613; Thất Diệu Thánh Tôn bá chùy
+201713; Bát Hoang Thánh Tôn bá chùy
+202013; Thái Sơ Thánh Tôn bá chùy · Đế
+202113; Lưỡng Nghi Thánh Tôn bá chùy · Đế
+202213; Ba cấp Thánh Tôn bá chùy · Đế
+202313; Tứ Tượng Thánh Tôn bá chùy · Đế
+202413; Ngũ tuyệt Thánh Tôn bá chùy · Đế
+202513; Lục đạo Thánh Tôn bá chùy · Đế
+202613; Thất Diệu Thánh Tôn bá chùy · Đế
+202713; Bát Hoang Thánh Tôn bá chùy · Đế
+203013; Thái Sơ Thánh Tôn bá chùy · Cực
+203113; Lưỡng Nghi Thánh Tôn bá chùy · Cực
+203213; Ba cấp Thánh Tôn bá chùy · Cực
+203313; Tứ Tượng Thánh Tôn bá chùy · Cực
+203413; Ngũ tuyệt Thánh Tôn bá chùy · Cực
+203513; Lục đạo Thánh Tôn bá chùy · Cực
+203613; Thất Diệu Thánh Tôn bá chùy · Cực
+203713; Bát Hoang Thánh Tôn bá chùy · Cực
+204013; Thái Sơ Chân Tiên bá chùy
+204113; Lưỡng Nghi Chân Tiên bá chùy
+204213; Ba cấp Chân Tiên bá chùy
+204313; Tứ Tượng Chân Tiên bá chùy
+204413; Ngũ tuyệt Chân Tiên bá chùy
+204513; Lục đạo Chân Tiên bá chùy
+204613; Thất Diệu Chân Tiên bá chùy
+204713; Bát Hoang Chân Tiên bá chùy
+210001; Linh nón trụ
+210002; Linh giáp
+210003; Linh eo
+210004; Linh quần
+210005; Linh giày
+210006; Linh vai
+210007; Linh liên
+210008; Linh đeo
+210009; Linh cổ tay
+210010; Linh giới
+210011; Linh đàn
+210101; Nhất chuyển linh nón trụ
+210102; Nhất chuyển linh giáp
+210103; Nhất chuyển linh eo
+210104; Nhất chuyển linh quần
+210105; Nhất chuyển linh giày
+210106; Nhất chuyển linh vai
+210107; Nhất chuyển linh liên
+210108; Nhất chuyển linh đeo
+210109; Nhất chuyển linh cổ tay
+210110; Nhất chuyển linh giới
+210111; Nhất chuyển linh đàn
+210201; Nhị chuyển linh nón trụ
+210202; Nhị chuyển linh giáp
+210203; Nhị chuyển linh eo
+210204; Nhị chuyển linh quần
+210205; Nhị chuyển linh giày
+210206; Nhị chuyển linh vai
+210207; Nhị chuyển linh liên
+210208; Nhị chuyển linh đeo
+210209; Nhị chuyển linh cổ tay
+210210; Nhị chuyển linh giới
+210211; Nhị chuyển linh đàn
+210301; Tam chuyển linh nón trụ
+210302; Tam chuyển linh giáp
+210303; Tam chuyển linh eo
+210304; Tam chuyển linh quần
+210305; Tam chuyển linh giày
+210306; Tam chuyển linh vai
+210307; Tam chuyển linh liên
+210308; Tam chuyển linh đeo
+210309; Tam chuyển linh cổ tay
+210310; Tam chuyển linh giới
+210311; Tam chuyển linh đàn
+210401; Tứ chuyển linh nón trụ
+210402; Tứ chuyển linh giáp
+210403; Tứ chuyển linh eo
+210404; Tứ chuyển linh quần
+210405; Tứ chuyển linh giày
+210406; Tứ chuyển linh vai
+210407; Tứ chuyển linh liên
+210408; Tứ chuyển linh đeo
+210409; Tứ chuyển linh cổ tay
+210410; Tứ chuyển linh giới
+210411; Tứ chuyển linh đàn
+210501; Ngũ chuyển linh nón trụ
+210502; Ngũ chuyển linh giáp
+210503; Ngũ chuyển linh eo
+210504; Ngũ chuyển linh quần
+210505; Ngũ chuyển linh giày
+210506; Ngũ chuyển linh vai
+210507; Ngũ chuyển linh liên
+210508; Ngũ chuyển linh đeo
+210509; Ngũ chuyển linh cổ tay
+210510; Ngũ chuyển linh giới
+210511; Ngũ chuyển linh đàn
+210601; Lục chuyển linh nón trụ
+210602; Lục chuyển linh giáp
+210603; Lục chuyển linh eo
+210604; Lục chuyển linh quần
+210605; Lục chuyển linh giày
+210606; Lục chuyển linh vai
+210607; Lục chuyển linh liên
+210608; Lục chuyển linh đeo
+210609; Lục chuyển linh cổ tay
+210610; Lục chuyển linh giới
+210611; Lục chuyển linh đàn
+210701; Thất chuyển linh nón trụ
+210702; Thất chuyển linh giáp
+210703; Thất chuyển linh eo
+210704; Thất chuyển linh quần
+210705; Thất chuyển linh giày
+210706; Thất chuyển linh vai
+210707; Thất chuyển linh liên
+210708; Thất chuyển linh đeo
+210709; Thất chuyển linh cổ tay
+210710; Thất chuyển linh giới
+210711; Thất chuyển linh đàn
+210801; Bát chuyển linh nón trụ
+210802; Bát chuyển linh giáp
+210803; Bát chuyển linh eo
+210804; Bát chuyển linh quần
+210805; Bát chuyển linh giày
+210806; Bát chuyển linh vai
+210807; Bát chuyển linh liên
+210808; Bát chuyển linh đeo
+210809; Bát chuyển linh cổ tay
+210810; Bát chuyển linh giới
+210811; Bát chuyển linh đàn
+210901; Cửu chuyển linh nón trụ
+210902; Cửu chuyển linh giáp
+210903; Cửu chuyển linh eo
+210904; Cửu chuyển linh quần
+210905; Cửu chuyển linh giày
+210906; Cửu chuyển linh vai
+210907; Cửu chuyển linh liên
+210908; Cửu chuyển linh đeo
+210909; Cửu chuyển linh cổ tay
+210910; Cửu chuyển linh giới
+210911; Cửu chuyển linh đàn
+211001; Mười chuyển linh nón trụ
+211002; Mười chuyển linh giáp
+211003; Mười chuyển linh eo
+211004; Mười chuyển linh quần
+211005; Mười chuyển linh giày
+211006; Mười chuyển linh vai
+211007; Mười chuyển linh liên
+211008; Mười chuyển linh đeo
+211009; Mười chuyển linh cổ tay
+211010; Mười chuyển linh giới
+211011; Mười chuyển linh đàn
+211101; Trung cấp linh nón trụ
+211102; Trung cấp linh giáp
+211103; Trung cấp linh eo
+211104; Trung cấp linh quần
+211105; Trung cấp linh giày
+211106; Trung cấp linh vai
+211107; Trung cấp linh liên
+211108; Trung cấp linh đeo
+211109; Trung cấp linh cổ tay
+211110; Trung cấp linh giới
+211111; Trung cấp linh đàn
+211201; Cao cấp linh nón trụ
+211202; Cao cấp linh giáp
+211203; Cao cấp linh eo
+211204; Cao cấp linh quần
+211205; Cao cấp linh giày
+211206; Cao cấp linh vai
+211207; Cao cấp linh liên
+211208; Cao cấp linh đeo
+211209; Cao cấp linh cổ tay
+211210; Cao cấp linh giới
+211211; Cao cấp linh đàn
+220001; Huyền nón trụ
+220002; Huyền Giáp
+220003; Huyền eo
+220004; Huyền quần
+220005; Huyền giày
+220006; Huyền vai
+220007; Huyền liên
+220008; Huyền đeo
+220009; Huyền cổ tay
+220010; Huyền giới
+220011; Huyền kiếm
+220101; Nhất chuyển huyền nón trụ
+220102; Nhất chuyển Huyền Giáp
+220103; Nhất chuyển huyền eo
+220104; Nhất chuyển huyền quần
+220105; Nhất chuyển huyền giày
+220106; Nhất chuyển huyền vai
+220107; Nhất chuyển huyền liên
+220108; Nhất chuyển huyền đeo
+220109; Nhất chuyển huyền cổ tay
+220110; Nhất chuyển huyền giới
+220111; Nhất chuyển Huyền kiếm
+220201; Nhị chuyển huyền nón trụ
+220202; Nhị chuyển Huyền Giáp
+220203; Nhị chuyển huyền eo
+220204; Nhị chuyển huyền quần
+220205; Nhị chuyển huyền giày
+220206; Nhị chuyển huyền vai
+220207; Nhị chuyển huyền liên
+220208; Nhị chuyển huyền đeo
+220209; Nhị chuyển huyền cổ tay
+220210; Nhị chuyển huyền giới
+220211; Nhị chuyển Huyền kiếm
+220301; Tam chuyển huyền nón trụ
+220302; Tam chuyển Huyền Giáp
+220303; Tam chuyển huyền eo
+220304; Tam chuyển huyền quần
+220305; Tam chuyển huyền giày
+220306; Tam chuyển huyền vai
+220307; Tam chuyển huyền liên
+220308; Tam chuyển huyền đeo
+220309; Tam chuyển huyền cổ tay
+220310; Tam chuyển huyền giới
+220311; Tam chuyển Huyền kiếm
+220401; Tứ chuyển huyền nón trụ
+220402; Tứ chuyển Huyền Giáp
+220403; Tứ chuyển huyền eo
+220404; Tứ chuyển huyền quần
+220405; Tứ chuyển huyền giày
+220406; Tứ chuyển huyền vai
+220407; Tứ chuyển huyền liên
+220408; Tứ chuyển huyền đeo
+220409; Tứ chuyển huyền cổ tay
+220410; Tứ chuyển huyền giới
+220411; Tứ chuyển Huyền kiếm
+220501; Ngũ chuyển huyền nón trụ
+220502; Ngũ chuyển Huyền Giáp
+220503; Ngũ chuyển huyền eo
+220504; Ngũ chuyển huyền quần
+220505; Ngũ chuyển huyền giày
+220506; Ngũ chuyển huyền vai
+220507; Ngũ chuyển huyền liên
+220508; Ngũ chuyển huyền đeo
+220509; Ngũ chuyển huyền cổ tay
+220510; Ngũ chuyển huyền giới
+220511; Ngũ chuyển Huyền kiếm
+220601; Lục chuyển huyền nón trụ
+220602; Lục chuyển Huyền Giáp
+220603; Lục chuyển huyền eo
+220604; Lục chuyển huyền quần
+220605; Lục chuyển huyền giày
+220606; Lục chuyển huyền vai
+220607; Lục chuyển huyền liên
+220608; Lục chuyển huyền đeo
+220609; Lục chuyển huyền cổ tay
+220610; Lục chuyển huyền giới
+220611; Lục chuyển Huyền kiếm
+220701; Thất chuyển huyền nón trụ
+220702; Thất chuyển Huyền Giáp
+220703; Thất chuyển huyền eo
+220704; Thất chuyển huyền quần
+220705; Thất chuyển huyền giày
+220706; Thất chuyển huyền vai
+220707; Thất chuyển huyền liên
+220708; Thất chuyển huyền đeo
+220709; Thất chuyển huyền cổ tay
+220710; Thất chuyển huyền giới
+220711; Thất chuyển Huyền kiếm
+220801; Bát chuyển huyền nón trụ
+220802; Bát chuyển Huyền Giáp
+220803; Bát chuyển huyền eo
+220804; Bát chuyển huyền quần
+220805; Bát chuyển huyền giày
+220806; Bát chuyển huyền vai
+220807; Bát chuyển huyền liên
+220808; Bát chuyển huyền đeo
+220809; Bát chuyển huyền cổ tay
+220810; Bát chuyển huyền giới
+220811; Bát chuyển Huyền kiếm
+220901; Cửu chuyển huyền nón trụ
+220902; Cửu chuyển Huyền Giáp
+220903; Cửu chuyển huyền eo
+220904; Cửu chuyển huyền quần
+220905; Cửu chuyển huyền giày
+220906; Cửu chuyển huyền vai
+220907; Cửu chuyển huyền liên
+220908; Cửu chuyển huyền đeo
+220909; Cửu chuyển huyền cổ tay
+220910; Cửu chuyển huyền giới
+220911; Cửu chuyển Huyền kiếm
+221001; Mười chuyển huyền nón trụ
+221002; Mười chuyển Huyền Giáp
+221003; Mười chuyển huyền eo
+221004; Mười chuyển huyền quần
+221005; Mười chuyển huyền giày
+221006; Mười chuyển huyền vai
+221007; Mười chuyển huyền liên
+221008; Mười chuyển huyền đeo
+221009; Mười chuyển huyền cổ tay
+221010; Mười chuyển huyền giới
+221011; Mười chuyển Huyền kiếm
+221101; Trung cấp huyền nón trụ
+221102; Trung cấp Huyền Giáp
+221103; Trung cấp huyền eo
+221104; Trung cấp huyền quần
+221105; Trung cấp huyền giày
+221106; Trung cấp huyền vai
+221107; Trung cấp huyền liên
+221108; Trung cấp huyền đeo
+221109; Trung cấp huyền cổ tay
+221110; Trung cấp huyền giới
+221111; Trung cấp Huyền kiếm
+221201; Cao cấp huyền nón trụ
+221202; Cao cấp Huyền Giáp
+221203; Cao cấp huyền eo
+221204; Cao cấp huyền quần
+221205; Cao cấp huyền giày
+221206; Cao cấp huyền vai
+221207; Cao cấp huyền liên
+221208; Cao cấp huyền đeo
+221209; Cao cấp huyền cổ tay
+221210; Cao cấp huyền giới
+221211; Cao cấp Huyền kiếm
+230001; Bá nón trụ
+230002; Bá giáp
+230003; Bá eo
+230004; Bá quần
+230005; Bá giày
+230006; Bá vai
+230007; Bá liên
+230008; Bá đeo
+230009; Bá cổ tay
+230010; Bá giới
+230011; Bá chùy
+230101; Nhất chuyển bá nón trụ
+230102; Nhất chuyển bá giáp
+230103; Nhất chuyển bá eo
+230104; Nhất chuyển bá quần
+230105; Nhất chuyển bá giày
+230106; Nhất chuyển bá vai
+230107; Nhất chuyển bá liên
+230108; Nhất chuyển bá đeo
+230109; Nhất chuyển bá cổ tay
+230110; Nhất chuyển bá giới
+230111; Nhất chuyển bá chùy
+230201; Nhị chuyển bá nón trụ
+230202; Nhị chuyển bá giáp
+230203; Nhị chuyển bá eo
+230204; Nhị chuyển bá quần
+230205; Nhị chuyển bá giày
+230206; Nhị chuyển bá vai
+230207; Nhị chuyển bá liên
+230208; Nhị chuyển bá đeo
+230209; Nhị chuyển bá cổ tay
+230210; Nhị chuyển bá giới
+230211; Nhị chuyển bá chùy
+230301; Tam chuyển bá nón trụ
+230302; Tam chuyển bá giáp
+230303; Tam chuyển bá eo
+230304; Tam chuyển bá quần
+230305; Tam chuyển bá giày
+230306; Tam chuyển bá vai
+230307; Tam chuyển bá liên
+230308; Tam chuyển bá đeo
+230309; Tam chuyển bá cổ tay
+230310; Tam chuyển bá giới
+230311; Tam chuyển bá chùy
+230401; Tứ chuyển bá nón trụ
+230402; Tứ chuyển bá giáp
+230403; Tứ chuyển bá eo
+230404; Tứ chuyển bá quần
+230405; Tứ chuyển bá giày
+230406; Tứ chuyển bá vai
+230407; Tứ chuyển bá liên
+230408; Tứ chuyển bá đeo
+230409; Tứ chuyển bá cổ tay
+230410; Tứ chuyển bá giới
+230411; Tứ chuyển bá chùy
+230501; Ngũ chuyển bá nón trụ
+230502; Ngũ chuyển bá giáp
+230503; Ngũ chuyển bá eo
+230504; Ngũ chuyển bá quần
+230505; Ngũ chuyển bá giày
+230506; Ngũ chuyển bá vai
+230507; Ngũ chuyển bá liên
+230508; Ngũ chuyển bá đeo
+230509; Ngũ chuyển bá cổ tay
+230510; Ngũ chuyển bá giới
+230511; Ngũ chuyển bá chùy
+230601; Lục chuyển bá nón trụ
+230602; Lục chuyển bá giáp
+230603; Lục chuyển bá eo
+230604; Lục chuyển bá quần
+230605; Lục chuyển bá giày
+230606; Lục chuyển bá vai
+230607; Lục chuyển bá liên
+230608; Lục chuyển bá đeo
+230609; Lục chuyển bá cổ tay
+230610; Lục chuyển bá giới
+230611; Lục chuyển bá chùy
+230701; Thất chuyển bá nón trụ
+230702; Thất chuyển bá giáp
+230703; Thất chuyển bá eo
+230704; Thất chuyển bá quần
+230705; Thất chuyển bá giày
+230706; Thất chuyển bá vai
+230707; Thất chuyển bá liên
+230708; Thất chuyển bá đeo
+230709; Thất chuyển bá cổ tay
+230710; Thất chuyển bá giới
+230711; Thất chuyển bá chùy
+230801; Bát chuyển bá nón trụ
+230802; Bát chuyển bá giáp
+230803; Bát chuyển bá eo
+230804; Bát chuyển bá quần
+230805; Bát chuyển bá giày
+230806; Bát chuyển bá vai
+230807; Bát chuyển bá liên
+230808; Bát chuyển bá đeo
+230809; Bát chuyển bá cổ tay
+230810; Bát chuyển bá giới
+230811; Bát chuyển bá chùy
+230901; Cửu chuyển bá nón trụ
+230902; Cửu chuyển bá giáp
+230903; Cửu chuyển bá eo
+230904; Cửu chuyển bá quần
+230905; Cửu chuyển bá giày
+230906; Cửu chuyển bá vai
+230907; Cửu chuyển bá liên
+230908; Cửu chuyển bá đeo
+230909; Cửu chuyển bá cổ tay
+230910; Cửu chuyển bá giới
+230911; Cửu chuyển bá chùy
+231001; Mười chuyển bá nón trụ
+231002; Mười chuyển bá giáp
+231003; Mười chuyển bá eo
+231004; Mười chuyển bá quần
+231005; Mười chuyển bá giày
+231006; Mười chuyển bá vai
+231007; Mười chuyển bá liên
+231008; Mười chuyển bá đeo
+231009; Mười chuyển bá cổ tay
+231010; Mười chuyển bá giới
+231011; Mười chuyển bá chùy
+231101; Trung cấp bá nón trụ
+231102; Trung cấp bá giáp
+231103; Trung cấp bá eo
+231104; Trung cấp bá quần
+231105; Trung cấp bá giày
+231106; Trung cấp bá vai
+231107; Trung cấp bá liên
+231108; Trung cấp bá đeo
+231109; Trung cấp bá cổ tay
+231110; Trung cấp bá giới
+231111; Trung cấp bá chùy
+231201; Cao cấp bá nón trụ
+231202; Cao cấp bá giáp
+231203; Cao cấp bá eo
+231204; Cao cấp bá quần
+231205; Cao cấp bá giày
+231206; Cao cấp bá vai
+231207; Cao cấp bá liên
+231208; Cao cấp bá đeo
+231209; Cao cấp bá cổ tay
+231210; Cao cấp bá giới
+231211; Cao cấp bá chùy
+250001; Sơ tâm linh nón trụ
+250101; Thái Sơ linh nón trụ
+250201; Lưỡng Nghi linh nón trụ
+250301; Ba cấp linh nón trụ
+250401; Tứ Tượng linh nón trụ
+250501; Ngũ tuyệt linh nón trụ
+250601; Lục đạo linh nón trụ
+250701; Thất Diệu linh nón trụ
+250801; Bát Hoang linh nón trụ
+250901; Cửu tiêu linh nón trụ
+251001; Thập phương linh nón trụ
+251101; Ngự Long linh nón trụ
+251201; Phá thiên linh nón trụ
+260001; Sơ tâm huyền nón trụ
+260101; Thái Sơ huyền nón trụ
+260201; Lưỡng Nghi huyền nón trụ
+260301; Ba cấp huyền nón trụ
+260401; Tứ Tượng huyền nón trụ
+260501; Ngũ tuyệt huyền nón trụ
+260601; Lục đạo huyền nón trụ
+260701; Thất Diệu huyền nón trụ
+260801; Bát Hoang huyền nón trụ
+260901; Cửu tiêu huyền nón trụ
+261001; Thập phương huyền nón trụ
+261101; Ngự Long huyền nón trụ
+261201; Phá thiên huyền nón trụ
+270001; Sơ tâm bá nón trụ
+270101; Thái Sơ bá nón trụ
+270201; Lưỡng Nghi bá nón trụ
+270301; Ba cấp bá nón trụ
+270401; Tứ Tượng bá nón trụ
+270501; Ngũ tuyệt bá nón trụ
+270601; Lục đạo bá nón trụ
+270701; Thất Diệu bá nón trụ
+270801; Bát Hoang bá nón trụ
+270901; Cửu tiêu bá nón trụ
+271001; Thập phương bá nón trụ
+271101; Ngự Long bá nón trụ
+271201; Phá thiên bá nón trụ
+250002; Sơ tâm linh giáp
+250102; Thái Sơ linh giáp
+250202; Lưỡng Nghi linh giáp
+250302; Ba cấp linh giáp
+250402; Tứ Tượng linh giáp
+250502; Ngũ tuyệt linh giáp
+250602; Lục đạo linh giáp
+250702; Thất Diệu linh giáp
+250802; Bát Hoang linh giáp
+250902; Cửu tiêu linh giáp
+251002; Thập phương linh giáp
+251102; Ngự Long linh giáp
+251202; Phá thiên linh giáp
+260002; Sơ tâm Huyền Giáp
+260102; Thái Sơ Huyền Giáp
+260202; Lưỡng Nghi Huyền Giáp
+260302; Ba cấp Huyền Giáp
+260402; Tứ Tượng Huyền Giáp
+260502; Ngũ tuyệt Huyền Giáp
+260602; Lục đạo Huyền Giáp
+260702; Thất Diệu Huyền Giáp
+260802; Bát Hoang Huyền Giáp
+260902; Cửu tiêu Huyền Giáp
+261002; Thập phương Huyền Giáp
+261102; Ngự Long Huyền Giáp
+261202; Phá thiên Huyền Giáp
+270002; Sơ tâm bá giáp
+270102; Thái Sơ bá giáp
+270202; Lưỡng Nghi bá giáp
+270302; Ba cấp bá giáp
+270402; Tứ Tượng bá giáp
+270502; Ngũ tuyệt bá giáp
+270602; Lục đạo bá giáp
+270702; Thất Diệu bá giáp
+270802; Bát Hoang bá giáp
+270902; Cửu tiêu bá giáp
+271002; Thập phương bá giáp
+271102; Ngự Long bá giáp
+271202; Phá thiên bá giáp
+250003; Sơ tâm linh eo
+250103; Thái Sơ linh eo
+250203; Lưỡng Nghi linh eo
+250303; Ba cấp linh eo
+250403; Tứ Tượng linh eo
+250503; Ngũ tuyệt linh eo
+250603; Lục đạo linh eo
+250703; Thất Diệu linh eo
+250803; Bát Hoang linh eo
+250903; Cửu tiêu linh eo
+251003; Thập phương linh eo
+251103; Ngự Long linh eo
+251203; Phá thiên linh eo
+260003; Sơ tâm huyền eo
+260103; Thái Sơ huyền eo
+260203; Lưỡng Nghi huyền eo
+260303; Ba cấp huyền eo
+260403; Tứ Tượng huyền eo
+260503; Ngũ tuyệt huyền eo
+260603; Lục đạo huyền eo
+260703; Thất Diệu huyền eo
+260803; Bát Hoang huyền eo
+260903; Cửu tiêu huyền eo
+261003; Thập phương huyền eo
+261103; Ngự Long huyền eo
+261203; Phá thiên huyền eo
+270003; Sơ tâm bá eo
+270103; Thái Sơ bá eo
+270203; Lưỡng Nghi bá eo
+270303; Ba cấp bá eo
+270403; Tứ Tượng bá eo
+270503; Ngũ tuyệt bá eo
+270603; Lục đạo bá eo
+270703; Thất Diệu bá eo
+270803; Bát Hoang bá eo
+270903; Cửu tiêu bá eo
+271003; Thập phương bá eo
+271103; Ngự Long bá eo
+271203; Phá thiên bá eo
+250004; Sơ tâm linh quần
+250104; Thái Sơ linh quần
+250204; Lưỡng Nghi linh quần
+250304; Ba cấp linh quần
+250404; Tứ Tượng linh quần
+250504; Ngũ tuyệt linh quần
+250604; Lục đạo linh quần
+250704; Thất Diệu linh quần
+250804; Bát Hoang linh quần
+250904; Cửu tiêu linh quần
+251004; Thập phương linh quần
+251104; Ngự Long linh quần
+251204; Phá thiên linh quần
+260004; Sơ tâm huyền quần
+260104; Thái Sơ huyền quần
+260204; Lưỡng Nghi huyền quần
+260304; Ba cấp huyền quần
+260404; Tứ Tượng huyền quần
+260504; Ngũ tuyệt huyền quần
+260604; Lục đạo huyền quần
+260704; Thất Diệu huyền quần
+260804; Bát Hoang huyền quần
+260904; Cửu tiêu huyền quần
+261004; Thập phương huyền quần
+261104; Ngự Long huyền quần
+261204; Phá thiên huyền quần
+270004; Sơ tâm bá quần
+270104; Thái Sơ bá quần
+270204; Lưỡng Nghi bá quần
+270304; Ba cấp bá quần
+270404; Tứ Tượng bá quần
+270504; Ngũ tuyệt bá quần
+270604; Lục đạo bá quần
+270704; Thất Diệu bá quần
+270804; Bát Hoang bá quần
+270904; Cửu tiêu bá quần
+271004; Thập phương bá quần
+271104; Ngự Long bá quần
+271204; Phá thiên bá quần
+250005; Sơ tâm linh giày
+250105; Thái Sơ linh giày
+250205; Lưỡng Nghi linh giày
+250305; Ba cấp linh giày
+250405; Tứ Tượng linh giày
+250505; Ngũ tuyệt linh giày
+250605; Lục đạo linh giày
+250705; Thất Diệu linh giày
+250805; Bát Hoang linh giày
+250905; Cửu tiêu linh giày
+251005; Thập phương linh giày
+251105; Ngự Long linh giày
+251205; Phá thiên linh giày
+260005; Sơ tâm huyền giày
+260105; Thái Sơ huyền giày
+260205; Lưỡng Nghi huyền giày
+260305; Ba cấp huyền giày
+260405; Tứ Tượng huyền giày
+260505; Ngũ tuyệt huyền giày
+260605; Lục đạo huyền giày
+260705; Thất Diệu huyền giày
+260805; Bát Hoang huyền giày
+260905; Cửu tiêu huyền giày
+261005; Thập phương huyền giày
+261105; Ngự Long huyền giày
+261205; Phá thiên huyền giày
+270005; Sơ tâm bá giày
+270105; Thái Sơ bá giày
+270205; Lưỡng Nghi bá giày
+270305; Ba cấp bá giày
+270405; Tứ Tượng bá giày
+270505; Ngũ tuyệt bá giày
+270605; Lục đạo bá giày
+270705; Thất Diệu bá giày
+270805; Bát Hoang bá giày
+270905; Cửu tiêu bá giày
+271005; Thập phương bá giày
+271105; Ngự Long bá giày
+271205; Phá thiên bá giày
+250006; Sơ tâm linh vai
+250106; Thái Sơ linh vai
+250206; Lưỡng Nghi linh vai
+250306; Ba cấp linh vai
+250406; Tứ Tượng linh vai
+250506; Ngũ tuyệt linh vai
+250606; Lục đạo linh vai
+250706; Thất Diệu linh vai
+250806; Bát Hoang linh vai
+250906; Cửu tiêu linh vai
+251006; Thập phương linh vai
+251106; Ngự Long linh vai
+251206; Phá thiên linh vai
+260006; Sơ tâm huyền vai
+260106; Thái Sơ huyền vai
+260206; Lưỡng Nghi huyền vai
+260306; Ba cấp huyền vai
+260406; Tứ Tượng huyền vai
+260506; Ngũ tuyệt huyền vai
+260606; Lục đạo huyền vai
+260706; Thất Diệu huyền vai
+260806; Bát Hoang huyền vai
+260906; Cửu tiêu huyền vai
+261006; Thập phương huyền vai
+261106; Ngự Long huyền vai
+261206; Phá thiên huyền vai
+270006; Sơ tâm bá vai
+270106; Thái Sơ bá vai
+270206; Lưỡng Nghi bá vai
+270306; Ba cấp bá vai
+270406; Tứ Tượng bá vai
+270506; Ngũ tuyệt bá vai
+270606; Lục đạo bá vai
+270706; Thất Diệu bá vai
+270806; Bát Hoang bá vai
+270906; Cửu tiêu bá vai
+271006; Thập phương bá vai
+271106; Ngự Long bá vai
+271206; Phá thiên bá vai
+250007; Sơ tâm linh liên
+250107; Thái Sơ linh liên
+250207; Lưỡng Nghi linh liên
+250307; Ba cấp linh liên
+250407; Tứ Tượng linh liên
+250507; Ngũ tuyệt linh liên
+250607; Lục đạo linh liên
+250707; Thất Diệu linh liên
+250807; Bát Hoang linh liên
+250907; Cửu tiêu linh liên
+251007; Thập phương linh liên
+251107; Ngự Long linh liên
+251207; Phá thiên linh liên
+260007; Sơ tâm huyền liên
+260107; Thái Sơ huyền liên
+260207; Lưỡng Nghi huyền liên
+260307; Ba cấp huyền liên
+260407; Tứ Tượng huyền liên
+260507; Ngũ tuyệt huyền liên
+260607; Lục đạo huyền liên
+260707; Thất Diệu huyền liên
+260807; Bát Hoang huyền liên
+260907; Cửu tiêu huyền liên
+261007; Thập phương huyền liên
+261107; Ngự Long huyền liên
+261207; Phá thiên huyền liên
+270007; Sơ tâm bá liên
+270107; Thái Sơ bá liên
+270207; Lưỡng Nghi bá liên
+270307; Ba cấp bá liên
+270407; Tứ Tượng bá liên
+270507; Ngũ tuyệt bá liên
+270607; Lục đạo bá liên
+270707; Thất Diệu bá liên
+270807; Bát Hoang bá liên
+270907; Cửu tiêu bá liên
+271007; Thập phương bá liên
+271107; Ngự Long bá liên
+271207; Phá thiên bá liên
+250008; Sơ tâm linh đeo
+250108; Thái Sơ linh đeo
+250208; Lưỡng Nghi linh đeo
+250308; Ba cấp linh đeo
+250408; Tứ Tượng linh đeo
+250508; Ngũ tuyệt linh đeo
+250608; Lục đạo linh đeo
+250708; Thất Diệu linh đeo
+250808; Bát Hoang linh đeo
+250908; Cửu tiêu linh đeo
+251008; Thập phương linh đeo
+251108; Ngự Long linh đeo
+251208; Phá thiên linh đeo
+260008; Sơ tâm huyền đeo
+260108; Thái Sơ huyền đeo
+260208; Lưỡng Nghi huyền đeo
+260308; Ba cấp huyền đeo
+260408; Tứ Tượng huyền đeo
+260508; Ngũ tuyệt huyền đeo
+260608; Lục đạo huyền đeo
+260708; Thất Diệu huyền đeo
+260808; Bát Hoang huyền đeo
+260908; Cửu tiêu huyền đeo
+261008; Thập phương huyền đeo
+261108; Ngự Long huyền đeo
+261208; Phá thiên huyền đeo
+270008; Sơ tâm bá đeo
+270108; Thái Sơ bá đeo
+270208; Lưỡng Nghi bá đeo
+270308; Ba cấp bá đeo
+270408; Tứ Tượng bá đeo
+270508; Ngũ tuyệt bá đeo
+270608; Lục đạo bá đeo
+270708; Thất Diệu bá đeo
+270808; Bát Hoang bá đeo
+270908; Cửu tiêu bá đeo
+271008; Thập phương bá đeo
+271108; Ngự Long bá đeo
+271208; Phá thiên bá đeo
+250009; Sơ tâm linh cổ tay
+250109; Thái Sơ linh cổ tay
+250209; Lưỡng Nghi linh cổ tay
+250309; Ba cấp linh cổ tay
+250409; Tứ Tượng linh cổ tay
+250509; Ngũ tuyệt linh cổ tay
+250609; Lục đạo linh cổ tay
+250709; Thất Diệu linh cổ tay
+250809; Bát Hoang linh cổ tay
+250909; Cửu tiêu linh cổ tay
+251009; Thập phương linh cổ tay
+251109; Ngự Long linh cổ tay
+251209; Phá thiên linh cổ tay
+260009; Sơ tâm huyền cổ tay
+260109; Thái Sơ huyền cổ tay
+260209; Lưỡng Nghi huyền cổ tay
+260309; Ba cấp huyền cổ tay
+260409; Tứ Tượng huyền cổ tay
+260509; Ngũ tuyệt huyền cổ tay
+260609; Lục đạo huyền cổ tay
+260709; Thất Diệu huyền cổ tay
+260809; Bát Hoang huyền cổ tay
+260909; Cửu tiêu huyền cổ tay
+261009; Thập phương huyền cổ tay
+261109; Ngự Long huyền cổ tay
+261209; Phá thiên huyền cổ tay
+270009; Sơ tâm bá cổ tay
+270109; Thái Sơ bá cổ tay
+270209; Lưỡng Nghi bá cổ tay
+270309; Ba cấp bá cổ tay
+270409; Tứ Tượng bá cổ tay
+270509; Ngũ tuyệt bá cổ tay
+270609; Lục đạo bá cổ tay
+270709; Thất Diệu bá cổ tay
+270809; Bát Hoang bá cổ tay
+270909; Cửu tiêu bá cổ tay
+271009; Thập phương bá cổ tay
+271109; Ngự Long bá cổ tay
+271209; Phá thiên bá cổ tay
+250010; Sơ tâm linh giới
+250110; Thái Sơ linh giới
+250210; Lưỡng Nghi linh giới
+250310; Ba cấp linh giới
+250410; Tứ Tượng linh giới
+250510; Ngũ tuyệt linh giới
+250610; Lục đạo linh giới
+250710; Thất Diệu linh giới
+250810; Bát Hoang linh giới
+250910; Cửu tiêu linh giới
+251010; Thập phương linh giới
+251110; Ngự Long linh giới
+251210; Phá thiên linh giới
+260010; Sơ tâm huyền giới
+260110; Thái Sơ huyền giới
+260210; Lưỡng Nghi huyền giới
+260310; Ba cấp huyền giới
+260410; Tứ Tượng huyền giới
+260510; Ngũ tuyệt huyền giới
+260610; Lục đạo huyền giới
+260710; Thất Diệu huyền giới
+260810; Bát Hoang huyền giới
+260910; Cửu tiêu huyền giới
+261010; Thập phương huyền giới
+261110; Ngự Long huyền giới
+261210; Phá thiên huyền giới
+270010; Sơ tâm bá giới
+270110; Thái Sơ bá giới
+270210; Lưỡng Nghi bá giới
+270310; Ba cấp bá giới
+270410; Tứ Tượng bá giới
+270510; Ngũ tuyệt bá giới
+270610; Lục đạo bá giới
+270710; Thất Diệu bá giới
+270810; Bát Hoang bá giới
+270910; Cửu tiêu bá giới
+271010; Thập phương bá giới
+271110; Ngự Long bá giới
+271210; Phá thiên bá giới
+250011; Sơ tâm linh đàn
+250111; Thái Sơ linh đàn
+250211; Lưỡng Nghi linh đàn
+250311; Ba cấp linh đàn
+250411; Tứ Tượng linh đàn
+250511; Ngũ tuyệt linh đàn
+250611; Lục đạo linh đàn
+250711; Thất Diệu linh đàn
+250811; Bát Hoang linh đàn
+250911; Cửu tiêu linh đàn
+251011; Thập phương linh đàn
+251111; Ngự Long linh đàn
+251211; Phá thiên linh đàn
+260011; Sơ tâm Huyền kiếm
+260111; Thái Sơ Huyền kiếm
+260211; Lưỡng Nghi Huyền kiếm
+260311; Ba cấp Huyền kiếm
+260411; Tứ Tượng Huyền kiếm
+260511; Ngũ tuyệt Huyền kiếm
+260611; Lục đạo Huyền kiếm
+260711; Thất Diệu Huyền kiếm
+260811; Bát Hoang Huyền kiếm
+260911; Cửu tiêu Huyền kiếm
+261011; Thập phương Huyền kiếm
+261111; Ngự Long Huyền kiếm
+261211; Phá thiên Huyền kiếm
+270011; Sơ tâm bá chùy
+270111; Thái Sơ bá chùy
+270211; Lưỡng Nghi bá chùy
+270311; Ba cấp bá chùy
+270411; Tứ Tượng bá chùy
+270511; Ngũ tuyệt bá chùy
+270611; Lục đạo bá chùy
+270711; Thất Diệu bá chùy
+270811; Bát Hoang bá chùy
+270911; Cửu tiêu bá chùy
+271011; Thập phương bá chùy
+271111; Ngự Long bá chùy
+271211; Phá thiên bá chùy
+280201; Lưỡng Nghi linh nón trụ · Thật
+280202; Lưỡng Nghi linh giáp · Thật
+280203; Lưỡng Nghi linh eo · Thật
+280204; Lưỡng Nghi linh quần · Thật
+280205; Lưỡng Nghi linh giày · Thật
+280206; Lưỡng Nghi linh vai · Thật
+280207; Lưỡng Nghi linh liên · Thật
+280208; Lưỡng Nghi linh đeo · Thật
+280209; Lưỡng Nghi linh cổ tay · Thật
+280210; Lưỡng Nghi linh giới · Thật
+280211; Lưỡng Nghi linh đàn · Thật
+281201; Lưỡng Nghi huyền nón trụ · Thật
+281202; Lưỡng Nghi Huyền Giáp · Thật
+281203; Lưỡng Nghi huyền eo · Thật
+281204; Lưỡng Nghi huyền quần · Thật
+281205; Lưỡng Nghi huyền giày · Thật
+281206; Lưỡng Nghi huyền vai · Thật
+281207; Lưỡng Nghi huyền liên · Thật
+281208; Lưỡng Nghi huyền đeo · Thật
+281209; Lưỡng Nghi huyền cổ tay · Thật
+281210; Lưỡng Nghi huyền giới · Thật
+281211; Lưỡng Nghi Huyền kiếm · Thật
+282201; Lưỡng Nghi bá nón trụ · Thật
+282202; Lưỡng Nghi bá giáp · Thật
+282203; Lưỡng Nghi bá eo · Thật
+282204; Lưỡng Nghi bá quần · Thật
+282205; Lưỡng Nghi bá giày · Thật
+282206; Lưỡng Nghi bá vai · Thật
+282207; Lưỡng Nghi bá liên · Thật
+282208; Lưỡng Nghi bá đeo · Thật
+282209; Lưỡng Nghi bá cổ tay · Thật
+282210; Lưỡng Nghi bá giới · Thật
+282211; Lưỡng Nghi bá chùy · Thật
+280301; Ba cấp linh nón trụ · Thật
+280302; Ba cấp linh giáp · Thật
+280303; Ba cấp linh eo · Thật
+280304; Ba cấp linh quần · Thật
+280305; Ba cấp linh giày · Thật
+280306; Ba cấp linh vai · Thật
+280307; Ba cấp linh liên · Thật
+280308; Ba cấp linh đeo · Thật
+280309; Ba cấp linh cổ tay · Thật
+280310; Ba cấp linh giới · Thật
+280311; Ba cấp linh đàn · Thật
+281301; Ba cấp huyền nón trụ · Thật
+281302; Ba cấp Huyền Giáp · Thật
+281303; Ba cấp huyền eo · Thật
+281304; Ba cấp huyền quần · Thật
+281305; Ba cấp huyền giày · Thật
+281306; Ba cấp huyền vai · Thật
+281307; Ba cấp huyền liên · Thật
+281308; Ba cấp huyền đeo · Thật
+281309; Ba cấp huyền cổ tay · Thật
+281310; Ba cấp huyền giới · Thật
+281311; Ba cấp Huyền kiếm · Thật
+282301; Ba cấp bá nón trụ · Thật
+282302; Ba cấp bá giáp · Thật
+282303; Ba cấp bá eo · Thật
+282304; Ba cấp bá quần · Thật
+282305; Ba cấp bá giày · Thật
+282306; Ba cấp bá vai · Thật
+282307; Ba cấp bá liên · Thật
+282308; Ba cấp bá đeo · Thật
+282309; Ba cấp bá cổ tay · Thật
+282310; Ba cấp bá giới · Thật
+282311; Ba cấp bá chùy · Thật
+280401; Tứ Tượng linh nón trụ · Thật
+280402; Tứ Tượng linh giáp · Thật
+280403; Tứ Tượng linh eo · Thật
+280404; Tứ Tượng linh quần · Thật
+280405; Tứ Tượng linh giày · Thật
+280406; Tứ Tượng linh vai · Thật
+280407; Tứ Tượng linh liên · Thật
+280408; Tứ Tượng linh đeo · Thật
+280409; Tứ Tượng linh cổ tay · Thật
+280410; Tứ Tượng linh giới · Thật
+280411; Tứ Tượng linh đàn · Thật
+281401; Tứ Tượng huyền nón trụ · Thật
+281402; Tứ Tượng Huyền Giáp · Thật
+281403; Tứ Tượng huyền eo · Thật
+281404; Tứ Tượng huyền quần · Thật
+281405; Tứ Tượng huyền giày · Thật
+281406; Tứ Tượng huyền vai · Thật
+281407; Tứ Tượng huyền liên · Thật
+281408; Tứ Tượng huyền đeo · Thật
+281409; Tứ Tượng huyền cổ tay · Thật
+281410; Tứ Tượng huyền giới · Thật
+281411; Tứ Tượng Huyền kiếm · Thật
+282401; Tứ Tượng bá nón trụ · Thật
+282402; Tứ Tượng bá giáp · Thật
+282403; Tứ Tượng bá eo · Thật
+282404; Tứ Tượng bá quần · Thật
+282405; Tứ Tượng bá giày · Thật
+282406; Tứ Tượng bá vai · Thật
+282407; Tứ Tượng bá liên · Thật
+282408; Tứ Tượng bá đeo · Thật
+282409; Tứ Tượng bá cổ tay · Thật
+282410; Tứ Tượng bá giới · Thật
+282411; Tứ Tượng bá chùy · Thật
+280501; Ngũ tuyệt linh nón trụ · Thật
+280502; Ngũ tuyệt linh giáp · Thật
+280503; Ngũ tuyệt linh eo · Thật
+280504; Ngũ tuyệt linh quần · Thật
+280505; Ngũ tuyệt linh giày · Thật
+280506; Ngũ tuyệt linh vai · Thật
+280507; Ngũ tuyệt linh liên · Thật
+280508; Ngũ tuyệt linh đeo · Thật
+280509; Ngũ tuyệt linh cổ tay · Thật
+280510; Ngũ tuyệt linh giới · Thật
+280511; Ngũ tuyệt linh đàn · Thật
+281501; Ngũ tuyệt huyền nón trụ · Thật
+281502; Ngũ tuyệt Huyền Giáp · Thật
+281503; Ngũ tuyệt huyền eo · Thật
+281504; Ngũ tuyệt huyền quần · Thật
+281505; Ngũ tuyệt huyền giày · Thật
+281506; Ngũ tuyệt huyền vai · Thật
+281507; Ngũ tuyệt huyền liên · Thật
+281508; Ngũ tuyệt huyền đeo · Thật
+281509; Ngũ tuyệt huyền cổ tay · Thật
+281510; Ngũ tuyệt huyền giới · Thật
+281511; Ngũ tuyệt Huyền kiếm · Thật
+282501; Ngũ tuyệt bá nón trụ · Thật
+282502; Ngũ tuyệt bá giáp · Thật
+282503; Ngũ tuyệt bá eo · Thật
+282504; Ngũ tuyệt bá quần · Thật
+282505; Ngũ tuyệt bá giày · Thật
+282506; Ngũ tuyệt bá vai · Thật
+282507; Ngũ tuyệt bá liên · Thật
+282508; Ngũ tuyệt bá đeo · Thật
+282509; Ngũ tuyệt bá cổ tay · Thật
+282510; Ngũ tuyệt bá giới · Thật
+282511; Ngũ tuyệt bá chùy · Thật
+280601; Lục đạo linh nón trụ · Thật
+280602; Lục đạo linh giáp · Thật
+280603; Lục đạo linh eo · Thật
+280604; Lục đạo linh quần · Thật
+280605; Lục đạo linh giày · Thật
+280606; Lục đạo linh vai · Thật
+280607; Lục đạo linh liên · Thật
+280608; Lục đạo linh đeo · Thật
+280609; Lục đạo linh cổ tay · Thật
+280610; Lục đạo linh giới · Thật
+280611; Lục đạo linh đàn · Thật
+281601; Lục đạo huyền nón trụ · Thật
+281602; Lục đạo Huyền Giáp · Thật
+281603; Lục đạo huyền eo · Thật
+281604; Lục đạo huyền quần · Thật
+281605; Lục đạo huyền giày · Thật
+281606; Lục đạo huyền vai · Thật
+281607; Lục đạo huyền liên · Thật
+281608; Lục đạo huyền đeo · Thật
+281609; Lục đạo huyền cổ tay · Thật
+281610; Lục đạo huyền giới · Thật
+281611; Lục đạo Huyền kiếm · Thật
+282601; Lục đạo bá nón trụ · Thật
+282602; Lục đạo bá giáp · Thật
+282603; Lục đạo bá eo · Thật
+282604; Lục đạo bá quần · Thật
+282605; Lục đạo bá giày · Thật
+282606; Lục đạo bá vai · Thật
+282607; Lục đạo bá liên · Thật
+282608; Lục đạo bá đeo · Thật
+282609; Lục đạo bá cổ tay · Thật
+282610; Lục đạo bá giới · Thật
+282611; Lục đạo bá chùy · Thật
+280701; Thất Diệu linh nón trụ · Thật
+280702; Thất Diệu linh giáp · Thật
+280703; Thất Diệu linh eo · Thật
+280704; Thất Diệu linh quần · Thật
+280705; Thất Diệu linh giày · Thật
+280706; Thất Diệu linh vai · Thật
+280707; Thất Diệu linh liên · Thật
+280708; Thất Diệu linh đeo · Thật
+280709; Thất Diệu linh cổ tay · Thật
+280710; Thất Diệu linh giới · Thật
+280711; Thất Diệu linh đàn · Thật
+281701; Thất Diệu huyền nón trụ · Thật
+281702; Thất Diệu Huyền Giáp · Thật
+281703; Thất Diệu huyền eo · Thật
+281704; Thất Diệu huyền quần · Thật
+281705; Thất Diệu huyền giày · Thật
+281706; Thất Diệu huyền vai · Thật
+281707; Thất Diệu huyền liên · Thật
+281708; Thất Diệu huyền đeo · Thật
+281709; Thất Diệu huyền cổ tay · Thật
+281710; Thất Diệu huyền giới · Thật
+281711; Thất Diệu Huyền kiếm · Thật
+282701; Thất Diệu bá nón trụ · Thật
+282702; Thất Diệu bá giáp · Thật
+282703; Thất Diệu bá eo · Thật
+282704; Thất Diệu bá quần · Thật
+282705; Thất Diệu bá giày · Thật
+282706; Thất Diệu bá vai · Thật
+282707; Thất Diệu bá liên · Thật
+282708; Thất Diệu bá đeo · Thật
+282709; Thất Diệu bá cổ tay · Thật
+282710; Thất Diệu bá giới · Thật
+282711; Thất Diệu bá chùy · Thật
+280801; Bát Hoang linh nón trụ · Thật
+280802; Bát Hoang linh giáp · Thật
+280803; Bát Hoang linh eo · Thật
+280804; Bát Hoang linh quần · Thật
+280805; Bát Hoang linh giày · Thật
+280806; Bát Hoang linh vai · Thật
+280807; Bát Hoang linh liên · Thật
+280808; Bát Hoang linh đeo · Thật
+280809; Bát Hoang linh cổ tay · Thật
+280810; Bát Hoang linh giới · Thật
+280811; Bát Hoang linh đàn · Thật
+281801; Bát Hoang huyền nón trụ · Thật
+281802; Bát Hoang Huyền Giáp · Thật
+281803; Bát Hoang huyền eo · Thật
+281804; Bát Hoang huyền quần · Thật
+281805; Bát Hoang huyền giày · Thật
+281806; Bát Hoang huyền vai · Thật
+281807; Bát Hoang huyền liên · Thật
+281808; Bát Hoang huyền đeo · Thật
+281809; Bát Hoang huyền cổ tay · Thật
+281810; Bát Hoang huyền giới · Thật
+281811; Bát Hoang Huyền kiếm · Thật
+282801; Bát Hoang bá nón trụ · Thật
+282802; Bát Hoang bá giáp · Thật
+282803; Bát Hoang bá eo · Thật
+282804; Bát Hoang bá quần · Thật
+282805; Bát Hoang bá giày · Thật
+282806; Bát Hoang bá vai · Thật
+282807; Bát Hoang bá liên · Thật
+282808; Bát Hoang bá đeo · Thật
+282809; Bát Hoang bá cổ tay · Thật
+282810; Bát Hoang bá giới · Thật
+282811; Bát Hoang bá chùy · Thật
+280901; Cửu tiêu linh nón trụ · Thật
+280902; Cửu tiêu linh giáp · Thật
+280903; Cửu tiêu linh eo · Thật
+280904; Cửu tiêu linh quần · Thật
+280905; Cửu tiêu linh giày · Thật
+280906; Cửu tiêu linh vai · Thật
+280907; Cửu tiêu linh liên · Thật
+280908; Cửu tiêu linh đeo · Thật
+280909; Cửu tiêu linh cổ tay · Thật
+280910; Cửu tiêu linh giới · Thật
+280911; Cửu tiêu linh đàn · Thật
+281901; Cửu tiêu huyền nón trụ · Thật
+281902; Cửu tiêu Huyền Giáp · Thật
+281903; Cửu tiêu huyền eo · Thật
+281904; Cửu tiêu huyền quần · Thật
+281905; Cửu tiêu huyền giày · Thật
+281906; Cửu tiêu huyền vai · Thật
+281907; Cửu tiêu huyền liên · Thật
+281908; Cửu tiêu huyền đeo · Thật
+281909; Cửu tiêu huyền cổ tay · Thật
+281910; Cửu tiêu huyền giới · Thật
+281911; Cửu tiêu Huyền kiếm · Thật
+282901; Cửu tiêu bá nón trụ · Thật
+282902; Cửu tiêu bá giáp · Thật
+282903; Cửu tiêu bá eo · Thật
+282904; Cửu tiêu bá quần · Thật
+282905; Cửu tiêu bá giày · Thật
+282906; Cửu tiêu bá vai · Thật
+282907; Cửu tiêu bá liên · Thật
+282908; Cửu tiêu bá đeo · Thật
+282909; Cửu tiêu bá cổ tay · Thật
+282910; Cửu tiêu bá giới · Thật
+282911; Cửu tiêu bá chùy · Thật
+281001; Thập phương linh nón trụ · Thật
+281002; Thập phương linh giáp · Thật
+281003; Thập phương linh eo · Thật
+281004; Thập phương linh quần · Thật
+281005; Thập phương linh giày · Thật
+281006; Thập phương linh vai · Thật
+281007; Thập phương linh liên · Thật
+281008; Thập phương linh đeo · Thật
+281009; Thập phương linh cổ tay · Thật
+281010; Thập phương linh giới · Thật
+281011; Thập phương linh đàn · Thật
+282001; Thập phương huyền nón trụ · Thật
+282002; Thập phương Huyền Giáp · Thật
+282003; Thập phương huyền eo · Thật
+282004; Thập phương huyền quần · Thật
+282005; Thập phương huyền giày · Thật
+282006; Thập phương huyền vai · Thật
+282007; Thập phương huyền liên · Thật
+282008; Thập phương huyền đeo · Thật
+282009; Thập phương huyền cổ tay · Thật
+282010; Thập phương huyền giới · Thật
+282011; Thập phương Huyền kiếm · Thật
+283001; Thập phương bá nón trụ · Thật
+283002; Thập phương bá giáp · Thật
+283003; Thập phương bá eo · Thật
+283004; Thập phương bá quần · Thật
+283005; Thập phương bá giày · Thật
+283006; Thập phương bá vai · Thật
+283007; Thập phương bá liên · Thật
+283008; Thập phương bá đeo · Thật
+283009; Thập phương bá cổ tay · Thật
+283010; Thập phương bá giới · Thật
+283011; Thập phương bá chùy · Thật
+281101; Ngự Long linh nón trụ · Thật
+281102; Ngự Long linh giáp · Thật
+281103; Ngự Long linh eo · Thật
+281104; Ngự Long linh quần · Thật
+281105; Ngự Long linh giày · Thật
+281106; Ngự Long linh vai · Thật
+281107; Ngự Long linh liên · Thật
+281108; Ngự Long linh đeo · Thật
+281109; Ngự Long linh cổ tay · Thật
+281110; Ngự Long linh giới · Thật
+281111; Ngự Long linh đàn · Thật
+282101; Ngự Long huyền nón trụ · Thật
+282102; Ngự Long Huyền Giáp · Thật
+282103; Ngự Long huyền eo · Thật
+282104; Ngự Long huyền quần · Thật
+282105; Ngự Long huyền giày · Thật
+282106; Ngự Long huyền vai · Thật
+282107; Ngự Long huyền liên · Thật
+282108; Ngự Long huyền đeo · Thật
+282109; Ngự Long huyền cổ tay · Thật
+282110; Ngự Long huyền giới · Thật
+282111; Ngự Long Huyền kiếm · Thật
+283101; Ngự Long bá nón trụ · Thật
+283102; Ngự Long bá giáp · Thật
+283103; Ngự Long bá eo · Thật
+283104; Ngự Long bá quần · Thật
+283105; Ngự Long bá giày · Thật
+283106; Ngự Long bá vai · Thật
+283107; Ngự Long bá liên · Thật
+283108; Ngự Long bá đeo · Thật
+283109; Ngự Long bá cổ tay · Thật
+283110; Ngự Long bá giới · Thật
+283111; Ngự Long bá chùy · Thật
+283201; Phá thiên linh nón trụ · Thật
+283202; Phá thiên linh giáp · Thật
+283203; Phá thiên linh eo · Thật
+283204; Phá thiên linh quần · Thật
+283205; Phá thiên linh giày · Thật
+283206; Phá thiên linh vai · Thật
+283207; Phá thiên linh liên · Thật
+283208; Phá thiên linh đeo · Thật
+283209; Phá thiên linh cổ tay · Thật
+283210; Phá thiên linh giới · Thật
+283211; Phá thiên linh đàn · Thật
+284201; Phá thiên huyền nón trụ · Thật
+284202; Phá thiên Huyền Giáp · Thật
+284203; Phá thiên huyền eo · Thật
+284204; Phá thiên huyền quần · Thật
+284205; Phá thiên huyền giày · Thật
+284206; Phá thiên huyền vai · Thật
+284207; Phá thiên huyền liên · Thật
+284208; Phá thiên huyền đeo · Thật
+284209; Phá thiên huyền cổ tay · Thật
+284210; Phá thiên huyền giới · Thật
+284211; Phá thiên Huyền kiếm · Thật
+285201; Phá thiên bá nón trụ · Thật
+285202; Phá thiên bá giáp · Thật
+285203; Phá thiên bá eo · Thật
+285204; Phá thiên bá quần · Thật
+285205; Phá thiên bá giày · Thật
+285206; Phá thiên bá vai · Thật
+285207; Phá thiên bá liên · Thật
+285208; Phá thiên bá đeo · Thật
+285209; Phá thiên bá cổ tay · Thật
+285210; Phá thiên bá giới · Thật
+285211; Phá thiên bá chùy · Thật
+290201; Lưỡng Nghi linh nón trụ · Tiên
+290202; Lưỡng Nghi linh giáp · Tiên
+290203; Lưỡng Nghi linh eo · Tiên
+290204; Lưỡng Nghi linh quần · Tiên
+290205; Lưỡng Nghi linh giày · Tiên
+290206; Lưỡng Nghi linh vai · Tiên
+290207; Lưỡng Nghi linh liên · Tiên
+290208; Lưỡng Nghi linh đeo · Tiên
+290209; Lưỡng Nghi linh cổ tay · Tiên
+290210; Lưỡng Nghi linh giới · Tiên
+290211; Lưỡng Nghi linh đàn · Tiên
+291201; Lưỡng Nghi huyền nón trụ · Tiên
+291202; Lưỡng Nghi Huyền Giáp · Tiên
+291203; Lưỡng Nghi huyền eo · Tiên
+291204; Lưỡng Nghi huyền quần · Tiên
+291205; Lưỡng Nghi huyền giày · Tiên
+291206; Lưỡng Nghi huyền vai · Tiên
+291207; Lưỡng Nghi huyền liên · Tiên
+291208; Lưỡng Nghi huyền đeo · Tiên
+291209; Lưỡng Nghi huyền cổ tay · Tiên
+291210; Lưỡng Nghi huyền giới · Tiên
+291211; Lưỡng Nghi Huyền kiếm · Tiên
+292201; Lưỡng Nghi bá nón trụ · Tiên
+292202; Lưỡng Nghi bá giáp · Tiên
+292203; Lưỡng Nghi bá eo · Tiên
+292204; Lưỡng Nghi bá quần · Tiên
+292205; Lưỡng Nghi bá giày · Tiên
+292206; Lưỡng Nghi bá vai · Tiên
+292207; Lưỡng Nghi bá liên · Tiên
+292208; Lưỡng Nghi bá đeo · Tiên
+292209; Lưỡng Nghi bá cổ tay · Tiên
+292210; Lưỡng Nghi bá giới · Tiên
+292211; Lưỡng Nghi bá chùy · Tiên
+290301; Ba cấp linh nón trụ · Tiên
+290302; Ba cấp linh giáp · Tiên
+290303; Ba cấp linh eo · Tiên
+290304; Ba cấp linh quần · Tiên
+290305; Ba cấp linh giày · Tiên
+290306; Ba cấp linh vai · Tiên
+290307; Ba cấp linh liên · Tiên
+290308; Ba cấp linh đeo · Tiên
+290309; Ba cấp linh cổ tay · Tiên
+290310; Ba cấp linh giới · Tiên
+290311; Ba cấp linh đàn · Tiên
+291301; Ba cấp huyền nón trụ · Tiên
+291302; Ba cấp Huyền Giáp · Tiên
+291303; Ba cấp huyền eo · Tiên
+291304; Ba cấp huyền quần · Tiên
+291305; Ba cấp huyền giày · Tiên
+291306; Ba cấp huyền vai · Tiên
+291307; Ba cấp huyền liên · Tiên
+291308; Ba cấp huyền đeo · Tiên
+291309; Ba cấp huyền cổ tay · Tiên
+291310; Ba cấp huyền giới · Tiên
+291311; Ba cấp Huyền kiếm · Tiên
+292301; Ba cấp bá nón trụ · Tiên
+292302; Ba cấp bá giáp · Tiên
+292303; Ba cấp bá eo · Tiên
+292304; Ba cấp bá quần · Tiên
+292305; Ba cấp bá giày · Tiên
+292306; Ba cấp bá vai · Tiên
+292307; Ba cấp bá liên · Tiên
+292308; Ba cấp bá đeo · Tiên
+292309; Ba cấp bá cổ tay · Tiên
+292310; Ba cấp bá giới · Tiên
+292311; Ba cấp bá chùy · Tiên
+290401; Tứ Tượng linh nón trụ · Tiên
+290402; Tứ Tượng linh giáp · Tiên
+290403; Tứ Tượng linh eo · Tiên
+290404; Tứ Tượng linh quần · Tiên
+290405; Tứ Tượng linh giày · Tiên
+290406; Tứ Tượng linh vai · Tiên
+290407; Tứ Tượng linh liên · Tiên
+290408; Tứ Tượng linh đeo · Tiên
+290409; Tứ Tượng linh cổ tay · Tiên
+290410; Tứ Tượng linh giới · Tiên
+290411; Tứ Tượng linh đàn · Tiên
+291401; Tứ Tượng huyền nón trụ · Tiên
+291402; Tứ Tượng Huyền Giáp · Tiên
+291403; Tứ Tượng huyền eo · Tiên
+291404; Tứ Tượng huyền quần · Tiên
+291405; Tứ Tượng huyền giày · Tiên
+291406; Tứ Tượng huyền vai · Tiên
+291407; Tứ Tượng huyền liên · Tiên
+291408; Tứ Tượng huyền đeo · Tiên
+291409; Tứ Tượng huyền cổ tay · Tiên
+291410; Tứ Tượng huyền giới · Tiên
+291411; Tứ Tượng Huyền kiếm · Tiên
+292401; Tứ Tượng bá nón trụ · Tiên
+292402; Tứ Tượng bá giáp · Tiên
+292403; Tứ Tượng bá eo · Tiên
+292404; Tứ Tượng bá quần · Tiên
+292405; Tứ Tượng bá giày · Tiên
+292406; Tứ Tượng bá vai · Tiên
+292407; Tứ Tượng bá liên · Tiên
+292408; Tứ Tượng bá đeo · Tiên
+292409; Tứ Tượng bá cổ tay · Tiên
+292410; Tứ Tượng bá giới · Tiên
+292411; Tứ Tượng bá chùy · Tiên
+290501; Ngũ tuyệt linh nón trụ · Tiên
+290502; Ngũ tuyệt linh giáp · Tiên
+290503; Ngũ tuyệt linh eo · Tiên
+290504; Ngũ tuyệt linh quần · Tiên
+290505; Ngũ tuyệt linh giày · Tiên
+290506; Ngũ tuyệt linh vai · Tiên
+290507; Ngũ tuyệt linh liên · Tiên
+290508; Ngũ tuyệt linh đeo · Tiên
+290509; Ngũ tuyệt linh cổ tay · Tiên
+290510; Ngũ tuyệt linh giới · Tiên
+290511; Ngũ tuyệt linh đàn · Tiên
+291501; Ngũ tuyệt huyền nón trụ · Tiên
+291502; Ngũ tuyệt Huyền Giáp · Tiên
+291503; Ngũ tuyệt huyền eo · Tiên
+291504; Ngũ tuyệt huyền quần · Tiên
+291505; Ngũ tuyệt huyền giày · Tiên
+291506; Ngũ tuyệt huyền vai · Tiên
+291507; Ngũ tuyệt huyền liên · Tiên
+291508; Ngũ tuyệt huyền đeo · Tiên
+291509; Ngũ tuyệt huyền cổ tay · Tiên
+291510; Ngũ tuyệt huyền giới · Tiên
+291511; Ngũ tuyệt Huyền kiếm · Tiên
+292501; Ngũ tuyệt bá nón trụ · Tiên
+292502; Ngũ tuyệt bá giáp · Tiên
+292503; Ngũ tuyệt bá eo · Tiên
+292504; Ngũ tuyệt bá quần · Tiên
+292505; Ngũ tuyệt bá giày · Tiên
+292506; Ngũ tuyệt bá vai · Tiên
+292507; Ngũ tuyệt bá liên · Tiên
+292508; Ngũ tuyệt bá đeo · Tiên
+292509; Ngũ tuyệt bá cổ tay · Tiên
+292510; Ngũ tuyệt bá giới · Tiên
+292511; Ngũ tuyệt bá chùy · Tiên
+290601; Lục đạo linh nón trụ · Tiên
+290602; Lục đạo linh giáp · Tiên
+290603; Lục đạo linh eo · Tiên
+290604; Lục đạo linh quần · Tiên
+290605; Lục đạo linh giày · Tiên
+290606; Lục đạo linh vai · Tiên
+290607; Lục đạo linh liên · Tiên
+290608; Lục đạo linh đeo · Tiên
+290609; Lục đạo linh cổ tay · Tiên
+290610; Lục đạo linh giới · Tiên
+290611; Lục đạo linh đàn · Tiên
+291601; Lục đạo huyền nón trụ · Tiên
+291602; Lục đạo Huyền Giáp · Tiên
+291603; Lục đạo huyền eo · Tiên
+291604; Lục đạo huyền quần · Tiên
+291605; Lục đạo huyền giày · Tiên
+291606; Lục đạo huyền vai · Tiên
+291607; Lục đạo huyền liên · Tiên
+291608; Lục đạo huyền đeo · Tiên
+291609; Lục đạo huyền cổ tay · Tiên
+291610; Lục đạo huyền giới · Tiên
+291611; Lục đạo Huyền kiếm · Tiên
+292601; Lục đạo bá nón trụ · Tiên
+292602; Lục đạo bá giáp · Tiên
+292603; Lục đạo bá eo · Tiên
+292604; Lục đạo bá quần · Tiên
+292605; Lục đạo bá giày · Tiên
+292606; Lục đạo bá vai · Tiên
+292607; Lục đạo bá liên · Tiên
+292608; Lục đạo bá đeo · Tiên
+292609; Lục đạo bá cổ tay · Tiên
+292610; Lục đạo bá giới · Tiên
+292611; Lục đạo bá chùy · Tiên
+290701; Thất Diệu linh nón trụ · Tiên
+290702; Thất Diệu linh giáp · Tiên
+290703; Thất Diệu linh eo · Tiên
+290704; Thất Diệu linh quần · Tiên
+290705; Thất Diệu linh giày · Tiên
+290706; Thất Diệu linh vai · Tiên
+290707; Thất Diệu linh liên · Tiên
+290708; Thất Diệu linh đeo · Tiên
+290709; Thất Diệu linh cổ tay · Tiên
+290710; Thất Diệu linh giới · Tiên
+290711; Thất Diệu linh đàn · Tiên
+291701; Thất Diệu huyền nón trụ · Tiên
+291702; Thất Diệu Huyền Giáp · Tiên
+291703; Thất Diệu huyền eo · Tiên
+291704; Thất Diệu huyền quần · Tiên
+291705; Thất Diệu huyền giày · Tiên
+291706; Thất Diệu huyền vai · Tiên
+291707; Thất Diệu huyền liên · Tiên
+291708; Thất Diệu huyền đeo · Tiên
+291709; Thất Diệu huyền cổ tay · Tiên
+291710; Thất Diệu huyền giới · Tiên
+291711; Thất Diệu Huyền kiếm · Tiên
+292701; Thất Diệu bá nón trụ · Tiên
+292702; Thất Diệu bá giáp · Tiên
+292703; Thất Diệu bá eo · Tiên
+292704; Thất Diệu bá quần · Tiên
+292705; Thất Diệu bá giày · Tiên
+292706; Thất Diệu bá vai · Tiên
+292707; Thất Diệu bá liên · Tiên
+292708; Thất Diệu bá đeo · Tiên
+292709; Thất Diệu bá cổ tay · Tiên
+292710; Thất Diệu bá giới · Tiên
+292711; Thất Diệu bá chùy · Tiên
+290801; Bát Hoang linh nón trụ · Tiên
+290802; Bát Hoang linh giáp · Tiên
+290803; Bát Hoang linh eo · Tiên
+290804; Bát Hoang linh quần · Tiên
+290805; Bát Hoang linh giày · Tiên
+290806; Bát Hoang linh vai · Tiên
+290807; Bát Hoang linh liên · Tiên
+290808; Bát Hoang linh đeo · Tiên
+290809; Bát Hoang linh cổ tay · Tiên
+290810; Bát Hoang linh giới · Tiên
+290811; Bát Hoang linh đàn · Tiên
+291801; Bát Hoang huyền nón trụ · Tiên
+291802; Bát Hoang Huyền Giáp · Tiên
+291803; Bát Hoang huyền eo · Tiên
+291804; Bát Hoang huyền quần · Tiên
+291805; Bát Hoang huyền giày · Tiên
+291806; Bát Hoang huyền vai · Tiên
+291807; Bát Hoang huyền liên · Tiên
+291808; Bát Hoang huyền đeo · Tiên
+291809; Bát Hoang huyền cổ tay · Tiên
+291810; Bát Hoang huyền giới · Tiên
+291811; Bát Hoang Huyền kiếm · Tiên
+292801; Bát Hoang bá nón trụ · Tiên
+292802; Bát Hoang bá giáp · Tiên
+292803; Bát Hoang bá eo · Tiên
+292804; Bát Hoang bá quần · Tiên
+292805; Bát Hoang bá giày · Tiên
+292806; Bát Hoang bá vai · Tiên
+292807; Bát Hoang bá liên · Tiên
+292808; Bát Hoang bá đeo · Tiên
+292809; Bát Hoang bá cổ tay · Tiên
+292810; Bát Hoang bá giới · Tiên
+292811; Bát Hoang bá chùy · Tiên
+290901; Cửu tiêu linh nón trụ · Tiên
+290902; Cửu tiêu linh giáp · Tiên
+290903; Cửu tiêu linh eo · Tiên
+290904; Cửu tiêu linh quần · Tiên
+290905; Cửu tiêu linh giày · Tiên
+290906; Cửu tiêu linh vai · Tiên
+290907; Cửu tiêu linh liên · Tiên
+290908; Cửu tiêu linh đeo · Tiên
+290909; Cửu tiêu linh cổ tay · Tiên
+290910; Cửu tiêu linh giới · Tiên
+290911; Cửu tiêu linh đàn · Tiên
+291901; Cửu tiêu huyền nón trụ · Tiên
+291902; Cửu tiêu Huyền Giáp · Tiên
+291903; Cửu tiêu huyền eo · Tiên
+291904; Cửu tiêu huyền quần · Tiên
+291905; Cửu tiêu huyền giày · Tiên
+291906; Cửu tiêu huyền vai · Tiên
+291907; Cửu tiêu huyền liên · Tiên
+291908; Cửu tiêu huyền đeo · Tiên
+291909; Cửu tiêu huyền cổ tay · Tiên
+291910; Cửu tiêu huyền giới · Tiên
+291911; Cửu tiêu Huyền kiếm · Tiên
+292901; Cửu tiêu bá nón trụ · Tiên
+292902; Cửu tiêu bá giáp · Tiên
+292903; Cửu tiêu bá eo · Tiên
+292904; Cửu tiêu bá quần · Tiên
+292905; Cửu tiêu bá giày · Tiên
+292906; Cửu tiêu bá vai · Tiên
+292907; Cửu tiêu bá liên · Tiên
+292908; Cửu tiêu bá đeo · Tiên
+292909; Cửu tiêu bá cổ tay · Tiên
+292910; Cửu tiêu bá giới · Tiên
+292911; Cửu tiêu bá chùy · Tiên
+291001; Thập phương linh nón trụ · Tiên
+291002; Thập phương linh giáp · Tiên
+291003; Thập phương linh eo · Tiên
+291004; Thập phương linh quần · Tiên
+291005; Thập phương linh giày · Tiên
+291006; Thập phương linh vai · Tiên
+291007; Thập phương linh liên · Tiên
+291008; Thập phương linh đeo · Tiên
+291009; Thập phương linh cổ tay · Tiên
+291010; Thập phương linh giới · Tiên
+291011; Thập phương linh đàn · Tiên
+292001; Thập phương huyền nón trụ · Tiên
+292002; Thập phương Huyền Giáp · Tiên
+292003; Thập phương huyền eo · Tiên
+292004; Thập phương huyền quần · Tiên
+292005; Thập phương huyền giày · Tiên
+292006; Thập phương huyền vai · Tiên
+292007; Thập phương huyền liên · Tiên
+292008; Thập phương huyền đeo · Tiên
+292009; Thập phương huyền cổ tay · Tiên
+292010; Thập phương huyền giới · Tiên
+292011; Thập phương Huyền kiếm · Tiên
+293001; Thập phương bá nón trụ · Tiên
+293002; Thập phương bá giáp · Tiên
+293003; Thập phương bá eo · Tiên
+293004; Thập phương bá quần · Tiên
+293005; Thập phương bá giày · Tiên
+293006; Thập phương bá vai · Tiên
+293007; Thập phương bá liên · Tiên
+293008; Thập phương bá đeo · Tiên
+293009; Thập phương bá cổ tay · Tiên
+293010; Thập phương bá giới · Tiên
+293011; Thập phương bá chùy · Tiên
+291101; Ngự Long linh nón trụ · Tiên
+291102; Ngự Long linh giáp · Tiên
+291103; Ngự Long linh eo · Tiên
+291104; Ngự Long linh quần · Tiên
+291105; Ngự Long linh giày · Tiên
+291106; Ngự Long linh vai · Tiên
+291107; Ngự Long linh liên · Tiên
+291108; Ngự Long linh đeo · Tiên
+291109; Ngự Long linh cổ tay · Tiên
+291110; Ngự Long linh giới · Tiên
+291111; Ngự Long linh đàn · Tiên
+292101; Ngự Long huyền nón trụ · Tiên
+292102; Ngự Long Huyền Giáp · Tiên
+292103; Ngự Long huyền eo · Tiên
+292104; Ngự Long huyền quần · Tiên
+292105; Ngự Long huyền giày · Tiên
+292106; Ngự Long huyền vai · Tiên
+292107; Ngự Long huyền liên · Tiên
+292108; Ngự Long huyền đeo · Tiên
+292109; Ngự Long huyền cổ tay · Tiên
+292110; Ngự Long huyền giới · Tiên
+292111; Ngự Long Huyền kiếm · Tiên
+293101; Ngự Long bá nón trụ · Tiên
+293102; Ngự Long bá giáp · Tiên
+293103; Ngự Long bá eo · Tiên
+293104; Ngự Long bá quần · Tiên
+293105; Ngự Long bá giày · Tiên
+293106; Ngự Long bá vai · Tiên
+293107; Ngự Long bá liên · Tiên
+293108; Ngự Long bá đeo · Tiên
+293109; Ngự Long bá cổ tay · Tiên
+293110; Ngự Long bá giới · Tiên
+293111; Ngự Long bá chùy · Tiên
+293201; Phá thiên linh nón trụ · Tiên
+293202; Phá thiên linh giáp · Tiên
+293203; Phá thiên linh eo · Tiên
+293204; Phá thiên linh quần · Tiên
+293205; Phá thiên linh giày · Tiên
+293206; Phá thiên linh vai · Tiên
+293207; Phá thiên linh liên · Tiên
+293208; Phá thiên linh đeo · Tiên
+293209; Phá thiên linh cổ tay · Tiên
+293210; Phá thiên linh giới · Tiên
+293211; Phá thiên linh đàn · Tiên
+294201; Phá thiên huyền nón trụ · Tiên
+294202; Phá thiên Huyền Giáp · Tiên
+294203; Phá thiên huyền eo · Tiên
+294204; Phá thiên huyền quần · Tiên
+294205; Phá thiên huyền giày · Tiên
+294206; Phá thiên huyền vai · Tiên
+294207; Phá thiên huyền liên · Tiên
+294208; Phá thiên huyền đeo · Tiên
+294209; Phá thiên huyền cổ tay · Tiên
+294210; Phá thiên huyền giới · Tiên
+294211; Phá thiên Huyền kiếm · Tiên
+295201; Phá thiên bá nón trụ · Tiên
+295202; Phá thiên bá giáp · Tiên
+295203; Phá thiên bá eo · Tiên
+295204; Phá thiên bá quần · Tiên
+295205; Phá thiên bá giày · Tiên
+295206; Phá thiên bá vai · Tiên
+295207; Phá thiên bá liên · Tiên
+295208; Phá thiên bá đeo · Tiên
+295209; Phá thiên bá cổ tay · Tiên
+295210; Phá thiên bá giới · Tiên
+295211; Phá thiên bá chùy · Tiên
+295301; Tứ Tượng linh nón trụ · Tuyệt
+295302; Tứ Tượng linh giáp · Tuyệt
+295303; Tứ Tượng linh eo · Tuyệt
+295304; Tứ Tượng linh quần · Tuyệt
+295305; Tứ Tượng linh giày · Tuyệt
+295306; Tứ Tượng linh vai · Tuyệt
+295307; Tứ Tượng linh liên · Tuyệt
+295308; Tứ Tượng linh đeo · Tuyệt
+295309; Tứ Tượng linh cổ tay · Tuyệt
+295310; Tứ Tượng linh giới · Tuyệt
+295311; Tứ Tượng linh đàn · Tuyệt
+295401; Tứ Tượng huyền nón trụ · Tuyệt
+295402; Tứ Tượng Huyền Giáp · Tuyệt
+295403; Tứ Tượng huyền eo · Tuyệt
+295404; Tứ Tượng huyền quần · Tuyệt
+295405; Tứ Tượng huyền giày · Tuyệt
+295406; Tứ Tượng huyền vai · Tuyệt
+295407; Tứ Tượng huyền liên · Tuyệt
+295408; Tứ Tượng huyền đeo · Tuyệt
+295409; Tứ Tượng huyền cổ tay · Tuyệt
+295410; Tứ Tượng huyền giới · Tuyệt
+295411; Tứ Tượng Huyền kiếm · Tuyệt
+295501; Tứ Tượng bá nón trụ · Tuyệt
+295502; Tứ Tượng bá giáp · Tuyệt
+295503; Tứ Tượng bá eo · Tuyệt
+295504; Tứ Tượng bá quần · Tuyệt
+295505; Tứ Tượng bá giày · Tuyệt
+295506; Tứ Tượng bá vai · Tuyệt
+295507; Tứ Tượng bá liên · Tuyệt
+295508; Tứ Tượng bá đeo · Tuyệt
+295509; Tứ Tượng bá cổ tay · Tuyệt
+295510; Tứ Tượng bá giới · Tuyệt
+295511; Tứ Tượng bá chùy · Tuyệt
+295601; Ngũ tuyệt linh nón trụ · Tuyệt
+295602; Ngũ tuyệt linh giáp · Tuyệt
+295603; Ngũ tuyệt linh eo · Tuyệt
+295604; Ngũ tuyệt linh quần · Tuyệt
+295605; Ngũ tuyệt linh giày · Tuyệt
+295606; Ngũ tuyệt linh vai · Tuyệt
+295607; Ngũ tuyệt linh liên · Tuyệt
+295608; Ngũ tuyệt linh đeo · Tuyệt
+295609; Ngũ tuyệt linh cổ tay · Tuyệt
+295610; Ngũ tuyệt linh giới · Tuyệt
+295611; Ngũ tuyệt linh đàn · Tuyệt
+295701; Ngũ tuyệt huyền nón trụ · Tuyệt
+295702; Ngũ tuyệt Huyền Giáp · Tuyệt
+295703; Ngũ tuyệt huyền eo · Tuyệt
+295704; Ngũ tuyệt huyền quần · Tuyệt
+295705; Ngũ tuyệt huyền giày · Tuyệt
+295706; Ngũ tuyệt huyền vai · Tuyệt
+295707; Ngũ tuyệt huyền liên · Tuyệt
+295708; Ngũ tuyệt huyền đeo · Tuyệt
+295709; Ngũ tuyệt huyền cổ tay · Tuyệt
+295710; Ngũ tuyệt huyền giới · Tuyệt
+295711; Ngũ tuyệt Huyền kiếm · Tuyệt
+295801; Ngũ tuyệt bá nón trụ · Tuyệt
+295802; Ngũ tuyệt bá giáp · Tuyệt
+295803; Ngũ tuyệt bá eo · Tuyệt
+295804; Ngũ tuyệt bá quần · Tuyệt
+295805; Ngũ tuyệt bá giày · Tuyệt
+295806; Ngũ tuyệt bá vai · Tuyệt
+295807; Ngũ tuyệt bá liên · Tuyệt
+295808; Ngũ tuyệt bá đeo · Tuyệt
+295809; Ngũ tuyệt bá cổ tay · Tuyệt
+295810; Ngũ tuyệt bá giới · Tuyệt
+295811; Ngũ tuyệt bá chùy · Tuyệt
+296001; Lục đạo linh nón trụ · Tuyệt
+296002; Lục đạo linh giáp · Tuyệt
+296003; Lục đạo linh eo · Tuyệt
+296004; Lục đạo linh quần · Tuyệt
+296005; Lục đạo linh giày · Tuyệt
+296006; Lục đạo linh vai · Tuyệt
+296007; Lục đạo linh liên · Tuyệt
+296008; Lục đạo linh đeo · Tuyệt
+296009; Lục đạo linh cổ tay · Tuyệt
+296010; Lục đạo linh giới · Tuyệt
+296011; Lục đạo linh đàn · Tuyệt
+296012; Lục đạo huyền nón trụ · Tuyệt
+296013; Lục đạo Huyền Giáp · Tuyệt
+296014; Lục đạo huyền eo · Tuyệt
+296015; Lục đạo huyền quần · Tuyệt
+296016; Lục đạo huyền giày · Tuyệt
+296017; Lục đạo huyền vai · Tuyệt
+296018; Lục đạo huyền liên · Tuyệt
+296019; Lục đạo huyền đeo · Tuyệt
+296020; Lục đạo huyền cổ tay · Tuyệt
+296021; Lục đạo huyền giới · Tuyệt
+296022; Lục đạo Huyền kiếm · Tuyệt
+296023; Lục đạo bá nón trụ · Tuyệt
+296024; Lục đạo bá giáp · Tuyệt
+296025; Lục đạo bá eo · Tuyệt
+296026; Lục đạo bá quần · Tuyệt
+296027; Lục đạo bá giày · Tuyệt
+296028; Lục đạo bá vai · Tuyệt
+296029; Lục đạo bá liên · Tuyệt
+296030; Lục đạo bá đeo · Tuyệt
+296031; Lục đạo bá cổ tay · Tuyệt
+296032; Lục đạo bá giới · Tuyệt
+296033; Lục đạo bá chùy · Tuyệt
+296034; Thất Diệu linh nón trụ · Tuyệt
+296035; Thất Diệu linh giáp · Tuyệt
+296036; Thất Diệu linh eo · Tuyệt
+296037; Thất Diệu linh quần · Tuyệt
+296038; Thất Diệu linh giày · Tuyệt
+296039; Thất Diệu linh vai · Tuyệt
+296040; Thất Diệu linh liên · Tuyệt
+296041; Thất Diệu linh đeo · Tuyệt
+296042; Thất Diệu linh cổ tay · Tuyệt
+296043; Thất Diệu linh giới · Tuyệt
+296044; Thất Diệu linh đàn · Tuyệt
+296045; Thất Diệu huyền nón trụ · Tuyệt
+296046; Thất Diệu Huyền Giáp · Tuyệt
+296047; Thất Diệu huyền eo · Tuyệt
+296048; Thất Diệu huyền quần · Tuyệt
+296049; Thất Diệu huyền giày · Tuyệt
+296050; Thất Diệu huyền vai · Tuyệt
+296051; Thất Diệu huyền liên · Tuyệt
+296052; Thất Diệu huyền đeo · Tuyệt
+296053; Thất Diệu huyền cổ tay · Tuyệt
+296054; Thất Diệu huyền giới · Tuyệt
+296055; Thất Diệu Huyền kiếm · Tuyệt
+296056; Thất Diệu bá nón trụ · Tuyệt
+296057; Thất Diệu bá giáp · Tuyệt
+296058; Thất Diệu bá eo · Tuyệt
+296059; Thất Diệu bá quần · Tuyệt
+296060; Thất Diệu bá giày · Tuyệt
+296061; Thất Diệu bá vai · Tuyệt
+296062; Thất Diệu bá liên · Tuyệt
+296063; Thất Diệu bá đeo · Tuyệt
+296064; Thất Diệu bá cổ tay · Tuyệt
+296065; Thất Diệu bá giới · Tuyệt
+296066; Thất Diệu bá chùy · Tuyệt
+296067; Bát Hoang linh nón trụ · Tuyệt
+296068; Bát Hoang linh giáp · Tuyệt
+296069; Bát Hoang linh eo · Tuyệt
+296070; Bát Hoang linh quần · Tuyệt
+296071; Bát Hoang linh giày · Tuyệt
+296072; Bát Hoang linh vai · Tuyệt
+296073; Bát Hoang linh liên · Tuyệt
+296074; Bát Hoang linh đeo · Tuyệt
+296075; Bát Hoang linh cổ tay · Tuyệt
+296076; Bát Hoang linh giới · Tuyệt
+296077; Bát Hoang linh đàn · Tuyệt
+296078; Bát Hoang huyền nón trụ · Tuyệt
+296079; Bát Hoang Huyền Giáp · Tuyệt
+296080; Bát Hoang huyền eo · Tuyệt
+296081; Bát Hoang huyền quần · Tuyệt
+296082; Bát Hoang huyền giày · Tuyệt
+296083; Bát Hoang huyền vai · Tuyệt
+296084; Bát Hoang huyền liên · Tuyệt
+296085; Bát Hoang huyền đeo · Tuyệt
+296086; Bát Hoang huyền cổ tay · Tuyệt
+296087; Bát Hoang huyền giới · Tuyệt
+296088; Bát Hoang Huyền kiếm · Tuyệt
+296089; Bát Hoang bá nón trụ · Tuyệt
+296090; Bát Hoang bá giáp · Tuyệt
+296091; Bát Hoang bá eo · Tuyệt
+296092; Bát Hoang bá quần · Tuyệt
+296093; Bát Hoang bá giày · Tuyệt
+296094; Bát Hoang bá vai · Tuyệt
+296095; Bát Hoang bá liên · Tuyệt
+296096; Bát Hoang bá đeo · Tuyệt
+296097; Bát Hoang bá cổ tay · Tuyệt
+296098; Bát Hoang bá giới · Tuyệt
+296099; Bát Hoang bá chùy · Tuyệt
+296100; Cửu tiêu linh nón trụ · Tuyệt
+296101; Cửu tiêu linh giáp · Tuyệt
+296102; Cửu tiêu linh eo · Tuyệt
+296103; Cửu tiêu linh quần · Tuyệt
+296104; Cửu tiêu linh giày · Tuyệt
+296105; Cửu tiêu linh vai · Tuyệt
+296106; Cửu tiêu linh liên · Tuyệt
+296107; Cửu tiêu linh đeo · Tuyệt
+296108; Cửu tiêu linh cổ tay · Tuyệt
+296109; Cửu tiêu linh giới · Tuyệt
+296110; Cửu tiêu linh đàn · Tuyệt
+296111; Cửu tiêu huyền nón trụ · Tuyệt
+296112; Cửu tiêu Huyền Giáp · Tuyệt
+296113; Cửu tiêu huyền eo · Tuyệt
+296114; Cửu tiêu huyền quần · Tuyệt
+296115; Cửu tiêu huyền giày · Tuyệt
+296116; Cửu tiêu huyền vai · Tuyệt
+296117; Cửu tiêu huyền liên · Tuyệt
+296118; Cửu tiêu huyền đeo · Tuyệt
+296119; Cửu tiêu huyền cổ tay · Tuyệt
+296120; Cửu tiêu huyền giới · Tuyệt
+296121; Cửu tiêu Huyền kiếm · Tuyệt
+296122; Cửu tiêu bá nón trụ · Tuyệt
+296123; Cửu tiêu bá giáp · Tuyệt
+296124; Cửu tiêu bá eo · Tuyệt
+296125; Cửu tiêu bá quần · Tuyệt
+296126; Cửu tiêu bá giày · Tuyệt
+296127; Cửu tiêu bá vai · Tuyệt
+296128; Cửu tiêu bá liên · Tuyệt
+296129; Cửu tiêu bá đeo · Tuyệt
+296130; Cửu tiêu bá cổ tay · Tuyệt
+296131; Cửu tiêu bá giới · Tuyệt
+296132; Cửu tiêu bá chùy · Tuyệt
+296133; Thập phương linh nón trụ · Tuyệt
+296134; Thập phương linh giáp · Tuyệt
+296135; Thập phương linh eo · Tuyệt
+296136; Thập phương linh quần · Tuyệt
+296137; Thập phương linh giày · Tuyệt
+296138; Thập phương linh vai · Tuyệt
+296139; Thập phương linh liên · Tuyệt
+296140; Thập phương linh đeo · Tuyệt
+296141; Thập phương linh cổ tay · Tuyệt
+296142; Thập phương linh giới · Tuyệt
+296143; Thập phương linh đàn · Tuyệt
+296144; Thập phương huyền nón trụ · Tuyệt
+296145; Thập phương Huyền Giáp · Tuyệt
+296146; Thập phương huyền eo · Tuyệt
+296147; Thập phương huyền quần · Tuyệt
+296148; Thập phương huyền giày · Tuyệt
+296149; Thập phương huyền vai · Tuyệt
+296150; Thập phương huyền liên · Tuyệt
+296151; Thập phương huyền đeo · Tuyệt
+296152; Thập phương huyền cổ tay · Tuyệt
+296153; Thập phương huyền giới · Tuyệt
+296154; Thập phương Huyền kiếm · Tuyệt
+296155; Thập phương bá nón trụ · Tuyệt
+296156; Thập phương bá giáp · Tuyệt
+296157; Thập phương bá eo · Tuyệt
+296158; Thập phương bá quần · Tuyệt
+296159; Thập phương bá giày · Tuyệt
+296160; Thập phương bá vai · Tuyệt
+296161; Thập phương bá liên · Tuyệt
+296162; Thập phương bá đeo · Tuyệt
+296163; Thập phương bá cổ tay · Tuyệt
+296164; Thập phương bá giới · Tuyệt
+296165; Thập phương bá chùy · Tuyệt
+296166; Ngự Long linh nón trụ · Tuyệt
+296167; Ngự Long linh giáp · Tuyệt
+296168; Ngự Long linh eo · Tuyệt
+296169; Ngự Long linh quần · Tuyệt
+296170; Ngự Long linh giày · Tuyệt
+296171; Ngự Long linh vai · Tuyệt
+296172; Ngự Long linh liên · Tuyệt
+296173; Ngự Long linh đeo · Tuyệt
+296174; Ngự Long linh cổ tay · Tuyệt
+296175; Ngự Long linh giới · Tuyệt
+296176; Ngự Long linh đàn · Tuyệt
+296177; Ngự Long huyền nón trụ · Tuyệt
+296178; Ngự Long Huyền Giáp · Tuyệt
+296179; Ngự Long huyền eo · Tuyệt
+296180; Ngự Long huyền quần · Tuyệt
+296181; Ngự Long huyền giày · Tuyệt
+296182; Ngự Long huyền vai · Tuyệt
+296183; Ngự Long huyền liên · Tuyệt
+296184; Ngự Long huyền đeo · Tuyệt
+296185; Ngự Long huyền cổ tay · Tuyệt
+296186; Ngự Long huyền giới · Tuyệt
+296187; Ngự Long Huyền kiếm · Tuyệt
+296188; Ngự Long bá nón trụ · Tuyệt
+296189; Ngự Long bá giáp · Tuyệt
+296190; Ngự Long bá eo · Tuyệt
+296191; Ngự Long bá quần · Tuyệt
+296192; Ngự Long bá giày · Tuyệt
+296193; Ngự Long bá vai · Tuyệt
+296194; Ngự Long bá liên · Tuyệt
+296195; Ngự Long bá đeo · Tuyệt
+296196; Ngự Long bá cổ tay · Tuyệt
+296197; Ngự Long bá giới · Tuyệt
+296198; Ngự Long bá chùy · Tuyệt
+296199; Phá thiên linh nón trụ · Tuyệt
+296200; Phá thiên linh giáp · Tuyệt
+296201; Phá thiên linh eo · Tuyệt
+296202; Phá thiên linh quần · Tuyệt
+296203; Phá thiên linh giày · Tuyệt
+296204; Phá thiên linh vai · Tuyệt
+296205; Phá thiên linh liên · Tuyệt
+296206; Phá thiên linh đeo · Tuyệt
+296207; Phá thiên linh cổ tay · Tuyệt
+296208; Phá thiên linh giới · Tuyệt
+296209; Phá thiên linh đàn · Tuyệt
+296210; Phá thiên huyền nón trụ · Tuyệt
+296211; Phá thiên Huyền Giáp · Tuyệt
+296212; Phá thiên huyền eo · Tuyệt
+296213; Phá thiên huyền quần · Tuyệt
+296214; Phá thiên huyền giày · Tuyệt
+296215; Phá thiên huyền vai · Tuyệt
+296216; Phá thiên huyền liên · Tuyệt
+296217; Phá thiên huyền đeo · Tuyệt
+296218; Phá thiên huyền cổ tay · Tuyệt
+296219; Phá thiên huyền giới · Tuyệt
+296220; Phá thiên Huyền kiếm · Tuyệt
+296221; Phá thiên bá nón trụ · Tuyệt
+296222; Phá thiên bá giáp · Tuyệt
+296223; Phá thiên bá eo · Tuyệt
+296224; Phá thiên bá quần · Tuyệt
+296225; Phá thiên bá giày · Tuyệt
+296226; Phá thiên bá vai · Tuyệt
+296227; Phá thiên bá liên · Tuyệt
+296228; Phá thiên bá đeo · Tuyệt
+296229; Phá thiên bá cổ tay · Tuyệt
+296230; Phá thiên bá giới · Tuyệt
+296231; Phá thiên bá chùy · Tuyệt
+400012; Sơ tâm mặt nạ
+400112; Thái Sơ mặt nạ
+400212; Mặt nạ
+400312; Khai Nguyên mặt nạ
+400412; Đạo hóa mặt nạ
+400512; Ngũ tuyệt mặt nạ
+400612; Ly Hỏa mặt nạ
+400712; Thất Diệu mặt nạ
+400812; Siêu phàm mặt nạ
+400912; Cửu tiêu mặt nạ
+401012; Vô cực mặt nạ
+401112; Ngự Long mặt nạ
+401212; Tu La mặt nạ
+400013; Sơ tâm khuyên tai
+400113; Thái Sơ khuyên tai
+400213; Khuyên tai
+400313; Khai Nguyên khuyên tai
+400413; Đạo hóa khuyên tai
+400513; Ngũ tuyệt khuyên tai
+400613; Ly Hỏa khuyên tai
+400713; Thất Diệu khuyên tai
+400813; Siêu phàm khuyên tai
+400913; Cửu tiêu khuyên tai
+401013; Vô cực khuyên tai
+401113; Ngự Long khuyên tai
+401213; Tu La khuyên tai
+500012; Sơ tâm mặt nạ · Thật
+500112; Thái Sơ mặt nạ · Thật
+500212; Lưỡng Nghi mặt nạ · Thật
+500312; Ba cấp mặt nạ · Thật
+500412; Tứ Tượng mặt nạ · Thật
+500512; Ngũ tuyệt mặt nạ · Thật
+500612; Lục đạo mặt nạ · Thật
+500712; Thất Diệu mặt nạ · Thật
+500812; Bát Hoang mặt nạ · Thật
+500912; Cửu tiêu mặt nạ · Thật
+501012; Thập phương mặt nạ · Thật
+501112; Ngự Long mặt nạ · Thật
+501212; Phá thiên mặt nạ · Thật
+500013; Sơ tâm khuyên tai · Thật
+500113; Thái Sơ khuyên tai · Thật
+500213; Lưỡng Nghi khuyên tai · Thật
+500313; Ba cấp khuyên tai · Thật
+500413; Tứ Tượng khuyên tai · Thật
+500513; Ngũ tuyệt khuyên tai · Thật
+500613; Lục đạo khuyên tai · Thật
+500713; Thất Diệu khuyên tai · Thật
+500813; Bát Hoang khuyên tai · Thật
+500913; Cửu tiêu khuyên tai · Thật
+501013; Thập phương khuyên tai · Thật
+501113; Ngự Long khuyên tai · Thật
+501213; Phá thiên khuyên tai · Thật
+600012; Sơ tâm mặt nạ · Tiên
+600112; Thái Sơ mặt nạ · Tiên
+600212; Lưỡng Nghi mặt nạ · Tiên
+600312; Ba cấp mặt nạ · Tiên
+600412; Tứ Tượng mặt nạ · Tiên
+600512; Ngũ tuyệt mặt nạ · Tiên
+600612; Lục đạo mặt nạ · Tiên
+600712; Thất Diệu mặt nạ · Tiên
+600812; Bát Hoang mặt nạ · Tiên
+600912; Cửu tiêu mặt nạ · Tiên
+601012; Thập phương mặt nạ · Tiên
+601112; Ngự Long mặt nạ · Tiên
+601212; Phá thiên mặt nạ · Tiên
+600013; Sơ tâm khuyên tai · Tiên
+600113; Thái Sơ khuyên tai · Tiên
+600213; Lưỡng Nghi khuyên tai · Tiên
+600313; Ba cấp khuyên tai · Tiên
+600413; Tứ Tượng khuyên tai · Tiên
+600513; Ngũ tuyệt khuyên tai · Tiên
+600613; Lục đạo khuyên tai · Tiên
+600713; Thất Diệu khuyên tai · Tiên
+600813; Bát Hoang khuyên tai · Tiên
+600913; Cửu tiêu khuyên tai · Tiên
+601013; Thập phương khuyên tai · Tiên
+601113; Ngự Long khuyên tai · Tiên
+601213; Phá thiên khuyên tai · Tiên
+300001; Ngọc Hoa rồng khải
+300002;M27 Bức tường âm thanh
+300003; Tu tiên hưu nhàn
+300004; Bãi cát tiệc tùng
+300005; Ngự ma chi bào
+301005; Ngự ma chi bào mảnh vỡ
+300006; Manh vật giáng lâm
+300007; Dệt hoa trên gấm
+300008; Khổng Tước Đông Nam
+300009; Phong hoa lễ phục
+300010; Hải quân phong tình
+301010; Hải quân phong tình mảnh vỡ
+300011; Yêu Mị Xà múa
+301011; Yêu Mị Xà múa mảnh vỡ
+300012; Mario phục sức
+301012; Mario phục sức mảnh vỡ
+300013; Giáng Sinh cuồng hoan
+300101; Trấn ma lực
+300102;XZ20 Kích hoạt khí
+300103; Âm vực chi vương
+300104; Bể bơi oanh nằm sấp
+300105; Huyễn Thần Ma tông
+301105; Huyễn Thần Ma tông mảnh vỡ
+300106; Hàng trí đả kích
+300107; Cười một tiếng hồng nhan
+300108; Khổng Tước bay về phía nam
+300109; Lãng mạn đầy phòng
+300110; Hải quân thượng tướng
+301110; Hải quân thượng tướng mảnh vỡ
+300111; Linh xà phú
+301111; Linh xà phú mảnh vỡ
+300112; Mario thế giới
+301112; Mario thế giới mảnh vỡ
+300113; Giáng Sinh kinh hỉ
+300201; Mặt quỷ Bàn Nhược
+300202; Nguyệt gặp đêm
+300203; Anh rơi đình thư
+300204; Một xích hồng mai
+300205; Nghiễm Hàn Tiên cung
+300206; Trăng non đồng dao
+300207; Lâu vũ đoàn tụ
+300208; Nguyệt gặp đen
+300209; Vào đông tính trẻ con
+300210; Cây mơ tuyết lành
+300211; Giáng Sinh giáng lâm
+300212; Quà tặng nhật
+300301; Hăng hái
+300302; Siêu phàm chi uy
+300303; Ngăn nước kiếm tâm
+300304; Lá liễu nhẹ nhàng
+300305; Ấn Linh Huyền nữ
+300306; Ngàn tuyệt thanh âm
+300307; Gió lạnh vỏ kiếm
+300308; Vào đông tình ca
+300309; Hòa phong ấm áp
+300310; Sương hàn hài lòng
+300311; Trí mạng kinh hỉ
+300312; Cuồng hoan thời khắc
+300313; Giáng Sinh chi dạ
+300314; Ảnh chân dung 14
+300315; Ảnh chân dung 15
+300316; Ảnh chân dung 16
+300317; Ảnh chân dung 17
+300400;2 Tuyển 1 Ảnh chân dung
+300401;2 Tuyển 1 Ảnh chân dung
+300402;2 Tuyển 1 Ảnh chân dung
+300403; Giáng Sinh ảnh chân dung
+310001; Kim linh lưỡi đao
+310002; Chu Tước Xích Viêm vòng
+310003; Sách cổ thiên thư
+310004; Long hồn Tu La trảm
+310005; Trúc Âm Tam Tuyệt
+310006; Tử kim bảo đao
+310007; Thái Cực Huyền Thanh kiếm
+310008; Băng Long Hàn Ngọc vòng
+320001; Tuyệt học · Trấn ma phệ hồn giết
+320002; Tuyệt học · Huyền băng chín đạo
+320003; Tuyệt học · Kháng Luyện Ngục
+320004; Tuyệt học · Kháng cực hàn
+320005; Tuyệt học · Kháng vũng bùn
+320006; Tuyệt học · Kháng cuồng phong
+320007; Tuyệt học · Kháng chấn, chống chấn động lay
+320008; Tuyệt học · Kháng trảm tiên
+320009; Tuyệt học · Kháng nhập ma
+320010; Tuyệt học · Kháng Hóa Thần
+900001; Lục giới Thánh Tôn ( Mảnh vỡ )
+910101; Tiên kiếm
+910102; Rực trời
+910103; Niết Bàn
+911103; Niết Bàn mảnh vỡ
+910104; Càn côn
+910105; Nguyên kế hoạch · Cực
+910106; Tảng băng tuần lộc
+920101; Luyện Huyết Quỷ cánh
+920102; Đỏ Ngọc Liên cánh
+920103; Hoa hồng diễm vũ
+920104; Tử điện Ám Dực
+920105; Biển sâu lông chim trả
+920106; Rèm châu đế vũ
+920107; Băng Thiên Hỏa Vũ
+921107; Băng Thiên Hỏa Vũ mảnh vỡ
+920108; Linh tuệ Tiên Vũ
+930101; Tiểu Điệp tiên
+930102; Ngọc Linh Lung
+930103; Bách hợp tiên tử
+930104; Hạc lân Nữ Đế
+940101; Phượng Linh Tôn
+940102; Cửu chuyển như ý
+940103; Giận si song sinh vòng
+940104; Linh Trúc bút pháp thần kỳ
+940105; Huyễn Linh hồ lô
+960101; Thánh văn mạ vàng phiến
+960102; Phỉ thúy Tiêu Diêu Phiến
+960103; Tử Lân Dạ Vũ phiến
+960104; Phượng Linh quạt lông
+960105; Linh Vũ 5
+960106; Linh Vũ 6
+980101; Tinh linh châu
+980102; Âm dương Vạn Tượng châu
+980103; Phượng tước bích châu
+980104; Hồn khiến châu
+922101; Ta muốn phá thiên
+922102; Tiên vốn không đạo
+922103; Cửu thiên càn khôn
+922104; Ngạo thế Thiên Cương
+922105; Tử Vi Thiên Sát
+922106; Vô tận thiên cực
+923101; Tử kim chú
+923102; Băng Tâm chú
+923103; Thánh linh quyết
+923104; Phong Lôi Quyết
+923105; Hàng Long quyết
+923201; Tử kim chú mảnh vỡ
+923202; Băng Tâm chú mảnh vỡ
+923203; Thánh linh quyết mảnh vỡ
+923204; Phong Lôi Quyết mảnh vỡ
+923205; Hàng Long quyết mảnh vỡ
+924101; Hoa sen khiến
+924102; Biển xanh sóng
+924103; Sao trời nước mắt
+924104; Hư Không Ấn
+924105; Chiếu thương khung
+924201; Hoa sen khiến mảnh vỡ
+924202; Biển xanh sóng mảnh vỡ
+924203; Sao trời nước mắt mảnh vỡ
+924204; Hư Không Ấn mảnh vỡ
+924205; Chiếu thương khung mảnh vỡ
+400101; Ác Nhân cốc giấy thông hành
+400201; Địa cung giấy thông hành
+400301; Lệnh bài
+400401; Phù văn khiến
+40101001; Phá Quân
+40101002; Phá Quân
+40101003; Phá Quân
+40101004; Phá Quân
+40102001; Bàn thạch
+40102002; Bàn thạch
+40102003; Bàn thạch
+40102004; Bàn thạch
+40103001; Tường sắt
+40103002; Tường sắt
+40103003; Tường sắt
+40103004; Tường sắt
+40104001; Thiên nhãn
+40104002; Thiên nhãn
+40104003; Thiên nhãn
+40104004; Thiên nhãn
+40105001; Quỷ ảnh
+40105002; Quỷ ảnh
+40105003; Quỷ ảnh
+40105004; Quỷ ảnh
+40106001; Mãnh kích
+40106002; Mãnh kích
+40106003; Mãnh kích
+40106004; Mãnh kích
+40107001; Thủ vững
+40107002; Thủ vững
+40107003; Thủ vững
+40107004; Thủ vững
+40108001; Phong mang
+40108002; Phong mang
+40108003; Phong mang
+40108004; Phong mang
+40109001; Thần tích
+40109002; Thần tích
+40109003; Thần tích
+40109004; Thần tích
+40110001; Cứu vớt
+40110002; Cứu vớt
+40110003; Cứu vớt
+40110004; Cứu vớt
+40111001; Công tâm
+40111002; Công tâm
+40111003; Công tâm
+40111004; Công tâm
+40112001; Ngự thủ
+40112002; Ngự thủ
+40112003; Ngự thủ
+40112004; Ngự thủ
+40113001; Công thành
+40113002; Công thành
+40113003; Công thành
+40113004; Công thành
+40114001; Thần uy
+40115001; Thần bích
+40116001; Thần Vực
+40117001; Thần tích
+40118001; Thần nhãn
+40119001; Thần giận
+40120001; Thần thể
+40121001; Thần lực
+40122001; Thần huy
+40123001; Sơ cấp năng lượng
+40123002; Trung cấp năng lượng
+40123003; Cao cấp năng lượng
+40123004; Siêu cấp năng lượng
+40123005; Thần cấp năng lượng
+40124001; Màu lam ngẫu nhiên
+40124002; Tử sắc ngẫu nhiên
+40124003; Kim sắc ngẫu nhiên
+40124004; Màu đỏ ngẫu nhiên
+500101; Hoa tươi
+500201; Phàm phẩm linh dịch
+500202; Địa phẩm linh dịch
+500203; Thiên phẩm linh dịch
+500301; Tiên Tông Lệnh
+500401; Sơ cấp Thần thú tiên lộ
+500402; Cao cấp Thần thú tiên lộ
+600102; Phù văn chi linh
+700001; Tiên Vân chi bụi
+700002; Tiên Vân tinh hoa
+701001; Hưu môn độn giáp · Nhất giai
+701002; Sinh môn độn giáp · Nhất giai
+701003; Thương môn độn giáp · Nhất giai
+701004; Đóng cửa độn giáp · Nhất giai
+701005; Cảnh môn độn giáp · Nhất giai
+701006; Tử môn độn giáp · Nhất giai
+701007; Kinh Môn độn giáp · Nhất giai
+701008; Mở cửa độn giáp · Nhất giai
+701009; Hưu môn độn giáp · Nhị giai
+701010; Sinh môn độn giáp · Nhị giai
+701011; Thương môn độn giáp · Nhị giai
+701012; Đóng cửa độn giáp · Nhị giai
+701013; Cảnh môn độn giáp · Nhị giai
+701014; Tử môn độn giáp · Nhị giai
+701015; Kinh Môn độn giáp · Nhị giai
+701016; Mở cửa độn giáp · Nhị giai
+701017; Hưu môn độn giáp · Tam giai
+701018; Sinh môn độn giáp · Tam giai
+701019; Thương môn độn giáp · Tam giai
+701020; Đóng cửa độn giáp · Tam giai
+701021; Cảnh môn độn giáp · Tam giai
+701022; Tử môn độn giáp · Tam giai
+701023; Kinh Môn độn giáp · Tam giai
+701024; Mở cửa độn giáp · Tam giai
+701025; Hưu môn độn giáp · Tứ giai
+701026; Sinh môn độn giáp · Tứ giai
+701027; Thương môn độn giáp · Tứ giai
+701028; Đóng cửa độn giáp · Tứ giai
+701029; Cảnh môn độn giáp · Tứ giai
+701030; Tử môn độn giáp · Tứ giai
+701031; Kinh Môn độn giáp · Tứ giai
+701032; Mở cửa độn giáp · Tứ giai
+701033; Hưu môn độn giáp · Ngũ giai
+701034; Sinh môn độn giáp · Ngũ giai
+701035; Thương môn độn giáp · Ngũ giai
+701036; Đóng cửa độn giáp · Ngũ giai
+701037; Cảnh môn độn giáp · Ngũ giai
+701038; Tử môn độn giáp · Ngũ giai
+701039; Kinh Môn độn giáp · Ngũ giai
+701040; Mở cửa độn giáp · Ngũ giai
+701041; Hưu môn độn giáp · Lục giai
+701042; Sinh môn độn giáp · Lục giai
+701043; Thương môn độn giáp · Lục giai
+701044; Đóng cửa độn giáp · Lục giai
+701045; Cảnh môn độn giáp · Lục giai
+701046; Tử môn độn giáp · Lục giai
+701047; Kinh Môn độn giáp · Lục giai
+701048; Mở cửa độn giáp · Lục giai
+701049; Hưu môn độn giáp · Thất giai
+701050; Sinh môn độn giáp · Thất giai
+701051; Thương môn độn giáp · Thất giai
+701052; Đóng cửa độn giáp · Thất giai
+701053; Cảnh môn độn giáp · Thất giai
+701054; Tử môn độn giáp · Thất giai
+701055; Kinh Môn độn giáp · Thất giai
+701056; Mở cửa độn giáp · Thất giai
+701057; Hưu môn độn giáp · Bát giai
+701058; Sinh môn độn giáp · Bát giai
+701059; Thương môn độn giáp · Bát giai
+701060; Đóng cửa độn giáp · Bát giai
+701061; Cảnh môn độn giáp · Bát giai
+701062; Tử môn độn giáp · Bát giai
+701063; Kinh Môn độn giáp · Bát giai
+701064; Mở cửa độn giáp · Bát giai
+701065; Hưu môn độn giáp · Cửu giai
+701066; Sinh môn độn giáp · Cửu giai
+701067; Thương môn độn giáp · Cửu giai
+701068; Đóng cửa độn giáp · Cửu giai
+701069; Cảnh môn độn giáp · Cửu giai
+701070; Tử môn độn giáp · Cửu giai
+701071; Kinh Môn độn giáp · Cửu giai
+701072; Mở cửa độn giáp · Cửu giai
+701073; Hưu môn độn giáp · Thập giai
+701074; Sinh môn độn giáp · Thập giai
+701075; Thương môn độn giáp · Thập giai
+701076; Đóng cửa độn giáp · Thập giai
+701077; Cảnh môn độn giáp · Thập giai
+701078; Tử môn độn giáp · Thập giai
+701079; Kinh Môn độn giáp · Thập giai
+701080; Mở cửa độn giáp · Thập giai
+702001; Quân cương trời phách · Sơ
+702002; Thần cương trời phách · Sơ
+702003; Nghĩa cương trời phách · Sơ
+702101; Quân cương trời phách · Bên trong
+702102; Thần cương trời phách · Bên trong
+702103; Nghĩa cương trời phách · Bên trong
+702201; Quân cương trời phách · Cao
+702202; Thần cương trời phách · Cao
+702203; Nghĩa cương trời phách · Cao
+702301; Quân cương trời phách · Ưu
+702302; Thần cương trời phách · Ưu
+702303; Nghĩa cương trời phách · Ưu
+702311; Quân cương trời phách · Ưu
+702312; Thần cương trời phách · Ưu
+702313; Nghĩa cương trời phách · Ưu
+702321; Quân cương trời phách · Ưu
+702322; Thần cương trời phách · Ưu
+702323; Nghĩa cương trời phách · Ưu
+702331; Quân cương trời phách · Ưu
+702332; Thần cương trời phách · Ưu
+702333; Nghĩa cương trời phách · Ưu
+702401; Quân cương trời phách · Đặc biệt
+702402; Thần cương trời phách · Đặc biệt
+702403; Nghĩa cương trời phách · Đặc biệt
+702411; Quân cương trời phách · Đặc biệt
+702412; Thần cương trời phách · Đặc biệt
+702413; Nghĩa cương trời phách · Đặc biệt
+702421; Quân cương trời phách · Đặc biệt
+702422; Thần cương trời phách · Đặc biệt
+702423; Nghĩa cương trời phách · Đặc biệt
+702431; Quân cương trời phách · Đặc biệt
+702432; Thần cương trời phách · Đặc biệt
+702433; Nghĩa cương trời phách · Đặc biệt
+703001; Trời phách tinh hoa
+704001; Thiên cơ kỳ thạch
+704002; Thiên cơ linh thạch
+704003; Thiên cơ Thần thạch
+800001; Linh phẩm tẩy luyện linh dịch
+800002; Tiên phẩm tẩy luyện linh dịch
+800003; Tuyệt phẩm tẩy luyện linh dịch
+800004; Thánh phẩm tẩy luyện linh dịch
+800011; Pháp bảo đột phá thạch
+800021; Phiên Thiên Ấn mảnh vỡ
+800022; Kim Giao Tiễn mảnh vỡ
+800023; Phục Hi đàn mảnh vỡ
+800024; Tịnh Thế lưu ly bình mảnh vỡ
+800031; Phong Thần bảng mảnh vỡ
+800032; Tứ Tượng châu mảnh vỡ
+800033; Cửu Long Thần Hỏa Tráo mảnh vỡ
+800034; Tịnh Thế Thanh Liên mảnh vỡ
+800041; Sơn Hà Xã Tắc đồ mảnh vỡ
+800042; Bốn cảnh phiến mảnh vỡ
+800043; Luân hồi châu mảnh vỡ
+800044; Hỗn Nguyên Kim Đấu mảnh vỡ
+800051; Bát quái hỏa long phù mảnh vỡ
+800052; Đãng tâm dù mảnh vỡ
+800053; Tứ Tượng Thiên tôn ấn mảnh vỡ
+800054; Chiếu yêu giám mảnh vỡ
+800061; Linh phẩm cường hóa tinh thạch
+800062; Tiên phẩm cường hóa tinh thạch
+800063; Tuyệt phẩm cường hóa tinh thạch
+800064; Thánh phẩm cường hóa tinh thạch
+40210101; Bát trảo lửa ly · Càn
+40210102; Bát trảo lửa ly · Tốn
+40210103; Bát trảo lửa ly · Khảm
+40210104; Bát trảo lửa ly · Cấn
+40210105; Bát trảo lửa ly · Khôn
+40210106; Bát trảo lửa ly · Chấn
+40210107; Bát trảo lửa ly · Cách
+40210108; Bát trảo lửa ly · Đổi
+40210201; Liệt thiên tê giác · Càn
+40210202; Liệt thiên tê giác · Tốn
+40210203; Liệt thiên tê giác · Khảm
+40210204; Liệt thiên tê giác · Cấn
+40210205; Liệt thiên tê giác · Khôn
+40210206; Liệt thiên tê giác · Chấn
+40210207; Liệt thiên tê giác · Cách
+40210208; Liệt thiên tê giác · Đổi
+40210301; Lam cánh biển Long Thú · Càn
+40210302; Lam cánh biển Long Thú · Tốn
+40210303; Lam cánh biển Long Thú · Khảm
+40210304; Lam cánh biển Long Thú · Cấn
+40210305; Lam cánh biển Long Thú · Khôn
+40210306; Lam cánh biển Long Thú · Chấn
+40210307; Lam cánh biển Long Thú · Cách
+40210308; Lam cánh biển Long Thú · Đổi
+40220101; Thần thú Bạch Trạch · Càn
+40220102; Thần thú Bạch Trạch · Tốn
+40220103; Thần thú Bạch Trạch · Khảm
+40220104; Thần thú Bạch Trạch · Cấn
+40220105; Thần thú Bạch Trạch · Khôn
+40220106; Thần thú Bạch Trạch · Chấn
+40220107; Thần thú Bạch Trạch · Cách
+40220108; Thần thú Bạch Trạch · Đổi
+40220201; Thần điểu nặng minh · Càn
+40220202; Thần điểu nặng minh · Tốn
+40220203; Thần điểu nặng minh · Khảm
+40220204; Thần điểu nặng minh · Cấn
+40220205; Thần điểu nặng minh · Khôn
+40220206; Thần điểu nặng minh · Chấn
+40220207; Thần điểu nặng minh · Cách
+40220208; Thần điểu nặng minh · Đổi
+40220301; Thượng cổ Kỳ Lân · Càn
+40220302; Thượng cổ Kỳ Lân · Tốn
+40220303; Thượng cổ Kỳ Lân · Khảm
+40220304; Thượng cổ Kỳ Lân · Cấn
+40220305; Thượng cổ Kỳ Lân · Khôn
+40220306; Thượng cổ Kỳ Lân · Chấn
+40220307; Thượng cổ Kỳ Lân · Cách
+40220308; Thượng cổ Kỳ Lân · Đổi
+40300101; Dưỡng Hồn mộc
+40300201; Phàm phẩm Tiên Hồn đan dược
+40300202; Địa phẩm Tiên Hồn đan dược
+40300203; Thiên phẩm Tiên Hồn đan dược
+40400101; Sơ cấp Tiên Hồn bảo rương
+40400102; Trung cấp Tiên Hồn bảo rương
+40400103; Cao cấp Tiên Hồn bảo rương
+40400104; Cao cấp đan dược bảo rương
+40501001; Thư thần tuyệt âm đàn · Tự
+40501002; Thư thần tuyệt âm đàn · Tự
+40501003; Thư thần tuyệt âm đàn · Tự
+40501004; Thư thần tuyệt âm đàn · Tự
+40501005; Thư thần tuyệt âm đàn · Tự
+40502001; Thư thần tuyệt âm đàn · Thủ
+40502002; Thư thần tuyệt âm đàn · Thủ
+40502003; Thư thần tuyệt âm đàn · Thủ
+40502004; Thư thần tuyệt âm đàn · Thủ
+40502005; Thư thần tuyệt âm đàn · Thủ
+40503001; Thư thần tuyệt âm đàn · Mạt
+40503002; Thư thần tuyệt âm đàn · Mạt
+40503003; Thư thần tuyệt âm đàn · Mạt
+40503004; Thư thần tuyệt âm đàn · Mạt
+40503005; Thư thần tuyệt âm đàn · Mạt
+40504001; Thư thần tuyệt âm đàn · Bên trên
+40504002; Thư thần tuyệt âm đàn · Bên trên
+40504003; Thư thần tuyệt âm đàn · Bên trên
+40504004; Thư thần tuyệt âm đàn · Bên trên
+40504005; Thư thần tuyệt âm đàn · Bên trên
+40505001; Thư thần tuyệt âm đàn · Bên trong
+40505002; Thư thần tuyệt âm đàn · Bên trong
+40505003; Thư thần tuyệt âm đàn · Bên trong
+40505004; Thư thần tuyệt âm đàn · Bên trong
+40505005; Thư thần tuyệt âm đàn · Bên trong
+40506001; Thư thần tuyệt âm đàn · Hạ
+40506002; Thư thần tuyệt âm đàn · Hạ
+40506003; Thư thần tuyệt âm đàn · Hạ
+40506004; Thư thần tuyệt âm đàn · Hạ
+40506005; Thư thần tuyệt âm đàn · Hạ
+40601001; Liệt Dương ngự hỏa kiếm · Tự
+40601002; Liệt Dương ngự hỏa kiếm · Tự
+40601003; Liệt Dương ngự hỏa kiếm · Tự
+40601004; Liệt Dương ngự hỏa kiếm · Tự
+40601005; Liệt Dương ngự hỏa kiếm · Tự
+40602001; Liệt Dương ngự hỏa kiếm · Thủ
+40602002; Liệt Dương ngự hỏa kiếm · Thủ
+40602003; Liệt Dương ngự hỏa kiếm · Thủ
+40602004; Liệt Dương ngự hỏa kiếm · Thủ
+40602005; Liệt Dương ngự hỏa kiếm · Thủ
+40603001; Liệt Dương ngự hỏa kiếm · Mạt
+40603002; Liệt Dương ngự hỏa kiếm · Mạt
+40603003; Liệt Dương ngự hỏa kiếm · Mạt
+40603004; Liệt Dương ngự hỏa kiếm · Mạt
+40603005; Liệt Dương ngự hỏa kiếm · Mạt
+40604001; Liệt Dương ngự hỏa kiếm · Bên trên
+40604002; Liệt Dương ngự hỏa kiếm · Bên trên
+40604003; Liệt Dương ngự hỏa kiếm · Bên trên
+40604004; Liệt Dương ngự hỏa kiếm · Bên trên
+40604005; Liệt Dương ngự hỏa kiếm · Bên trên
+40605001; Liệt Dương ngự hỏa kiếm · Bên trong
+40605002; Liệt Dương ngự hỏa kiếm · Bên trong
+40605003; Liệt Dương ngự hỏa kiếm · Bên trong
+40605004; Liệt Dương ngự hỏa kiếm · Bên trong
+40605005; Liệt Dương ngự hỏa kiếm · Bên trong
+40606001; Liệt Dương ngự hỏa kiếm · Hạ
+40606002; Liệt Dương ngự hỏa kiếm · Hạ
+40606003; Liệt Dương ngự hỏa kiếm · Hạ
+40606004; Liệt Dương ngự hỏa kiếm · Hạ
+40606005; Liệt Dương ngự hỏa kiếm · Hạ
+40701001; Thiên Cương La Sát chùy · Tự
+40701002; Thiên Cương La Sát chùy · Tự
+40701003; Thiên Cương La Sát chùy · Tự
+40701004; Thiên Cương La Sát chùy · Tự
+40701005; Thiên Cương La Sát chùy · Tự
+40702001; Thiên Cương La Sát chùy · Thủ
+40702002; Thiên Cương La Sát chùy · Thủ
+40702003; Thiên Cương La Sát chùy · Thủ
+40702004; Thiên Cương La Sát chùy · Thủ
+40702005; Thiên Cương La Sát chùy · Thủ
+40703001; Thiên Cương La Sát chùy · Mạt
+40703002; Thiên Cương La Sát chùy · Mạt
+40703003; Thiên Cương La Sát chùy · Mạt
+40703004; Thiên Cương La Sát chùy · Mạt
+40703005; Thiên Cương La Sát chùy · Mạt
+40704001; Thiên Cương La Sát chùy · Bên trên
+40704002; Thiên Cương La Sát chùy · Bên trên
+40704003; Thiên Cương La Sát chùy · Bên trên
+40704004; Thiên Cương La Sát chùy · Bên trên
+40704005; Thiên Cương La Sát chùy · Bên trên
+40705001; Thiên Cương La Sát chùy · Bên trong
+40705002; Thiên Cương La Sát chùy · Bên trong
+40705003; Thiên Cương La Sát chùy · Bên trong
+40705004; Thiên Cương La Sát chùy · Bên trong
+40705005; Thiên Cương La Sát chùy · Bên trong
+40706001; Thiên Cương La Sát chùy · Hạ
+40706002; Thiên Cương La Sát chùy · Hạ
+40706003; Thiên Cương La Sát chùy · Hạ
+40706004; Thiên Cương La Sát chùy · Hạ
+40706005; Thiên Cương La Sát chùy · Hạ
+40801001; Xích Dương huyền vũ kiếm · Tự
+40801002; Xích Dương huyền vũ kiếm · Tự
+40801003; Xích Dương huyền vũ kiếm · Tự
+40801004; Xích Dương huyền vũ kiếm · Tự
+40801005; Xích Dương huyền vũ kiếm · Tự
+40802001; Xích Dương huyền vũ kiếm · Thủ
+40802002; Xích Dương huyền vũ kiếm · Thủ
+40802003; Xích Dương huyền vũ kiếm · Thủ
+40802004; Xích Dương huyền vũ kiếm · Thủ
+40802005; Xích Dương huyền vũ kiếm · Thủ
+40803001; Xích Dương huyền vũ kiếm · Mạt
+40803002; Xích Dương huyền vũ kiếm · Mạt
+40803003; Xích Dương huyền vũ kiếm · Mạt
+40803004; Xích Dương huyền vũ kiếm · Mạt
+40803005; Xích Dương huyền vũ kiếm · Mạt
+40804001; Xích Dương huyền vũ kiếm · Bên trên
+40804002; Xích Dương huyền vũ kiếm · Bên trên
+40804003; Xích Dương huyền vũ kiếm · Bên trên
+40804004; Xích Dương huyền vũ kiếm · Bên trên
+40804005; Xích Dương huyền vũ kiếm · Bên trên
+40805001; Xích Dương huyền vũ kiếm · Bên trong
+40805002; Xích Dương huyền vũ kiếm · Bên trong
+40805003; Xích Dương huyền vũ kiếm · Bên trong
+40805004; Xích Dương huyền vũ kiếm · Bên trong
+40805005; Xích Dương huyền vũ kiếm · Bên trong
+40806001; Xích Dương huyền vũ kiếm · Hạ
+40806002; Xích Dương huyền vũ kiếm · Hạ
+40806003; Xích Dương huyền vũ kiếm · Hạ
+40806004; Xích Dương huyền vũ kiếm · Hạ
+40806005; Xích Dương huyền vũ kiếm · Hạ
+50101001; Phàm phẩm · Trường sinh mệnh cách
+50101002; Phàm phẩm · Phá hư mệnh cách
+50101003; Phàm phẩm · Nhẫn nại mệnh cách
+50101004; Phàm phẩm · Mau lẹ mệnh cách
+50101005; Phàm phẩm · Kiếm Tôn mệnh cách
+50101006; Phàm phẩm · Man ngưu mệnh cách
+50101007; Phàm phẩm · Thần quy mệnh cách
+50101010; Nhân phẩm · Man ngưu mệnh cách
+50101011; Nhân phẩm · Thần quy mệnh cách
+50101012; Nhân phẩm · Trường sinh mệnh cách
+50101013; Nhân phẩm · Phá hư mệnh cách
+50101014; Nhân phẩm · Phản kích mệnh cách
+50101015; Nhân phẩm · Kiếm Tôn mệnh cách
+50101016; Nhân phẩm · Gai nhọn mệnh cách
+50101017; Nhân phẩm · Chống cự mệnh cách
+50101018; Nhân phẩm · Mau lẹ mệnh cách
+50101019; Nhân phẩm · Nhẫn nại mệnh cách
+50101020; Địa phẩm · Man ngưu mệnh cách
+50101021; Địa phẩm · Thần quy mệnh cách
+50101022; Địa phẩm · Trường sinh mệnh cách
+50101023; Địa phẩm · Phá hư mệnh cách
+50101024; Địa phẩm · Phản kích mệnh cách
+50101025; Địa phẩm · Kiếm Tôn mệnh cách
+50101026; Địa phẩm · Gai nhọn mệnh cách
+50101027; Địa phẩm · Chống cự mệnh cách
+50101028; Địa phẩm · Mau lẹ mệnh cách
+50101029; Địa phẩm · Nhẫn nại mệnh cách
+50101030; Thiên phẩm · Cương nghị mệnh cách
+50101031; Thiên phẩm · Man ngưu mệnh cách
+50101032; Thiên phẩm · Trường sinh mệnh cách
+50101033; Thiên phẩm · Phá hư mệnh cách
+50101034; Thiên phẩm · Kiếm Tôn mệnh cách
+50101035; Thiên phẩm · Cự lực mệnh cách
+50101036; Thiên phẩm · Trời ban mệnh cách
+50101037; Thiên phẩm · Gai nhọn mệnh cách
+50101038; Thiên phẩm · Nhẫn nại mệnh cách
+50101039; Thiên phẩm · Mau lẹ mệnh cách
+50101040; Tuyệt phẩm · Cương nghị mệnh cách
+50101041; Tuyệt phẩm · Man ngưu mệnh cách
+50101042; Tuyệt phẩm · Trường sinh mệnh cách
+50101043; Tuyệt phẩm · Phá hư mệnh cách
+50101044; Tuyệt phẩm · Kiếm Tôn mệnh cách
+50101045; Tuyệt phẩm · Cự lực mệnh cách
+50101046; Tuyệt phẩm · Trời ban mệnh cách
+50101047; Tuyệt phẩm · Gai nhọn mệnh cách
+50101048; Tuyệt phẩm · Nhẫn nại mệnh cách
+50101049; Tuyệt phẩm · Mau lẹ mệnh cách
+50101050; Sơ cấp kinh nghiệm mệnh cách
+50101051; Trung cấp kinh nghiệm mệnh cách
+50101052; Cao cấp kinh nghiệm mệnh cách
+50101053; Thần cấp kinh nghiệm mệnh cách
+50201001; Thú linh kết tinh
+1000001; Bách linh ngọc bội · Sơ
+1000002; Bách linh ngọc bội · Tinh
+1000003; Bách linh ngọc bội · Trác
+1000004; Bách linh ngọc bội · Thánh
+1000005; Bách linh túi thơm · Sơ
+1000006; Bách linh túi thơm · Tinh
+1000007; Bách linh túi thơm · Trác
+1000008; Bách linh túi thơm · Thánh
+1000009; Bách linh mặt dây chuyền · Sơ
+1000010; Bách linh mặt dây chuyền · Tinh
+1000011; Bách linh mặt dây chuyền · Trác
+1000012; Bách linh mặt dây chuyền · Thánh
+1000013; Bách linh thắt lưng gấm · Sơ
+1000014; Bách linh thắt lưng gấm · Tinh
+1000015; Bách linh thắt lưng gấm · Trác
+1000016; Bách linh thắt lưng gấm · Thánh
+1000017; Bách linh trâm gài tóc · Sơ
+1000018; Bách linh trâm gài tóc · Tinh
+1000019; Bách linh trâm gài tóc · Trác
+1000020; Bách linh trâm gài tóc · Thánh
+1000021; Bách linh tụ tiễn · Sơ
+1000022; Bách linh tụ tiễn · Tinh
+1000023; Bách linh tụ tiễn · Trác
+1000024; Bách linh tụ tiễn · Thánh
+1000025; Thần trì ngọc bội · Sơ
+1000026; Thần trì ngọc bội · Tinh
+1000027; Thần trì ngọc bội · Trác
+1000028; Thần trì ngọc bội · Thánh
+1000029; Thần trì túi thơm · Sơ
+1000030; Thần trì túi thơm · Tinh
+1000031; Thần trì túi thơm · Trác
+1000032; Thần trì túi thơm · Thánh
+1000033; Thần trì mặt dây chuyền · Sơ
+1000034; Thần trì mặt dây chuyền · Tinh
+1000035; Thần trì mặt dây chuyền · Trác
+1000036; Thần trì mặt dây chuyền · Thánh
+1000037; Thần trì thắt lưng gấm · Sơ
+1000038; Thần trì thắt lưng gấm · Tinh
+1000039; Thần trì thắt lưng gấm · Trác
+1000040; Thần trì thắt lưng gấm · Thánh
+1000041; Thần trì trâm gài tóc · Sơ
+1000042; Thần trì trâm gài tóc · Tinh
+1000043; Thần trì trâm gài tóc · Trác
+1000044; Thần trì trâm gài tóc · Thánh
+1000045; Thần trì tụ tiễn · Sơ
+1000046; Thần trì tụ tiễn · Tinh
+1000047; Thần trì tụ tiễn · Trác
+1000048; Thần trì tụ tiễn · Thánh
+1000049; Tiên Du ngọc bội · Sơ
+1000050; Tiên Du ngọc bội · Tinh
+1000051; Tiên Du ngọc bội · Trác
+1000052; Tiên Du ngọc bội · Thánh
+1000053; Tiên Du túi thơm · Sơ
+1000054; Tiên Du túi thơm · Tinh
+1000055; Tiên Du túi thơm · Trác
+1000056; Tiên Du túi thơm · Thánh
+1000057; Tiên Du mặt dây chuyền · Sơ
+1000058; Tiên Du mặt dây chuyền · Tinh
+1000059; Tiên Du mặt dây chuyền · Trác
+1000060; Tiên Du mặt dây chuyền · Thánh
+1000061; Tiên Du thắt lưng gấm · Sơ
+1000062; Tiên Du thắt lưng gấm · Tinh
+1000063; Tiên Du thắt lưng gấm · Trác
+1000064; Tiên Du thắt lưng gấm · Thánh
+1000065; Tiên Du trâm gài tóc · Sơ
+1000066; Tiên Du trâm gài tóc · Tinh
+1000067; Tiên Du trâm gài tóc · Trác
+1000068; Tiên Du trâm gài tóc · Thánh
+1000069; Tiên Du tụ tiễn · Sơ
+1000070; Tiên Du tụ tiễn · Tinh
+1000071; Tiên Du tụ tiễn · Trác
+1000072; Tiên Du tụ tiễn · Thánh
+1000073; Phách ngọc bội · Sơ
+1000074; Phách ngọc bội · Tinh
+1000075; Phách ngọc bội · Trác
+1000076; Phách ngọc bội · Thánh
+1000077; Phách túi thơm · Sơ
+1000078; Phách túi thơm · Tinh
+1000079; Phách túi thơm · Trác
+1000080; Phách túi thơm · Thánh
+1000081; Phách mặt dây chuyền · Sơ
+1000082; Phách mặt dây chuyền · Tinh
+1000083; Phách mặt dây chuyền · Trác
+1000084; Phách mặt dây chuyền · Thánh
+1000085; Phách thắt lưng gấm · Sơ
+1000086; Phách thắt lưng gấm · Tinh
+1000087; Phách thắt lưng gấm · Trác
+1000088; Phách thắt lưng gấm · Thánh
+1000089; Phách trâm gài tóc · Sơ
+1000090; Phách trâm gài tóc · Tinh
+1000091; Phách trâm gài tóc · Trác
+1000092; Phách trâm gài tóc · Thánh
+1000093; Phách tụ tiễn · Sơ
+1000094; Phách tụ tiễn · Tinh
+1000095; Phách tụ tiễn · Trác
+1000096; Phách tụ tiễn · Thánh
+1000097; Thiên Hồn ngọc bội · Sơ
+1000098; Thiên Hồn ngọc bội · Tinh
+1000099; Thiên Hồn ngọc bội · Trác
+1000100; Thiên Hồn ngọc bội · Thánh
+1000101; Thiên Hồn túi thơm · Sơ
+1000102; Thiên Hồn túi thơm · Tinh
+1000103; Thiên Hồn túi thơm · Trác
+1000104; Thiên Hồn túi thơm · Thánh
+1000105; Thiên Hồn mặt dây chuyền · Sơ
+1000106; Thiên Hồn mặt dây chuyền · Tinh
+1000107; Thiên Hồn mặt dây chuyền · Trác
+1000108; Thiên Hồn mặt dây chuyền · Thánh
+1000109; Thiên Hồn thắt lưng gấm · Sơ
+1000110; Thiên Hồn thắt lưng gấm · Tinh
+1000111; Thiên Hồn thắt lưng gấm · Trác
+1000112; Thiên Hồn thắt lưng gấm · Thánh
+1000113; Thiên Hồn trâm gài tóc · Sơ
+1000114; Thiên Hồn trâm gài tóc · Tinh
+1000115; Thiên Hồn trâm gài tóc · Trác
+1000116; Thiên Hồn trâm gài tóc · Thánh
+1000117; Thiên Hồn tụ tiễn · Sơ
+1000118; Thiên Hồn tụ tiễn · Tinh
+1000119; Thiên Hồn tụ tiễn · Trác
+1000120; Thiên Hồn tụ tiễn · Thánh
+1001001; Ảo mộng linh châu
+1001002; Trời đúc thần hỏa
