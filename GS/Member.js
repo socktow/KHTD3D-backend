@@ -2,13 +2,12 @@ const express = require("express");
 const router = express.Router();
 const { query } = require("../Services/MySQLService");
 
-router.get("/charlist", async (req, res) => {
+router.get("/", async (req, res) => {
   try {
     const rows = await query("SELECT ID, NAME FROM snapshot");
-
     const formattedRows = rows.map((row) => ({
-      id: row.ID,      
-      name: row.NAME, 
+      id: row.ID,
+      name: row.NAME,
     }));
 
     res.json({ charlist: formattedRows });

@@ -1,4 +1,3 @@
-const express = require("express");
 const admingiftcodeRouters = require("../Router/Admin/GiftCode");
 const articlesRouters = require("../Router/Admin/BaiViet");
 const uploadRouters = require("../Router/Admin/Upload");

@@ -1,5 +1,6 @@
-const mysql = require("serverless-mysql");
+const mysql = require("mysql2/promise");  // Sử dụng mysql2 với promise
 require("dotenv").config();
+
 const dbConfig = (() => {
   const url = new URL(process.env.MYSQLURL);
   return {
@@ -11,23 +12,29 @@ const dbConfig = (() => {
   };
 })();
 
+async function createConnection() {
+  try {
+    const connection = await mysql.createConnection(dbConfig);
+    console.log("Connected to MySQL");
+    return connection;
+  } catch (err) {
+    console.error("Error connecting to MySQL:", err);
+    throw err;
+  }
+}
 
-const db = mysql({
-  config: {
-    ...dbConfig,
-    connectTimeout: 10000, 
-    multipleStatements: true,
-  },
-});
 async function query(sql, params) {
+  const connection = await createConnection();
   try {
     console.time("charlistQuery");
-    const results = await db.query(sql, params);
+    const [results] = await connection.execute(sql, params);
     console.timeEnd("charlistQuery", results);
     return results;
   } catch (err) {
     console.error("MySQL Query Error:", err);
     throw err;
+  } finally {
+    await connection.end();  // Đảm bảo kết nối được đóng sau khi sử dụng
   }
 }
 

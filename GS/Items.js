@@ -4,7 +4,7 @@ const path = require("path");
 const router = express.Router();
 const filePath = path.join(__dirname, "../GS/items/item.txt");
 
-router.get("/items", async (req, res) => {
+router.get("/", async (req, res) => {
   try {
     const fileData = fs.readFileSync(filePath, "utf-8");
     const items = fileData

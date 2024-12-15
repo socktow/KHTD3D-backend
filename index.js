@@ -1,6 +1,5 @@
-require("dotenv").config();
 const express = require("express");
-const connectToMongoDB = require("./Services/MongoService"); 
+const connectToMongoDB = require("./Services/MongoService");
 const setupMiddleware = require("./Settings/SetupMiddlleware");
 const userRoutes = require("./Routes/userRoutes");
 const gameRoutes = require("./Routes/gameRoutes");
@@ -12,16 +11,20 @@ const PORT = process.env.PORT || 4000;
 const MONGO_URI = process.env.MONGO_URI;
 
 setupMiddleware(app);
-// Client Services
+
+// Chỉ kết nối MongoDB khi có userRoutes hoặc applyAdminMiddleware
+if (userRoutes.length > 0 || applyAdminMiddleware) {
+  console.log('Connecting to MongoDB...');
+  connectToMongoDB(MONGO_URI);
+}
+
+// Client Services (User & Admin Routes)
 userRoutes.forEach(({ path, router }) => {
   app.use(path, router);
 });
 applyAdminMiddleware(app);
 
-if (userRoutes || applyAdminMiddleware) {
-  connectToMongoDB(MONGO_URI);
-}
-// Game Services
+// Game Services (Game Routes sử dụng MySQL, không cần MongoDB)
 gameRoutes.forEach(({ path, router }) => {
   app.use(path, router);
 });
