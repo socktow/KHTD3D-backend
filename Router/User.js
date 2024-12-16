@@ -95,4 +95,31 @@ router.patch("/profile", fetchUser, async (req, res) => {
   }
 });
 
+router.patch("/profile/gameId", fetchUser, async (req, res) => {
+  try {
+    const { gameId } = req.body;
+    const user = await User.findById(req.user.id);
+
+    if (!user) {
+      return res.status(404).json({ message: "User not found" });
+    }
+
+    if (!gameId || typeof gameId !== "string" || !gameId.trim()) {
+      return res.status(400).json({ message: "Invalid GameID provided" });
+    }
+
+    user.gameId = gameId.trim();
+    await user.save();
+
+    res.json({
+      message: "GameID updated successfully",
+      gameId: user.gameId,
+    });
+  } catch (error) {
+    console.error("Error updating GameID:", error);
+    res.status(500).json({ success: false, error: "Server error" });
+  }
+});
+
+
 module.exports = router;
