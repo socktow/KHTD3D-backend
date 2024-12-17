@@ -2,8 +2,8 @@ const itemsRouter = require("../GS/Items");
 const MemberRouter = require("../GS/Member")
 
 const gameRoutes = [
-    { path: "/game/items", router: itemsRouter },
-    { path: "/game/member", router: MemberRouter }
+    { path: "/game", router: itemsRouter },
+    { path: "/game", router: MemberRouter }
 ];
 
 module.exports = gameRoutes;
