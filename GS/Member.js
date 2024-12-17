@@ -4,7 +4,7 @@ const router = express.Router();
 require("dotenv").config();
 const GAMESERVICEURL = process.env.GAMESERVICEURL;
 const Gameid = require("../Schema/GameidSchema");
-
+const fetchUser = require("../Settings/FetchUser");
 router.get("/member", async (req, res) => {
   try {
     if (!GAMESERVICEURL) {
@@ -42,14 +42,12 @@ router.get("/member/:id", async (req, res) => {
   }
 });
 
-
-router.post("/member/gameid", async (req, res) => {
+router.post("/member/gameid",fetchUser, async (req, res) => {
   const { Account, GameID, Character } = req.body;
-
   try {
     if (!Account || !GameID || !Character) {
       return res.status(400).json({
-        message: "All fields (Account, GameID, Character) are required",
+        message: "All fields (Account, gameId, Character) are required",
       });
     }
     const existingGameid = await Gameid.findOne({ GameID });
@@ -65,7 +63,7 @@ router.post("/member/gameid", async (req, res) => {
     });
     await newGameid.save();
     res.status(201).json({
-      message: "GameID created successfully",
+      message: "GameID Liên Kết Thành Công",
       gameId: newGameid,
     });
   } catch (error) {
@@ -74,7 +72,7 @@ router.post("/member/gameid", async (req, res) => {
   }
 });
 
-router.get("/member/gameid/:gameId", async (req, res) => {
+router.get("/member/gameid/:gameId",fetchUser, async (req, res) => {
   const { gameId } = req.params;
 
   try {
@@ -95,26 +93,24 @@ router.get("/member/gameid/:gameId", async (req, res) => {
   }
 });
 
-router.patch("/member/gameid/:id", async (req, res) => {
-  const gameIdParam = req.params.id;
-  const { Account, GameID, Character } = req.body;
-
-  try {
-    const gameid = await Gameid.findOne({ GameID: gameIdParam });
-    if (!gameid) {
-      return res.status(404).json({ message: "GameID not found" });
+router.get("/member/account/:account", fetchUser, async (req, res) => {
+    const { account } = req.params;
+    try {
+      const userAccount = await Gameid.findOne({ Account: account });
+  
+      if (userAccount) {
+        return res.status(200).json({
+          data: userAccount,
+        });
+      } else {
+        return res.status(404).json({
+          message: "Tài khoản không tồn tại",
+        });
+      }
+    } catch (error) {
+      console.error("Error fetching account:", error);
+      res.status(500).json({ success: false, error: "Server error" });
     }
-    if (Account) gameid.Account = Account;
-    if (Character) gameid.Character = Character;
-    await gameid.save();
-    res.json({
-      message: "GameID updated successfully",
-      gameId: gameid,
-    });
-  } catch (error) {
-    console.error("Error updating GameID:", error);
-    res.status(500).json({ success: false, error: "Server error" });
-  }
-});
-
+  });
+  
 module.exports = router;
