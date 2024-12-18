@@ -1,18 +1,6 @@
 const mongoose = require("mongoose");
 const Counter = require("./CounterSchema");
 
-const CartItemSchema = new mongoose.Schema({
-  productId: {
-    type: mongoose.Schema.Types.Number,
-    required: true,
-  },
-  quantity: {
-    type: Number,
-    required: true,
-    min: 1,
-  },
-});
-
 const UserSchema = new mongoose.Schema({
   userid: {
     type: Number,
@@ -25,13 +13,13 @@ const UserSchema = new mongoose.Schema({
     type: String,
     unique: true,
   },
+  gameid:{
+    type: Number,
+    default: null,
+  },
   password: {
     type: String,
     required: true,
-  },
-  gameId: {
-    type: Number,
-    default: 0,
   },
   Cash: {
     type: Number,
@@ -40,10 +28,6 @@ const UserSchema = new mongoose.Schema({
   CashFree: {
     type: Number,
     default: 0,
-  },
-  CartData: {
-    type: [CartItemSchema],
-    default: [],
   },
   MocNap: {
     type: Number,
@@ -57,10 +41,6 @@ const UserSchema = new mongoose.Schema({
   TokenVersion: {
     type: Number,
     default: 0
-  },
-  Date: {
-    type: Date,
-    default: Date.now,
   },
 });
 
